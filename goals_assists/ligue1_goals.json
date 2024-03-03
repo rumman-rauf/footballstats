@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Kylian Mbapp\u00e9",
+    "club": "Paris Saint-Germain",
+    "amount": "33",
+    "nation": "France",
+    "flag": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/23px-Flag_of_France.svg.png"
+  },
+  {
+    "name": "Nicolas P\u00e9p\u00e9",
+    "club": "Lille",
+    "amount": "22",
+    "nation": "Ivory Coast",
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_C%C3%B4te_d%27Ivoire.svg/23px-Flag_of_C%C3%B4te_d%27Ivoire.svg.png"
+  },
+  {
+    "name": "Edinson Cavani",
+    "club": "Paris Saint-Germain",
+    "amount": "18",
+    "nation": "Uruguay",
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Uruguay.svg/23px-Flag_of_Uruguay.svg.png"
+  },
+  {
+    "name": "Florian Thauvin",
+    "club": "Marseille",
+    "amount": "16",
+    "nation": "France",
+    "flag": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/23px-Flag_of_France.svg.png"
+  },
+  {
+    "name": "Moussa Demb\u00e9l\u00e9",
+    "club": "Lyon",
+    "amount": "15",
+    "nation": "France",
+    "flag": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/23px-Flag_of_France.svg.png"
+  },
+  {
+    "name": "Radamel Falcao",
+    "club": "Monaco",
+    "amount": 15,
+    "nation": "Colombia",
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Colombia.svg/23px-Flag_of_Colombia.svg.png"
+  },
+  {
+    "name": "Neymar",
+    "club": "Paris Saint-Germain",
+    "amount": 15,
+    "nation": "Brazil",
+    "flag": "https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/22px-Flag_of_Brazil.svg.png"
+  },
+  {
+    "name": "Andy Delort",
+    "club": "Montpellier",
+    "amount": "14",
+    "nation": "Algeria",
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Algeria.svg/23px-Flag_of_Algeria.svg.png"
+  },
+  {
+    "name": "Jonathan Bamba",
+    "club": "Lille",
+    "amount": "13",
+    "nation": "France",
+    "flag": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/23px-Flag_of_France.svg.png"
+  },
+  {
+    "name": "Wahbi Khazri",
+    "club": "Saint-\u00c9tienne",
+    "amount": 13,
+    "nation": "Tunisia",
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Tunisia.svg/23px-Flag_of_Tunisia.svg.png"
+  }
+]

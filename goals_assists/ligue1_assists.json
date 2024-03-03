@@ -1,0 +1,72 @@
+[
+  {
+    "name": "T\u00e9ji Savanier",
+    "club": "N\u00eemes",
+    "amount": "13",
+    "nation": "France",
+    "flag": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/23px-Flag_of_France.svg.png"
+  },
+  {
+    "name": "\u00c1ngel Di Mar\u00eda",
+    "club": "Paris Saint-Germain",
+    "amount": "11",
+    "nation": "Argentina",
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/23px-Flag_of_Argentina.svg.png"
+  },
+  {
+    "name": "Nicolas P\u00e9p\u00e9",
+    "club": "Lille",
+    "amount": 11,
+    "nation": "Ivory Coast",
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_C%C3%B4te_d%27Ivoire.svg/23px-Flag_of_C%C3%B4te_d%27Ivoire.svg.png"
+  },
+  {
+    "name": "Memphis Depay",
+    "club": "Lyon",
+    "amount": "9",
+    "nation": "Netherlands",
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/23px-Flag_of_the_Netherlands.svg.png"
+  },
+  {
+    "name": "Jonathan Ikon\u00e9",
+    "club": "Lille",
+    "amount": 9,
+    "nation": "France",
+    "flag": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/23px-Flag_of_France.svg.png"
+  },
+  {
+    "name": "Kenny Lala",
+    "club": "Strasbourg",
+    "amount": 9,
+    "nation": "France",
+    "flag": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/23px-Flag_of_France.svg.png"
+  },
+  {
+    "name": "Julian Draxler",
+    "club": "Paris Saint-Germain",
+    "amount": "8",
+    "nation": "Germany",
+    "flag": "https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png"
+  },
+  {
+    "name": "Lucas Ocampos",
+    "club": "Marseille",
+    "amount": 8,
+    "nation": "Argentina",
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/23px-Flag_of_Argentina.svg.png"
+  },
+  {
+    "name": "Pedro Rebocho",
+    "club": "Guingamp",
+    "amount": 8,
+    "nation": "Portugal",
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/23px-Flag_of_Portugal.svg.png"
+  },
+  {
+    "name": "Florian Thauvin",
+    "club": "Marseille",
+    "amount": 8,
+    "nation": "France",
+    "flag": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/23px-Flag_of_France.svg.png"
+  }
+]

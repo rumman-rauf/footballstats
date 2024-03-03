@@ -1,0 +1,79 @@
+[
+  {
+    "name": "Fabio Quagliarella",
+    "club": "Sampdoria",
+    "amount": "26",
+    "nation": "Italy",
+    "flag": "https://upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png"
+  },
+  {
+    "name": "Duv\u00e1n Zapata",
+    "club": "Atalanta",
+    "amount": "23",
+    "nation": "Colombia",
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Colombia.svg/23px-Flag_of_Colombia.svg.png"
+  },
+  {
+    "name": "Krzysztof Pi\u0105tek",
+    "club": "Genoa/Milan1",
+    "amount": "22",
+    "nation": "Poland",
+    "flag": "https://upload.wikimedia.org/wikipedia/en/thumb/1/12/Flag_of_Poland.svg/23px-Flag_of_Poland.svg.png"
+  },
+  {
+    "name": "Cristiano Ronaldo",
+    "club": "Juventus",
+    "amount": "21",
+    "nation": "Portugal",
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/23px-Flag_of_Portugal.svg.png"
+  },
+  {
+    "name": "Arkadiusz Milik",
+    "club": "Napoli",
+    "amount": "17",
+    "nation": "Poland",
+    "flag": "https://upload.wikimedia.org/wikipedia/en/thumb/1/12/Flag_of_Poland.svg/23px-Flag_of_Poland.svg.png"
+  },
+  {
+    "name": "Francesco Caputo",
+    "club": "Empoli",
+    "amount": "16",
+    "nation": "Italy",
+    "flag": "https://upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png"
+  },
+  {
+    "name": "Dries Mertens",
+    "club": "Napoli",
+    "amount": 16,
+    "nation": "Belgium",
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Belgium_%28civil%29.svg/23px-Flag_of_Belgium_%28civil%29.svg.png"
+  },
+  {
+    "name": "Leonardo Pavoletti",
+    "club": "Cagliari",
+    "amount": 16,
+    "nation": "Italy",
+    "flag": "https://upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png"
+  },
+  {
+    "name": "Andrea Petagna",
+    "club": "SPAL",
+    "amount": 16,
+    "nation": "Italy",
+    "flag": "https://upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png"
+  },
+  {
+    "name": "Andrea Belotti",
+    "club": "Torino",
+    "amount": "15",
+    "nation": "Italy",
+    "flag": "https://upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png"
+  },
+  {
+    "name": "Ciro Immobile",
+    "club": "Lazio",
+    "amount": 15,
+    "nation": "Italy",
+    "flag": "https://upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png"
+  }
+]

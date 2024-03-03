@@ -1,0 +1,107 @@
+[
+  {
+    "name": "Eden Hazard",
+    "club": "Chelsea",
+    "amount": "15",
+    "nation": "Belgium",
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Belgium_%28civil%29.svg/23px-Flag_of_Belgium_%28civil%29.svg.png"
+  },
+  {
+    "name": "Ryan Fraser",
+    "club": "Bournemouth",
+    "amount": "14",
+    "nation": "Scotland",
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Flag_of_Scotland.svg/23px-Flag_of_Scotland.svg.png"
+  },
+  {
+    "name": "Trent Alexander-Arnold",
+    "club": "Liverpool",
+    "amount": "12",
+    "nation": "England",
+    "flag": "https://upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/23px-Flag_of_England.svg.png"
+  },
+  {
+    "name": "Christian Eriksen",
+    "club": "Tottenham Hotspur",
+    "amount": 12,
+    "nation": "Denmark",
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Denmark.svg/20px-Flag_of_Denmark.svg.png"
+  },
+  {
+    "name": "Andrew Robertson",
+    "club": "Liverpool",
+    "amount": "11",
+    "nation": "Scotland",
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Flag_of_Scotland.svg/23px-Flag_of_Scotland.svg.png"
+  },
+  {
+    "name": "Leroy San\u00e9",
+    "club": "Manchester City",
+    "amount": "10",
+    "nation": "Germany",
+    "flag": "https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png"
+  },
+  {
+    "name": "Raheem Sterling",
+    "club": "Manchester City",
+    "amount": 10,
+    "nation": "England",
+    "flag": "https://upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/23px-Flag_of_England.svg.png"
+  },
+  {
+    "name": "Paul Pogba",
+    "club": "Manchester United",
+    "amount": "9",
+    "nation": "France",
+    "flag": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/23px-Flag_of_France.svg.png"
+  },
+  {
+    "name": "Callum Wilson",
+    "club": "Bournemouth",
+    "amount": 9,
+    "nation": "England",
+    "flag": "https://upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/23px-Flag_of_England.svg.png"
+  },
+  {
+    "name": "Sergio Ag\u00fcero",
+    "club": "Manchester City",
+    "amount": "8",
+    "nation": "Argentina",
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/23px-Flag_of_Argentina.svg.png"
+  },
+  {
+    "name": "Alexandre Lacazette",
+    "club": "Arsenal",
+    "amount": 8,
+    "nation": "France",
+    "flag": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/23px-Flag_of_France.svg.png"
+  },
+  {
+    "name": "Jo\u00e3o Moutinho",
+    "club": "Wolverhampton Wanderers",
+    "amount": 8,
+    "nation": "Portugal",
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/23px-Flag_of_Portugal.svg.png"
+  },
+  {
+    "name": "Matt Ritchie",
+    "club": "Newcastle United",
+    "amount": 8,
+    "nation": "Scotland",
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Flag_of_Scotland.svg/23px-Flag_of_Scotland.svg.png"
+  },
+  {
+    "name": "Mohamed Salah",
+    "club": "Liverpool",
+    "amount": 8,
+    "nation": "Egypt",
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Egypt.svg/23px-Flag_of_Egypt.svg.png"
+  },
+  {
+    "name": "David Silva",
+    "club": "Manchester City",
+    "amount": 8,
+    "nation": "Spain",
+    "flag": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/23px-Flag_of_Spain.svg.png"
+  }
+]

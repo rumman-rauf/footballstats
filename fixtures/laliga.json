@@ -1,0 +1,3042 @@
+[
+  {
+    "Matchday": 1,
+    "Date": "08/18/2018 4:15",
+    "Location": "Estadio Municipal de Montilivi",
+    "Home": "Girona FC",
+    "Away": "R. Valladolid CF",
+    "Result": "0 - 0"
+  },
+  {
+    "Matchday": 1,
+    "Date": "08/18/2018 6:15",
+    "Location": "Estadio Benito Villamar\u00c3\u00adn",
+    "Home": "Real Betis",
+    "Away": "Levante UD",
+    "Result": "0 - 3"
+  },
+  {
+    "Matchday": 1,
+    "Date": "08/19/2018 2:15",
+    "Location": "Estadio Abanca Bala\u00c3\u00addos",
+    "Home": "RC Celta",
+    "Away": "RCD Espanyol",
+    "Result": "1 - 1"
+  },
+  {
+    "Matchday": 1,
+    "Date": "08/19/2018 4:15",
+    "Location": "Estadio de la Cer\u00c3\u00a1mica",
+    "Home": "Villarreal CF",
+    "Away": "Real Sociedad",
+    "Result": "1 - 2"
+  },
+  {
+    "Matchday": 1,
+    "Date": "08/19/2018 6:15",
+    "Location": "Camp Nou",
+    "Home": "FC Barcelona",
+    "Away": "D. Alav\u00c3\u00a9s",
+    "Result": "3 - 0"
+  },
+  {
+    "Matchday": 1,
+    "Date": "08/20/2018 2:15",
+    "Location": "Municipal de Ipurua",
+    "Home": "SD Eibar",
+    "Away": "SD Huesca",
+    "Result": "1 - 2"
+  },
+  {
+    "Matchday": 1,
+    "Date": "08/20/2018 4:15",
+    "Location": "Estadio de Vallecas",
+    "Home": "Rayo Vallecano",
+    "Away": "Sevilla FC",
+    "Result": "1 - 4"
+  },
+  {
+    "Matchday": 1,
+    "Date": "08/20/2018 6:15",
+    "Location": "Estadio Santiago Bernab\u00c3\u00a9u",
+    "Home": "Real Madrid",
+    "Away": "Getafe CF",
+    "Result": "2 - 0"
+  },
+  {
+    "Matchday": 1,
+    "Date": "08/21/2018 4:00",
+    "Location": "Estadio de Mestalla",
+    "Home": "Valencia CF",
+    "Away": "Atl\u00c3\u00a9tico de Madrid",
+    "Result": "1 - 1"
+  },
+  {
+    "Matchday": 1,
+    "Date": "08/21/2018 6:00",
+    "Location": "Estadio San Mam\u00c3\u00a9s",
+    "Home": "Athletic Club",
+    "Away": "CD Legan\u00c3\u00a9s",
+    "Result": "2 - 1"
+  },
+  {
+    "Matchday": 2,
+    "Date": "08/25/2018 4:15",
+    "Location": "Coliseum Alfonso P\u00c3\u00a9rez",
+    "Home": "Getafe CF",
+    "Away": "SD Eibar",
+    "Result": "2 - 0"
+  },
+  {
+    "Matchday": 2,
+    "Date": "08/25/2018 6:15",
+    "Location": "Estadio Municipal Butarque",
+    "Home": "CD Legan\u00c3\u00a9s",
+    "Away": "Real Sociedad",
+    "Result": "2 - 2"
+  },
+  {
+    "Matchday": 2,
+    "Date": "08/26/2018 2:15",
+    "Location": "Mendizorroza",
+    "Home": "D. Alav\u00c3\u00a9s",
+    "Away": "Real Betis",
+    "Result": "0 - 0"
+  },
+  {
+    "Matchday": 2,
+    "Date": "08/26/2018 4:15",
+    "Location": "Wanda Metropolitano",
+    "Home": "Atl\u00c3\u00a9tico de Madrid",
+    "Away": "Rayo Vallecano",
+    "Result": "1 - 0"
+  },
+  {
+    "Matchday": 2,
+    "Date": "08/26/2018 6:15",
+    "Location": "Estadio Municipal Jos\u00c3\u00a9 Zorrilla",
+    "Home": "R. Valladolid CF",
+    "Away": "FC Barcelona",
+    "Result": "0 - 1"
+  },
+  {
+    "Matchday": 2,
+    "Date": "08/27/2018 2:15",
+    "Location": "RCDE Stadium",
+    "Home": "RCD Espanyol",
+    "Away": "Valencia CF",
+    "Result": "2 - 0"
+  },
+  {
+    "Matchday": 2,
+    "Date": "08/27/2018 6:15",
+    "Location": "Ram\u00c3\u00b3n S\u00c3\u00a1nchez-Pizju\u00c3\u00a1n",
+    "Home": "Sevilla FC",
+    "Away": "Villarreal CF",
+    "Result": "0 - 0"
+  },
+  {
+    "Matchday": 2,
+    "Date": "08/27/2018 6:15",
+    "Location": "Estadio Municipal de Montilivi",
+    "Home": "Girona FC",
+    "Away": "Real Madrid",
+    "Result": "1 - 4"
+  },
+  {
+    "Matchday": 2,
+    "Date": "08/28/2018 4:15",
+    "Location": "Estadio Ciutat de Val\u00c3\u00a8ncia",
+    "Home": "Levante UD",
+    "Away": "RC Celta",
+    "Result": "1 - 2"
+  },
+  {
+    "Matchday": 2,
+    "Date": "08/28/2018 6:00",
+    "Location": "Estadio San Mam\u00c3\u00a9s",
+    "Home": "Athletic Club",
+    "Away": "SD Huesca",
+    "Result": "2 - 2"
+  },
+  {
+    "Matchday": 3,
+    "Date": "09/01/2018 4:00",
+    "Location": "Coliseum Alfonso P\u00c3\u00a9rez",
+    "Home": "Getafe CF",
+    "Away": "R. Valladolid CF",
+    "Result": "0 - 0"
+  },
+  {
+    "Matchday": 3,
+    "Date": "09/01/2018 6:00",
+    "Location": "Municipal de Ipurua",
+    "Home": "SD Eibar",
+    "Away": "Real Sociedad",
+    "Result": "2 - 1"
+  },
+  {
+    "Matchday": 3,
+    "Date": "09/01/2018 6:00",
+    "Location": "Estadio de la Cer\u00c3\u00a1mica",
+    "Home": "Villarreal CF",
+    "Away": "Girona FC",
+    "Result": "0 - 1"
+  },
+  {
+    "Matchday": 3,
+    "Date": "09/02/2018 2:30",
+    "Location": "Estadio Abanca Bala\u00c3\u00addos",
+    "Home": "RC Celta",
+    "Away": "Atl\u00c3\u00a9tico de Madrid",
+    "Result": "2 - 0"
+  },
+  {
+    "Matchday": 3,
+    "Date": "09/02/2018 4:45",
+    "Location": "Estadio Santiago Bernab\u00c3\u00a9u",
+    "Home": "Real Madrid",
+    "Away": "CD Legan\u00c3\u00a9s",
+    "Result": "4 - 1"
+  },
+  {
+    "Matchday": 3,
+    "Date": "09/02/2018 0:00",
+    "Location": "Estadio Ciutat de Val\u00c3\u00a8ncia",
+    "Home": "Levante UD",
+    "Away": "Valencia CF",
+    "Result": "2 - 2"
+  },
+  {
+    "Matchday": 3,
+    "Date": "09/03/2018 0:15",
+    "Location": "Mendizorroza",
+    "Home": "D. Alav\u00c3\u00a9s",
+    "Away": "RCD Espanyol",
+    "Result": "2 - 1"
+  },
+  {
+    "Matchday": 3,
+    "Date": "09/03/2018 2:30",
+    "Location": "Camp Nou",
+    "Home": "FC Barcelona",
+    "Away": "SD Huesca",
+    "Result": "8 - 2"
+  },
+  {
+    "Matchday": 3,
+    "Date": "09/03/2018 4:45",
+    "Location": "Estadio Benito Villamar\u00c3\u00adn",
+    "Home": "Real Betis",
+    "Away": "Sevilla FC",
+    "Result": "1 - 0"
+  },
+  {
+    "Matchday": 4,
+    "Date": "09/15/2018 5:00",
+    "Location": "El Alcoraz",
+    "Home": "SD Huesca",
+    "Away": "Rayo Vallecano",
+    "Result": "0 - 1"
+  },
+  {
+    "Matchday": 4,
+    "Date": "09/15/2018 1:00",
+    "Location": "Wanda Metropolitano",
+    "Home": "Atl\u00c3\u00a9tico de Madrid",
+    "Away": "SD Eibar",
+    "Result": "1 - 1"
+  },
+  {
+    "Matchday": 4,
+    "Date": "09/16/2018 0:15",
+    "Location": "Estadio de Anoeta",
+    "Home": "Real Sociedad",
+    "Away": "FC Barcelona",
+    "Result": "1 - 2"
+  },
+  {
+    "Matchday": 4,
+    "Date": "09/16/2018 2:30",
+    "Location": "Estadio de Mestalla",
+    "Home": "Valencia CF",
+    "Away": "Real Betis",
+    "Result": "0 - 0"
+  },
+  {
+    "Matchday": 4,
+    "Date": "09/16/2018 4:45",
+    "Location": "Estadio San Mam\u00c3\u00a9s",
+    "Home": "Athletic Club",
+    "Away": "Real Madrid",
+    "Result": "1 - 1"
+  },
+  {
+    "Matchday": 4,
+    "Date": "09/16/2018 0:00",
+    "Location": "Estadio Municipal Butarque",
+    "Home": "CD Legan\u00c3\u00a9s",
+    "Away": "Villarreal CF",
+    "Result": "0 - 1"
+  },
+  {
+    "Matchday": 4,
+    "Date": "09/17/2018 0:15",
+    "Location": "RCDE Stadium",
+    "Home": "RCD Espanyol",
+    "Away": "Levante UD",
+    "Result": "1 - 0"
+  },
+  {
+    "Matchday": 4,
+    "Date": "09/17/2018 2:30",
+    "Location": "Estadio Municipal Jos\u00c3\u00a9 Zorrilla",
+    "Home": "R. Valladolid CF",
+    "Away": "D. Alav\u00c3\u00a9s",
+    "Result": "0 - 1"
+  },
+  {
+    "Matchday": 4,
+    "Date": "09/17/2018 4:45",
+    "Location": "Ram\u00c3\u00b3n S\u00c3\u00a1nchez-Pizju\u00c3\u00a1n",
+    "Home": "Sevilla FC",
+    "Away": "Getafe CF",
+    "Result": "0 - 2"
+  },
+  {
+    "Matchday": 4,
+    "Date": "09/18/2018 5:00",
+    "Location": "Estadio Municipal de Montilivi",
+    "Home": "Girona FC",
+    "Away": "RC Celta",
+    "Result": "3 - 2"
+  },
+  {
+    "Matchday": 5,
+    "Date": "09/22/2018 5:00",
+    "Location": "El Alcoraz",
+    "Home": "SD Huesca",
+    "Away": "Real Sociedad",
+    "Result": "0 - 1"
+  },
+  {
+    "Matchday": 5,
+    "Date": "09/22/2018 1:00",
+    "Location": "Estadio de Vallecas",
+    "Home": "Rayo Vallecano",
+    "Away": "D. Alav\u00c3\u00a9s",
+    "Result": "1 - 5"
+  },
+  {
+    "Matchday": 5,
+    "Date": "09/23/2018 0:15",
+    "Location": "Estadio Abanca Bala\u00c3\u00addos",
+    "Home": "RC Celta",
+    "Away": "R. Valladolid CF",
+    "Result": "3 - 3"
+  },
+  {
+    "Matchday": 5,
+    "Date": "09/23/2018 0:15",
+    "Location": "Municipal de Ipurua",
+    "Home": "SD Eibar",
+    "Away": "CD Legan\u00c3\u00a9s",
+    "Result": "1 - 0"
+  },
+  {
+    "Matchday": 5,
+    "Date": "09/23/2018 2:30",
+    "Location": "Coliseum Alfonso P\u00c3\u00a9rez",
+    "Home": "Getafe CF",
+    "Away": "Atl\u00c3\u00a9tico de Madrid",
+    "Result": "0 - 2"
+  },
+  {
+    "Matchday": 5,
+    "Date": "09/23/2018 4:45",
+    "Location": "Estadio Santiago Bernab\u00c3\u00a9u",
+    "Home": "Real Madrid",
+    "Away": "RCD Espanyol",
+    "Result": "1 - 0"
+  },
+  {
+    "Matchday": 5,
+    "Date": "09/23/2018 0:00",
+    "Location": "Estadio Ciutat de Val\u00c3\u00a8ncia",
+    "Home": "Levante UD",
+    "Away": "Sevilla FC",
+    "Result": "2 - 6"
+  },
+  {
+    "Matchday": 5,
+    "Date": "09/24/2018 0:15",
+    "Location": "Estadio de la Cer\u00c3\u00a1mica",
+    "Home": "Villarreal CF",
+    "Away": "Valencia CF",
+    "Result": "0 - 0"
+  },
+  {
+    "Matchday": 5,
+    "Date": "09/24/2018 4:00",
+    "Location": "Estadio Benito Villamar\u00c3\u00adn",
+    "Home": "Real Betis",
+    "Away": "Athletic Club",
+    "Result": "2 - 2"
+  },
+  {
+    "Matchday": 5,
+    "Date": "09/24/2018 4:45",
+    "Location": "Camp Nou",
+    "Home": "FC Barcelona",
+    "Away": "Girona FC",
+    "Result": "2 - 2"
+  },
+  {
+    "Matchday": 6,
+    "Date": "09/26/2018 4:00",
+    "Location": "RCDE Stadium",
+    "Home": "RCD Espanyol",
+    "Away": "SD Eibar",
+    "Result": "1 - 0"
+  },
+  {
+    "Matchday": 6,
+    "Date": "09/26/2018 5:00",
+    "Location": "Estadio de Anoeta",
+    "Home": "Real Sociedad",
+    "Away": "Rayo Vallecano",
+    "Result": "2 - 2"
+  },
+  {
+    "Matchday": 6,
+    "Date": "09/26/2018 6:00",
+    "Location": "Wanda Metropolitano",
+    "Home": "Atl\u00c3\u00a9tico de Madrid",
+    "Away": "SD Huesca",
+    "Result": "3 - 0"
+  },
+  {
+    "Matchday": 6,
+    "Date": "09/27/2018 4:00",
+    "Location": "Estadio San Mam\u00c3\u00a9s",
+    "Home": "Athletic Club",
+    "Away": "Villarreal CF",
+    "Result": "0 - 3"
+  },
+  {
+    "Matchday": 6,
+    "Date": "09/27/2018 4:00",
+    "Location": "Estadio Municipal Butarque",
+    "Home": "CD Legan\u00c3\u00a9s",
+    "Away": "FC Barcelona",
+    "Result": "2 - 1"
+  },
+  {
+    "Matchday": 6,
+    "Date": "09/27/2018 6:00",
+    "Location": "Estadio de Mestalla",
+    "Home": "Valencia CF",
+    "Away": "RC Celta",
+    "Result": "1 - 1"
+  },
+  {
+    "Matchday": 6,
+    "Date": "09/27/2018 6:00",
+    "Location": "Ram\u00c3\u00b3n S\u00c3\u00a1nchez-Pizju\u00c3\u00a1n",
+    "Home": "Sevilla FC",
+    "Away": "Real Madrid",
+    "Result": "3 - 0"
+  },
+  {
+    "Matchday": 6,
+    "Date": "09/28/2018 4:00",
+    "Location": "Mendizorroza",
+    "Home": "D. Alav\u00c3\u00a9s",
+    "Away": "Getafe CF",
+    "Result": "1 - 1"
+  },
+  {
+    "Matchday": 6,
+    "Date": "09/28/2018 4:00",
+    "Location": "Estadio Municipal Jos\u00c3\u00a9 Zorrilla",
+    "Home": "R. Valladolid CF",
+    "Away": "Levante UD",
+    "Result": "2 - 1"
+  },
+  {
+    "Matchday": 6,
+    "Date": "09/28/2018 6:00",
+    "Location": "Estadio Municipal de Montilivi",
+    "Home": "Girona FC",
+    "Away": "Real Betis",
+    "Result": "0 - 1"
+  },
+  {
+    "Matchday": 7,
+    "Date": "09/29/2018 5:00",
+    "Location": "Estadio de Vallecas",
+    "Home": "Rayo Vallecano",
+    "Away": "RCD Espanyol",
+    "Result": "2 - 2"
+  },
+  {
+    "Matchday": 7,
+    "Date": "09/29/2018 1:00",
+    "Location": "Estadio de Anoeta",
+    "Home": "Real Sociedad",
+    "Away": "Valencia CF",
+    "Result": "0 - 1"
+  },
+  {
+    "Matchday": 7,
+    "Date": "09/30/2018 0:15",
+    "Location": "Camp Nou",
+    "Home": "FC Barcelona",
+    "Away": "Athletic Club",
+    "Result": "1 - 1"
+  },
+  {
+    "Matchday": 7,
+    "Date": "09/30/2018 2:30",
+    "Location": "Municipal de Ipurua",
+    "Home": "SD Eibar",
+    "Away": "Sevilla FC",
+    "Result": "1 - 3"
+  },
+  {
+    "Matchday": 7,
+    "Date": "09/30/2018 4:45",
+    "Location": "Estadio Santiago Bernab\u00c3\u00a9u",
+    "Home": "Real Madrid",
+    "Away": "Atl\u00c3\u00a9tico de Madrid",
+    "Result": "0 - 0"
+  },
+  {
+    "Matchday": 7,
+    "Date": "09/30/2018 0:00",
+    "Location": "El Alcoraz",
+    "Home": "SD Huesca",
+    "Away": "Girona FC",
+    "Result": "1 - 1"
+  },
+  {
+    "Matchday": 7,
+    "Date": "10/01/2018 0:15",
+    "Location": "Estadio de la Cer\u00c3\u00a1mica",
+    "Home": "Villarreal CF",
+    "Away": "R. Valladolid CF",
+    "Result": "0 - 1"
+  },
+  {
+    "Matchday": 7,
+    "Date": "10/01/2018 2:30",
+    "Location": "Estadio Ciutat de Val\u00c3\u00a8ncia",
+    "Home": "Levante UD",
+    "Away": "D. Alav\u00c3\u00a9s",
+    "Result": "2 - 1"
+  },
+  {
+    "Matchday": 7,
+    "Date": "10/01/2018 4:45",
+    "Location": "Estadio Benito Villamar\u00c3\u00adn",
+    "Home": "Real Betis",
+    "Away": "CD Legan\u00c3\u00a9s",
+    "Result": "1 - 0"
+  },
+  {
+    "Matchday": 7,
+    "Date": "10/02/2018 5:00",
+    "Location": "Estadio Abanca Bala\u00c3\u00addos",
+    "Home": "RC Celta",
+    "Away": "Getafe CF",
+    "Result": "1 - 1"
+  },
+  {
+    "Matchday": 8,
+    "Date": "10/06/2018 5:00",
+    "Location": "Estadio San Mam\u00c3\u00a9s",
+    "Home": "Athletic Club",
+    "Away": "Real Sociedad",
+    "Result": "1 - 3"
+  },
+  {
+    "Matchday": 8,
+    "Date": "10/06/2018 1:00",
+    "Location": "Estadio Municipal de Montilivi",
+    "Home": "Girona FC",
+    "Away": "SD Eibar",
+    "Result": "2 - 3"
+  },
+  {
+    "Matchday": 8,
+    "Date": "10/07/2018 0:15",
+    "Location": "Coliseum Alfonso P\u00c3\u00a9rez",
+    "Home": "Getafe CF",
+    "Away": "Levante UD",
+    "Result": "0 - 1"
+  },
+  {
+    "Matchday": 8,
+    "Date": "10/07/2018 5:45",
+    "Location": "Mendizorroza",
+    "Home": "D. Alav\u00c3\u00a9s",
+    "Away": "Real Madrid",
+    "Result": "1 - 0"
+  },
+  {
+    "Matchday": 8,
+    "Date": "10/07/2018 5:45",
+    "Location": "Estadio Municipal Butarque",
+    "Home": "CD Legan\u00c3\u00a9s",
+    "Away": "Rayo Vallecano",
+    "Result": "1 - 0"
+  },
+  {
+    "Matchday": 8,
+    "Date": "10/07/2018 1:00",
+    "Location": "Estadio Municipal Jos\u00c3\u00a9 Zorrilla",
+    "Home": "R. Valladolid CF",
+    "Away": "SD Huesca",
+    "Result": "1 - 0"
+  },
+  {
+    "Matchday": 8,
+    "Date": "10/08/2018 3:30",
+    "Location": "Wanda Metropolitano",
+    "Home": "Atl\u00c3\u00a9tico de Madrid",
+    "Away": "Real Betis",
+    "Result": "1 - 0"
+  },
+  {
+    "Matchday": 8,
+    "Date": "10/08/2018 3:30",
+    "Location": "RCDE Stadium",
+    "Home": "RCD Espanyol",
+    "Away": "Villarreal CF",
+    "Result": "3 - 1"
+  },
+  {
+    "Matchday": 8,
+    "Date": "10/08/2018 3:30",
+    "Location": "Ram\u00c3\u00b3n S\u00c3\u00a1nchez-Pizju\u00c3\u00a1n",
+    "Home": "Sevilla FC",
+    "Away": "RC Celta",
+    "Result": "2 - 1"
+  },
+  {
+    "Matchday": 8,
+    "Date": "10/08/2018 5:45",
+    "Location": "Estadio de Mestalla",
+    "Home": "Valencia CF",
+    "Away": "FC Barcelona",
+    "Result": "1 - 1"
+  },
+  {
+    "Matchday": 9,
+    "Date": "10/20/2018 6:00",
+    "Location": "Estadio Abanca Bala\u00c3\u00addos",
+    "Home": "RC Celta",
+    "Away": "D. Alav\u00c3\u00a9s",
+    "Result": "0 - 1"
+  },
+  {
+    "Matchday": 9,
+    "Date": "10/20/2018 2:00",
+    "Location": "Estadio Santiago Bernab\u00c3\u00a9u",
+    "Home": "Real Madrid",
+    "Away": "Levante UD",
+    "Result": "1 - 2"
+  },
+  {
+    "Matchday": 9,
+    "Date": "10/21/2018 1:15",
+    "Location": "Estadio de Mestalla",
+    "Home": "Valencia CF",
+    "Away": "CD Legan\u00c3\u00a9s",
+    "Result": "1 - 1"
+  },
+  {
+    "Matchday": 9,
+    "Date": "10/21/2018 3:30",
+    "Location": "Estadio de la Cer\u00c3\u00a1mica",
+    "Home": "Villarreal CF",
+    "Away": "Atl\u00c3\u00a9tico de Madrid",
+    "Result": "1 - 1"
+  },
+  {
+    "Matchday": 9,
+    "Date": "10/21/2018 5:45",
+    "Location": "Camp Nou",
+    "Home": "FC Barcelona",
+    "Away": "Sevilla FC",
+    "Result": "4 - 2"
+  },
+  {
+    "Matchday": 9,
+    "Date": "10/21/2018 1:00",
+    "Location": "Estadio de Vallecas",
+    "Home": "Rayo Vallecano",
+    "Away": "Getafe CF",
+    "Result": "1 - 2"
+  },
+  {
+    "Matchday": 9,
+    "Date": "10/22/2018 3:30",
+    "Location": "Municipal de Ipurua",
+    "Home": "SD Eibar",
+    "Away": "Athletic Club",
+    "Result": "1 - 1"
+  },
+  {
+    "Matchday": 9,
+    "Date": "10/22/2018 3:30",
+    "Location": "El Alcoraz",
+    "Home": "SD Huesca",
+    "Away": "RCD Espanyol",
+    "Result": "0 - 2"
+  },
+  {
+    "Matchday": 9,
+    "Date": "10/22/2018 5:45",
+    "Location": "Estadio Benito Villamar\u00c3\u00adn",
+    "Home": "Real Betis",
+    "Away": "R. Valladolid CF",
+    "Result": "0 - 1"
+  },
+  {
+    "Matchday": 9,
+    "Date": "10/23/2018 6:00",
+    "Location": "Estadio de Anoeta",
+    "Home": "Real Sociedad",
+    "Away": "Girona FC",
+    "Result": "0 - 0"
+  },
+  {
+    "Matchday": 9,
+    "Date": "10/25/2018 4:00",
+    "Location": "Estadio de Vallecas",
+    "Home": "Rayo Vallecano",
+    "Away": "Athletic Club",
+    "Result": "1 - 1"
+  },
+  {
+    "Matchday": 10,
+    "Date": "10/27/2018 6:00",
+    "Location": "Estadio Municipal Jos\u00c3\u00a9 Zorrilla",
+    "Home": "R. Valladolid CF",
+    "Away": "RCD Espanyol",
+    "Result": "1 - 1"
+  },
+  {
+    "Matchday": 10,
+    "Date": "10/27/2018 2:00",
+    "Location": "Estadio Municipal de Montilivi",
+    "Home": "Girona FC",
+    "Away": "Rayo Vallecano",
+    "Result": "2 - 1"
+  },
+  {
+    "Matchday": 10,
+    "Date": "10/28/2018 1:15",
+    "Location": "Estadio San Mam\u00c3\u00a9s",
+    "Home": "Athletic Club",
+    "Away": "Valencia CF",
+    "Result": "0 - 0"
+  },
+  {
+    "Matchday": 10,
+    "Date": "10/28/2018 3:30",
+    "Location": "Estadio Abanca Bala\u00c3\u00addos",
+    "Home": "RC Celta",
+    "Away": "SD Eibar",
+    "Result": "4 - 0"
+  },
+  {
+    "Matchday": 10,
+    "Date": "10/28/2018 3:30",
+    "Location": "Estadio Ciutat de Val\u00c3\u00a8ncia",
+    "Home": "Levante UD",
+    "Away": "CD Legan\u00c3\u00a9s",
+    "Result": "2 - 0"
+  },
+  {
+    "Matchday": 10,
+    "Date": "10/28/2018 5:45",
+    "Location": "Wanda Metropolitano",
+    "Home": "Atl\u00c3\u00a9tico de Madrid",
+    "Away": "Real Sociedad",
+    "Result": "2 - 0"
+  },
+  {
+    "Matchday": 10,
+    "Date": "10/28/2018 2:00",
+    "Location": "Coliseum Alfonso P\u00c3\u00a9rez",
+    "Home": "Getafe CF",
+    "Away": "Real Betis",
+    "Result": "2 - 0"
+  },
+  {
+    "Matchday": 10,
+    "Date": "10/29/2018 2:15",
+    "Location": "Camp Nou",
+    "Home": "FC Barcelona",
+    "Away": "Real Madrid",
+    "Result": "5 - 1"
+  },
+  {
+    "Matchday": 10,
+    "Date": "10/29/2018 4:30",
+    "Location": "Mendizorroza",
+    "Home": "D. Alav\u00c3\u00a9s",
+    "Away": "Villarreal CF",
+    "Result": "2 - 1"
+  },
+  {
+    "Matchday": 10,
+    "Date": "10/29/2018 6:45",
+    "Location": "Ram\u00c3\u00b3n S\u00c3\u00a1nchez-Pizju\u00c3\u00a1n",
+    "Home": "Sevilla FC",
+    "Away": "SD Huesca",
+    "Result": "2 - 1"
+  },
+  {
+    "Matchday": 11,
+    "Date": "11/03/2018 3:00",
+    "Location": "Estadio Municipal Butarque",
+    "Home": "CD Legan\u00c3\u00a9s",
+    "Away": "Atl\u00c3\u00a9tico de Madrid",
+    "Result": "1 - 1"
+  },
+  {
+    "Matchday": 11,
+    "Date": "11/04/2018 2:15",
+    "Location": "Estadio Santiago Bernab\u00c3\u00a9u",
+    "Home": "Real Madrid",
+    "Away": "R. Valladolid CF",
+    "Result": "2 - 0"
+  },
+  {
+    "Matchday": 11,
+    "Date": "11/04/2018 4:30",
+    "Location": "Estadio de Mestalla",
+    "Home": "Valencia CF",
+    "Away": "Girona FC",
+    "Result": "0 - 1"
+  },
+  {
+    "Matchday": 11,
+    "Date": "11/04/2018 6:45",
+    "Location": "Estadio de Vallecas",
+    "Home": "Rayo Vallecano",
+    "Away": "FC Barcelona",
+    "Result": "2 - 3"
+  },
+  {
+    "Matchday": 11,
+    "Date": "11/04/2018 2:00",
+    "Location": "Municipal de Ipurua",
+    "Home": "SD Eibar",
+    "Away": "D. Alav\u00c3\u00a9s",
+    "Result": "2 - 1"
+  },
+  {
+    "Matchday": 11,
+    "Date": "11/05/2018 2:15",
+    "Location": "Estadio de la Cer\u00c3\u00a1mica",
+    "Home": "Villarreal CF",
+    "Away": "Levante UD",
+    "Result": "1 - 1"
+  },
+  {
+    "Matchday": 11,
+    "Date": "11/05/2018 4:30",
+    "Location": "Estadio de Anoeta",
+    "Home": "Real Sociedad",
+    "Away": "Sevilla FC",
+    "Result": "0 - 0"
+  },
+  {
+    "Matchday": 11,
+    "Date": "11/05/2018 4:30",
+    "Location": "El Alcoraz",
+    "Home": "SD Huesca",
+    "Away": "Getafe CF",
+    "Result": "1 - 1"
+  },
+  {
+    "Matchday": 11,
+    "Date": "11/05/2018 6:45",
+    "Location": "Estadio Benito Villamar\u00c3\u00adn",
+    "Home": "Real Betis",
+    "Away": "RC Celta",
+    "Result": "3 - 3"
+  },
+  {
+    "Matchday": 11,
+    "Date": "11/06/2018 7:00",
+    "Location": "RCDE Stadium",
+    "Home": "RCD Espanyol",
+    "Away": "Athletic Club",
+    "Result": "1 - 0"
+  },
+  {
+    "Matchday": 12,
+    "Date": "11/10/2018 7:00",
+    "Location": "Estadio Ciutat de Val\u00c3\u00a8ncia",
+    "Home": "Levante UD",
+    "Away": "Real Sociedad",
+    "Result": ""
+  },
+  {
+    "Matchday": 12,
+    "Date": "11/10/2018 3:00",
+    "Location": "Estadio Municipal Jos\u00c3\u00a9 Zorrilla",
+    "Home": "R. Valladolid CF",
+    "Away": "SD Eibar",
+    "Result": ""
+  },
+  {
+    "Matchday": 12,
+    "Date": "11/11/2018 2:15",
+    "Location": "Coliseum Alfonso P\u00c3\u00a9rez",
+    "Home": "Getafe CF",
+    "Away": "Valencia CF",
+    "Result": ""
+  },
+  {
+    "Matchday": 12,
+    "Date": "11/11/2018 4:30",
+    "Location": "Wanda Metropolitano",
+    "Home": "Atl\u00c3\u00a9tico de Madrid",
+    "Away": "Athletic Club",
+    "Result": ""
+  },
+  {
+    "Matchday": 12,
+    "Date": "11/11/2018 6:45",
+    "Location": "Estadio Municipal de Montilivi",
+    "Home": "Girona FC",
+    "Away": "CD Legan\u00c3\u00a9s",
+    "Result": ""
+  },
+  {
+    "Matchday": 12,
+    "Date": "11/11/2018 2:00",
+    "Location": "Mendizorroza",
+    "Home": "D. Alav\u00c3\u00a9s",
+    "Away": "SD Huesca",
+    "Result": ""
+  },
+  {
+    "Matchday": 12,
+    "Date": "11/12/2018 2:15",
+    "Location": "Camp Nou",
+    "Home": "FC Barcelona",
+    "Away": "Real Betis",
+    "Result": ""
+  },
+  {
+    "Matchday": 12,
+    "Date": "11/12/2018 4:30",
+    "Location": "Estadio de Vallecas",
+    "Home": "Rayo Vallecano",
+    "Away": "Villarreal CF",
+    "Result": ""
+  },
+  {
+    "Matchday": 12,
+    "Date": "11/12/2018 4:30",
+    "Location": "Ram\u00c3\u00b3n S\u00c3\u00a1nchez-Pizju\u00c3\u00a1n",
+    "Home": "Sevilla FC",
+    "Away": "RCD Espanyol",
+    "Result": ""
+  },
+  {
+    "Matchday": 12,
+    "Date": "11/12/2018 6:45",
+    "Location": "Estadio Abanca Bala\u00c3\u00addos",
+    "Home": "RC Celta",
+    "Away": "Real Madrid",
+    "Result": ""
+  },
+  {
+    "Matchday": 13,
+    "Date": "11/24/2018 7:00",
+    "Location": "Estadio Municipal Butarque",
+    "Home": "CD Legan\u00c3\u00a9s",
+    "Away": "D. Alav\u00c3\u00a9s",
+    "Result": ""
+  },
+  {
+    "Matchday": 13,
+    "Date": "11/24/2018 3:00",
+    "Location": "Municipal de Ipurua",
+    "Home": "SD Eibar",
+    "Away": "Real Madrid",
+    "Result": ""
+  },
+  {
+    "Matchday": 13,
+    "Date": "11/25/2018 2:15",
+    "Location": "Estadio de Mestalla",
+    "Home": "Valencia CF",
+    "Away": "Rayo Vallecano",
+    "Result": ""
+  },
+  {
+    "Matchday": 13,
+    "Date": "11/25/2018 4:30",
+    "Location": "El Alcoraz",
+    "Home": "SD Huesca",
+    "Away": "Levante UD",
+    "Result": ""
+  },
+  {
+    "Matchday": 13,
+    "Date": "11/25/2018 6:45",
+    "Location": "Wanda Metropolitano",
+    "Home": "Atl\u00c3\u00a9tico de Madrid",
+    "Away": "FC Barcelona",
+    "Result": ""
+  },
+  {
+    "Matchday": 13,
+    "Date": "11/25/2018 2:00",
+    "Location": "Estadio San Mam\u00c3\u00a9s",
+    "Home": "Athletic Club",
+    "Away": "Getafe CF",
+    "Result": ""
+  },
+  {
+    "Matchday": 13,
+    "Date": "11/26/2018 2:15",
+    "Location": "Ram\u00c3\u00b3n S\u00c3\u00a1nchez-Pizju\u00c3\u00a1n",
+    "Home": "Sevilla FC",
+    "Away": "R. Valladolid CF",
+    "Result": ""
+  },
+  {
+    "Matchday": 13,
+    "Date": "11/26/2018 4:30",
+    "Location": "RCDE Stadium",
+    "Home": "RCD Espanyol",
+    "Away": "Girona FC",
+    "Result": ""
+  },
+  {
+    "Matchday": 13,
+    "Date": "11/26/2018 6:45",
+    "Location": "Estadio de la Cer\u00c3\u00a1mica",
+    "Home": "Villarreal CF",
+    "Away": "Real Betis",
+    "Result": ""
+  },
+  {
+    "Matchday": 13,
+    "Date": "11/27/2018 7:00",
+    "Location": "Estadio de Anoeta",
+    "Home": "Real Sociedad",
+    "Away": "RC Celta",
+    "Result": ""
+  },
+  {
+    "Matchday": 14,
+    "Date": "12/02/2018 2:00",
+    "Location": "Mendizorroza",
+    "Home": "D. Alav\u00c3\u00a9s",
+    "Away": "Sevilla FC",
+    "Result": ""
+  },
+  {
+    "Matchday": 14,
+    "Date": "12/02/2018 2:00",
+    "Location": "Camp Nou",
+    "Home": "FC Barcelona",
+    "Away": "Villarreal CF",
+    "Result": ""
+  },
+  {
+    "Matchday": 14,
+    "Date": "12/02/2018 2:00",
+    "Location": "Estadio Benito Villamar\u00c3\u00adn",
+    "Home": "Real Betis",
+    "Away": "Real Sociedad",
+    "Result": ""
+  },
+  {
+    "Matchday": 14,
+    "Date": "12/02/2018 2:00",
+    "Location": "Estadio Abanca Bala\u00c3\u00addos",
+    "Home": "RC Celta",
+    "Away": "SD Huesca",
+    "Result": ""
+  },
+  {
+    "Matchday": 14,
+    "Date": "12/02/2018 2:00",
+    "Location": "Estadio Santiago Bernab\u00c3\u00a9u",
+    "Home": "Real Madrid",
+    "Away": "Valencia CF",
+    "Result": ""
+  },
+  {
+    "Matchday": 14,
+    "Date": "12/02/2018 2:00",
+    "Location": "Estadio Ciutat de Val\u00c3\u00a8ncia",
+    "Home": "Levante UD",
+    "Away": "Athletic Club",
+    "Result": ""
+  },
+  {
+    "Matchday": 14,
+    "Date": "12/02/2018 2:00",
+    "Location": "Estadio Municipal de Montilivi",
+    "Home": "Girona FC",
+    "Away": "Atl\u00c3\u00a9tico de Madrid",
+    "Result": ""
+  },
+  {
+    "Matchday": 14,
+    "Date": "12/02/2018 2:00",
+    "Location": "Estadio de Vallecas",
+    "Home": "Rayo Vallecano",
+    "Away": "SD Eibar",
+    "Result": ""
+  },
+  {
+    "Matchday": 14,
+    "Date": "12/02/2018 2:00",
+    "Location": "Coliseum Alfonso P\u00c3\u00a9rez",
+    "Home": "Getafe CF",
+    "Away": "RCD Espanyol",
+    "Result": ""
+  },
+  {
+    "Matchday": 14,
+    "Date": "12/02/2018 2:00",
+    "Location": "Estadio Municipal Jos\u00c3\u00a9 Zorrilla",
+    "Home": "R. Valladolid CF",
+    "Away": "CD Legan\u00c3\u00a9s",
+    "Result": ""
+  },
+  {
+    "Matchday": 15,
+    "Date": "12/09/2018 2:00",
+    "Location": "Estadio San Mam\u00c3\u00a9s",
+    "Home": "Athletic Club",
+    "Away": "Girona FC",
+    "Result": ""
+  },
+  {
+    "Matchday": 15,
+    "Date": "12/09/2018 2:00",
+    "Location": "Estadio Benito Villamar\u00c3\u00adn",
+    "Home": "Real Betis",
+    "Away": "Rayo Vallecano",
+    "Result": ""
+  },
+  {
+    "Matchday": 15,
+    "Date": "12/09/2018 2:00",
+    "Location": "Municipal de Ipurua",
+    "Home": "SD Eibar",
+    "Away": "Levante UD",
+    "Result": ""
+  },
+  {
+    "Matchday": 15,
+    "Date": "12/09/2018 2:00",
+    "Location": "El Alcoraz",
+    "Home": "SD Huesca",
+    "Away": "Real Madrid",
+    "Result": ""
+  },
+  {
+    "Matchday": 15,
+    "Date": "12/09/2018 2:00",
+    "Location": "Estadio de Anoeta",
+    "Home": "Real Sociedad",
+    "Away": "R. Valladolid CF",
+    "Result": ""
+  },
+  {
+    "Matchday": 15,
+    "Date": "12/09/2018 2:00",
+    "Location": "Wanda Metropolitano",
+    "Home": "Atl\u00c3\u00a9tico de Madrid",
+    "Away": "D. Alav\u00c3\u00a9s",
+    "Result": ""
+  },
+  {
+    "Matchday": 15,
+    "Date": "12/09/2018 2:00",
+    "Location": "RCDE Stadium",
+    "Home": "RCD Espanyol",
+    "Away": "FC Barcelona",
+    "Result": ""
+  },
+  {
+    "Matchday": 15,
+    "Date": "12/09/2018 2:00",
+    "Location": "Estadio de la Cer\u00c3\u00a1mica",
+    "Home": "Villarreal CF",
+    "Away": "RC Celta",
+    "Result": ""
+  },
+  {
+    "Matchday": 15,
+    "Date": "12/09/2018 2:00",
+    "Location": "Estadio Municipal Butarque",
+    "Home": "CD Legan\u00c3\u00a9s",
+    "Away": "Getafe CF",
+    "Result": ""
+  },
+  {
+    "Matchday": 15,
+    "Date": "12/09/2018 2:00",
+    "Location": "Estadio de Mestalla",
+    "Home": "Valencia CF",
+    "Away": "Sevilla FC",
+    "Result": ""
+  },
+  {
+    "Matchday": 16,
+    "Date": "12/16/2018 2:00",
+    "Location": "Mendizorroza",
+    "Home": "D. Alav\u00c3\u00a9s",
+    "Away": "Athletic Club",
+    "Result": ""
+  },
+  {
+    "Matchday": 16,
+    "Date": "12/16/2018 2:00",
+    "Location": "Estadio Abanca Bala\u00c3\u00addos",
+    "Home": "RC Celta",
+    "Away": "CD Legan\u00c3\u00a9s",
+    "Result": ""
+  },
+  {
+    "Matchday": 16,
+    "Date": "12/16/2018 2:00",
+    "Location": "Municipal de Ipurua",
+    "Home": "SD Eibar",
+    "Away": "Valencia CF",
+    "Result": ""
+  },
+  {
+    "Matchday": 16,
+    "Date": "12/16/2018 2:00",
+    "Location": "Coliseum Alfonso P\u00c3\u00a9rez",
+    "Home": "Getafe CF",
+    "Away": "Real Sociedad",
+    "Result": ""
+  },
+  {
+    "Matchday": 16,
+    "Date": "12/16/2018 2:00",
+    "Location": "El Alcoraz",
+    "Home": "SD Huesca",
+    "Away": "Villarreal CF",
+    "Result": ""
+  },
+  {
+    "Matchday": 16,
+    "Date": "12/16/2018 2:00",
+    "Location": "Estadio Municipal Jos\u00c3\u00a9 Zorrilla",
+    "Home": "R. Valladolid CF",
+    "Away": "Atl\u00c3\u00a9tico de Madrid",
+    "Result": ""
+  },
+  {
+    "Matchday": 16,
+    "Date": "12/16/2018 2:00",
+    "Location": "Estadio Ciutat de Val\u00c3\u00a8ncia",
+    "Home": "Levante UD",
+    "Away": "FC Barcelona",
+    "Result": ""
+  },
+  {
+    "Matchday": 16,
+    "Date": "12/16/2018 2:00",
+    "Location": "RCDE Stadium",
+    "Home": "RCD Espanyol",
+    "Away": "Real Betis",
+    "Result": ""
+  },
+  {
+    "Matchday": 16,
+    "Date": "12/16/2018 2:00",
+    "Location": "Ram\u00c3\u00b3n S\u00c3\u00a1nchez-Pizju\u00c3\u00a1n",
+    "Home": "Sevilla FC",
+    "Away": "Girona FC",
+    "Result": ""
+  },
+  {
+    "Matchday": 16,
+    "Date": "12/16/2018 2:00",
+    "Location": "Estadio Santiago Bernab\u00c3\u00a9u",
+    "Home": "Real Madrid",
+    "Away": "Rayo Vallecano",
+    "Result": ""
+  },
+  {
+    "Matchday": 17,
+    "Date": "12/22/2018 2:00",
+    "Location": "Estadio San Mam\u00c3\u00a9s",
+    "Home": "Athletic Club",
+    "Away": "R. Valladolid CF",
+    "Result": ""
+  },
+  {
+    "Matchday": 17,
+    "Date": "12/22/2018 2:00",
+    "Location": "Wanda Metropolitano",
+    "Home": "Atl\u00c3\u00a9tico de Madrid",
+    "Away": "RCD Espanyol",
+    "Result": ""
+  },
+  {
+    "Matchday": 17,
+    "Date": "12/22/2018 2:00",
+    "Location": "Camp Nou",
+    "Home": "FC Barcelona",
+    "Away": "RC Celta",
+    "Result": ""
+  },
+  {
+    "Matchday": 17,
+    "Date": "12/22/2018 2:00",
+    "Location": "Estadio Benito Villamar\u00c3\u00adn",
+    "Home": "Real Betis",
+    "Away": "SD Eibar",
+    "Result": ""
+  },
+  {
+    "Matchday": 17,
+    "Date": "12/22/2018 2:00",
+    "Location": "Estadio Municipal Butarque",
+    "Home": "CD Legan\u00c3\u00a9s",
+    "Away": "Sevilla FC",
+    "Result": ""
+  },
+  {
+    "Matchday": 17,
+    "Date": "12/22/2018 2:00",
+    "Location": "Estadio de Anoeta",
+    "Home": "Real Sociedad",
+    "Away": "D. Alav\u00c3\u00a9s",
+    "Result": ""
+  },
+  {
+    "Matchday": 17,
+    "Date": "12/22/2018 2:00",
+    "Location": "Estadio Municipal de Montilivi",
+    "Home": "Girona FC",
+    "Away": "Getafe CF",
+    "Result": ""
+  },
+  {
+    "Matchday": 17,
+    "Date": "12/22/2018 2:00",
+    "Location": "Estadio de Mestalla",
+    "Home": "Valencia CF",
+    "Away": "SD Huesca",
+    "Result": ""
+  },
+  {
+    "Matchday": 17,
+    "Date": "12/22/2018 2:00",
+    "Location": "Estadio de Vallecas",
+    "Home": "Rayo Vallecano",
+    "Away": "Levante UD",
+    "Result": ""
+  },
+  {
+    "Matchday": 17,
+    "Date": "12/22/2018 2:00",
+    "Location": "Estadio de la Cer\u00c3\u00a1mica",
+    "Home": "Villarreal CF",
+    "Away": "Real Madrid",
+    "Result": ""
+  },
+  {
+    "Matchday": 18,
+    "Date": "01/06/2019 2:00",
+    "Location": "Mendizorroza",
+    "Home": "D. Alav\u00c3\u00a9s",
+    "Away": "Valencia CF",
+    "Result": ""
+  },
+  {
+    "Matchday": 18,
+    "Date": "01/06/2019 2:00",
+    "Location": "Municipal de Ipurua",
+    "Home": "SD Eibar",
+    "Away": "Villarreal CF",
+    "Result": ""
+  },
+  {
+    "Matchday": 18,
+    "Date": "01/06/2019 2:00",
+    "Location": "RCDE Stadium",
+    "Home": "RCD Espanyol",
+    "Away": "CD Legan\u00c3\u00a9s",
+    "Result": ""
+  },
+  {
+    "Matchday": 18,
+    "Date": "01/06/2019 2:00",
+    "Location": "Estadio Santiago Bernab\u00c3\u00a9u",
+    "Home": "Real Madrid",
+    "Away": "Real Sociedad",
+    "Result": ""
+  },
+  {
+    "Matchday": 18,
+    "Date": "01/06/2019 2:00",
+    "Location": "Estadio Abanca Bala\u00c3\u00addos",
+    "Home": "RC Celta",
+    "Away": "Athletic Club",
+    "Result": ""
+  },
+  {
+    "Matchday": 18,
+    "Date": "01/06/2019 2:00",
+    "Location": "Ram\u00c3\u00b3n S\u00c3\u00a1nchez-Pizju\u00c3\u00a1n",
+    "Home": "Sevilla FC",
+    "Away": "Atl\u00c3\u00a9tico de Madrid",
+    "Result": ""
+  },
+  {
+    "Matchday": 18,
+    "Date": "01/06/2019 2:00",
+    "Location": "Coliseum Alfonso P\u00c3\u00a9rez",
+    "Home": "Getafe CF",
+    "Away": "FC Barcelona",
+    "Result": ""
+  },
+  {
+    "Matchday": 18,
+    "Date": "01/06/2019 2:00",
+    "Location": "El Alcoraz",
+    "Home": "SD Huesca",
+    "Away": "Real Betis",
+    "Result": ""
+  },
+  {
+    "Matchday": 18,
+    "Date": "01/06/2019 2:00",
+    "Location": "Estadio Ciutat de Val\u00c3\u00a8ncia",
+    "Home": "Levante UD",
+    "Away": "Girona FC",
+    "Result": ""
+  },
+  {
+    "Matchday": 18,
+    "Date": "01/06/2019 2:00",
+    "Location": "Estadio Municipal Jos\u00c3\u00a9 Zorrilla",
+    "Home": "R. Valladolid CF",
+    "Away": "Rayo Vallecano",
+    "Result": ""
+  },
+  {
+    "Matchday": 19,
+    "Date": "01/13/2019 2:00",
+    "Location": "Estadio San Mam\u00c3\u00a9s",
+    "Home": "Athletic Club",
+    "Away": "Sevilla FC",
+    "Result": ""
+  },
+  {
+    "Matchday": 19,
+    "Date": "01/13/2019 2:00",
+    "Location": "Wanda Metropolitano",
+    "Home": "Atl\u00c3\u00a9tico de Madrid",
+    "Away": "Levante UD",
+    "Result": ""
+  },
+  {
+    "Matchday": 19,
+    "Date": "01/13/2019 2:00",
+    "Location": "Camp Nou",
+    "Home": "FC Barcelona",
+    "Away": "SD Eibar",
+    "Result": ""
+  },
+  {
+    "Matchday": 19,
+    "Date": "01/13/2019 2:00",
+    "Location": "Estadio Benito Villamar\u00c3\u00adn",
+    "Home": "Real Betis",
+    "Away": "Real Madrid",
+    "Result": ""
+  },
+  {
+    "Matchday": 19,
+    "Date": "01/13/2019 2:00",
+    "Location": "Estadio de Mestalla",
+    "Home": "Valencia CF",
+    "Away": "R. Valladolid CF",
+    "Result": ""
+  },
+  {
+    "Matchday": 19,
+    "Date": "01/13/2019 2:00",
+    "Location": "Estadio Municipal de Montilivi",
+    "Home": "Girona FC",
+    "Away": "D. Alav\u00c3\u00a9s",
+    "Result": ""
+  },
+  {
+    "Matchday": 19,
+    "Date": "01/13/2019 2:00",
+    "Location": "Estadio de Vallecas",
+    "Home": "Rayo Vallecano",
+    "Away": "RC Celta",
+    "Result": ""
+  },
+  {
+    "Matchday": 19,
+    "Date": "01/13/2019 2:00",
+    "Location": "Estadio de Anoeta",
+    "Home": "Real Sociedad",
+    "Away": "RCD Espanyol",
+    "Result": ""
+  },
+  {
+    "Matchday": 19,
+    "Date": "01/13/2019 2:00",
+    "Location": "Estadio de la Cer\u00c3\u00a1mica",
+    "Home": "Villarreal CF",
+    "Away": "Getafe CF",
+    "Result": ""
+  },
+  {
+    "Matchday": 19,
+    "Date": "01/13/2019 2:00",
+    "Location": "Estadio Municipal Butarque",
+    "Home": "CD Legan\u00c3\u00a9s",
+    "Away": "SD Huesca",
+    "Result": ""
+  },
+  {
+    "Matchday": 20,
+    "Date": "01/20/2019 2:00",
+    "Location": "Camp Nou",
+    "Home": "FC Barcelona",
+    "Away": "CD Legan\u00c3\u00a9s",
+    "Result": ""
+  },
+  {
+    "Matchday": 20,
+    "Date": "01/20/2019 2:00",
+    "Location": "Estadio Benito Villamar\u00c3\u00adn",
+    "Home": "Real Betis",
+    "Away": "Girona FC",
+    "Result": ""
+  },
+  {
+    "Matchday": 20,
+    "Date": "01/20/2019 2:00",
+    "Location": "Estadio Abanca Bala\u00c3\u00addos",
+    "Home": "RC Celta",
+    "Away": "Valencia CF",
+    "Result": ""
+  },
+  {
+    "Matchday": 20,
+    "Date": "01/20/2019 2:00",
+    "Location": "Municipal de Ipurua",
+    "Home": "SD Eibar",
+    "Away": "RCD Espanyol",
+    "Result": ""
+  },
+  {
+    "Matchday": 20,
+    "Date": "01/20/2019 2:00",
+    "Location": "Estadio Ciutat de Val\u00c3\u00a8ncia",
+    "Home": "Levante UD",
+    "Away": "R. Valladolid CF",
+    "Result": ""
+  },
+  {
+    "Matchday": 20,
+    "Date": "01/20/2019 2:00",
+    "Location": "Estadio de Vallecas",
+    "Home": "Rayo Vallecano",
+    "Away": "Real Sociedad",
+    "Result": ""
+  },
+  {
+    "Matchday": 20,
+    "Date": "01/20/2019 2:00",
+    "Location": "Estadio Santiago Bernab\u00c3\u00a9u",
+    "Home": "Real Madrid",
+    "Away": "Sevilla FC",
+    "Result": ""
+  },
+  {
+    "Matchday": 20,
+    "Date": "01/20/2019 2:00",
+    "Location": "Coliseum Alfonso P\u00c3\u00a9rez",
+    "Home": "Getafe CF",
+    "Away": "D. Alav\u00c3\u00a9s",
+    "Result": ""
+  },
+  {
+    "Matchday": 20,
+    "Date": "01/20/2019 2:00",
+    "Location": "Estadio de la Cer\u00c3\u00a1mica",
+    "Home": "Villarreal CF",
+    "Away": "Athletic Club",
+    "Result": ""
+  },
+  {
+    "Matchday": 20,
+    "Date": "01/20/2019 2:00",
+    "Location": "El Alcoraz",
+    "Home": "SD Huesca",
+    "Away": "Atl\u00c3\u00a9tico de Madrid",
+    "Result": ""
+  },
+  {
+    "Matchday": 21,
+    "Date": "01/27/2019 2:00",
+    "Location": "Mendizorroza",
+    "Home": "D. Alav\u00c3\u00a9s",
+    "Away": "Rayo Vallecano",
+    "Result": ""
+  },
+  {
+    "Matchday": 21,
+    "Date": "01/27/2019 2:00",
+    "Location": "Estadio San Mam\u00c3\u00a9s",
+    "Home": "Athletic Club",
+    "Away": "Real Betis",
+    "Result": ""
+  },
+  {
+    "Matchday": 21,
+    "Date": "01/27/2019 2:00",
+    "Location": "Wanda Metropolitano",
+    "Home": "Atl\u00c3\u00a9tico de Madrid",
+    "Away": "Getafe CF",
+    "Result": ""
+  },
+  {
+    "Matchday": 21,
+    "Date": "01/27/2019 2:00",
+    "Location": "RCDE Stadium",
+    "Home": "RCD Espanyol",
+    "Away": "Real Madrid",
+    "Result": ""
+  },
+  {
+    "Matchday": 21,
+    "Date": "01/27/2019 2:00",
+    "Location": "Estadio de Mestalla",
+    "Home": "Valencia CF",
+    "Away": "Villarreal CF",
+    "Result": ""
+  },
+  {
+    "Matchday": 21,
+    "Date": "01/27/2019 2:00",
+    "Location": "Estadio Municipal de Montilivi",
+    "Home": "Girona FC",
+    "Away": "FC Barcelona",
+    "Result": ""
+  },
+  {
+    "Matchday": 21,
+    "Date": "01/27/2019 2:00",
+    "Location": "Estadio Municipal Jos\u00c3\u00a9 Zorrilla",
+    "Home": "R. Valladolid CF",
+    "Away": "RC Celta",
+    "Result": ""
+  },
+  {
+    "Matchday": 21,
+    "Date": "01/27/2019 2:00",
+    "Location": "Estadio Municipal Butarque",
+    "Home": "CD Legan\u00c3\u00a9s",
+    "Away": "SD Eibar",
+    "Result": ""
+  },
+  {
+    "Matchday": 21,
+    "Date": "01/27/2019 2:00",
+    "Location": "Estadio de Anoeta",
+    "Home": "Real Sociedad",
+    "Away": "SD Huesca",
+    "Result": ""
+  },
+  {
+    "Matchday": 21,
+    "Date": "01/27/2019 2:00",
+    "Location": "Ram\u00c3\u00b3n S\u00c3\u00a1nchez-Pizju\u00c3\u00a1n",
+    "Home": "Sevilla FC",
+    "Away": "Levante UD",
+    "Result": ""
+  },
+  {
+    "Matchday": 22,
+    "Date": "02/03/2019 2:00",
+    "Location": "Camp Nou",
+    "Home": "FC Barcelona",
+    "Away": "Valencia CF",
+    "Result": ""
+  },
+  {
+    "Matchday": 22,
+    "Date": "02/03/2019 2:00",
+    "Location": "Estadio Abanca Bala\u00c3\u00addos",
+    "Home": "RC Celta",
+    "Away": "Sevilla FC",
+    "Result": ""
+  },
+  {
+    "Matchday": 22,
+    "Date": "02/03/2019 2:00",
+    "Location": "Municipal de Ipurua",
+    "Home": "SD Eibar",
+    "Away": "Girona FC",
+    "Result": ""
+  },
+  {
+    "Matchday": 22,
+    "Date": "02/03/2019 2:00",
+    "Location": "El Alcoraz",
+    "Home": "SD Huesca",
+    "Away": "R. Valladolid CF",
+    "Result": ""
+  },
+  {
+    "Matchday": 22,
+    "Date": "02/03/2019 2:00",
+    "Location": "Estadio Santiago Bernab\u00c3\u00a9u",
+    "Home": "Real Madrid",
+    "Away": "D. Alav\u00c3\u00a9s",
+    "Result": ""
+  },
+  {
+    "Matchday": 22,
+    "Date": "02/03/2019 2:00",
+    "Location": "Estadio de Anoeta",
+    "Home": "Real Sociedad",
+    "Away": "Athletic Club",
+    "Result": ""
+  },
+  {
+    "Matchday": 22,
+    "Date": "02/03/2019 2:00",
+    "Location": "Estadio Benito Villamar\u00c3\u00adn",
+    "Home": "Real Betis",
+    "Away": "Atl\u00c3\u00a9tico de Madrid",
+    "Result": ""
+  },
+  {
+    "Matchday": 22,
+    "Date": "02/03/2019 2:00",
+    "Location": "Estadio de la Cer\u00c3\u00a1mica",
+    "Home": "Villarreal CF",
+    "Away": "RCD Espanyol",
+    "Result": ""
+  },
+  {
+    "Matchday": 22,
+    "Date": "02/03/2019 2:00",
+    "Location": "Estadio Ciutat de Val\u00c3\u00a8ncia",
+    "Home": "Levante UD",
+    "Away": "Getafe CF",
+    "Result": ""
+  },
+  {
+    "Matchday": 22,
+    "Date": "02/03/2019 2:00",
+    "Location": "Estadio de Vallecas",
+    "Home": "Rayo Vallecano",
+    "Away": "CD Legan\u00c3\u00a9s",
+    "Result": ""
+  },
+  {
+    "Matchday": 23,
+    "Date": "02/10/2019 2:00",
+    "Location": "Wanda Metropolitano",
+    "Home": "Atl\u00c3\u00a9tico de Madrid",
+    "Away": "Real Madrid",
+    "Result": ""
+  },
+  {
+    "Matchday": 23,
+    "Date": "02/10/2019 2:00",
+    "Location": "Mendizorroza",
+    "Home": "D. Alav\u00c3\u00a9s",
+    "Away": "Levante UD",
+    "Result": ""
+  },
+  {
+    "Matchday": 23,
+    "Date": "02/10/2019 2:00",
+    "Location": "Estadio San Mam\u00c3\u00a9s",
+    "Home": "Athletic Club",
+    "Away": "FC Barcelona",
+    "Result": ""
+  },
+  {
+    "Matchday": 23,
+    "Date": "02/10/2019 2:00",
+    "Location": "RCDE Stadium",
+    "Home": "RCD Espanyol",
+    "Away": "Rayo Vallecano",
+    "Result": ""
+  },
+  {
+    "Matchday": 23,
+    "Date": "02/10/2019 2:00",
+    "Location": "Estadio Municipal de Montilivi",
+    "Home": "Girona FC",
+    "Away": "SD Huesca",
+    "Result": ""
+  },
+  {
+    "Matchday": 23,
+    "Date": "02/10/2019 2:00",
+    "Location": "Estadio Municipal Jos\u00c3\u00a9 Zorrilla",
+    "Home": "R. Valladolid CF",
+    "Away": "Villarreal CF",
+    "Result": ""
+  },
+  {
+    "Matchday": 23,
+    "Date": "02/10/2019 2:00",
+    "Location": "Estadio Municipal Butarque",
+    "Home": "CD Legan\u00c3\u00a9s",
+    "Away": "Real Betis",
+    "Result": ""
+  },
+  {
+    "Matchday": 23,
+    "Date": "02/10/2019 2:00",
+    "Location": "Coliseum Alfonso P\u00c3\u00a9rez",
+    "Home": "Getafe CF",
+    "Away": "RC Celta",
+    "Result": ""
+  },
+  {
+    "Matchday": 23,
+    "Date": "02/10/2019 2:00",
+    "Location": "Ram\u00c3\u00b3n S\u00c3\u00a1nchez-Pizju\u00c3\u00a1n",
+    "Home": "Sevilla FC",
+    "Away": "SD Eibar",
+    "Result": ""
+  },
+  {
+    "Matchday": 23,
+    "Date": "02/10/2019 2:00",
+    "Location": "Estadio de Mestalla",
+    "Home": "Valencia CF",
+    "Away": "Real Sociedad",
+    "Result": ""
+  },
+  {
+    "Matchday": 24,
+    "Date": "02/17/2019 2:00",
+    "Location": "Camp Nou",
+    "Home": "FC Barcelona",
+    "Away": "R. Valladolid CF",
+    "Result": ""
+  },
+  {
+    "Matchday": 24,
+    "Date": "02/17/2019 2:00",
+    "Location": "Estadio Abanca Bala\u00c3\u00addos",
+    "Home": "RC Celta",
+    "Away": "Levante UD",
+    "Result": ""
+  },
+  {
+    "Matchday": 24,
+    "Date": "02/17/2019 2:00",
+    "Location": "Municipal de Ipurua",
+    "Home": "SD Eibar",
+    "Away": "Getafe CF",
+    "Result": ""
+  },
+  {
+    "Matchday": 24,
+    "Date": "02/17/2019 2:00",
+    "Location": "Estadio Benito Villamar\u00c3\u00adn",
+    "Home": "Real Betis",
+    "Away": "D. Alav\u00c3\u00a9s",
+    "Result": ""
+  },
+  {
+    "Matchday": 24,
+    "Date": "02/17/2019 2:00",
+    "Location": "El Alcoraz",
+    "Home": "SD Huesca",
+    "Away": "Athletic Club",
+    "Result": ""
+  },
+  {
+    "Matchday": 24,
+    "Date": "02/17/2019 2:00",
+    "Location": "Estadio de Vallecas",
+    "Home": "Rayo Vallecano",
+    "Away": "Atl\u00c3\u00a9tico de Madrid",
+    "Result": ""
+  },
+  {
+    "Matchday": 24,
+    "Date": "02/17/2019 2:00",
+    "Location": "Estadio de Mestalla",
+    "Home": "Valencia CF",
+    "Away": "RCD Espanyol",
+    "Result": ""
+  },
+  {
+    "Matchday": 24,
+    "Date": "02/17/2019 2:00",
+    "Location": "Estadio Santiago Bernab\u00c3\u00a9u",
+    "Home": "Real Madrid",
+    "Away": "Girona FC",
+    "Result": ""
+  },
+  {
+    "Matchday": 24,
+    "Date": "02/17/2019 2:00",
+    "Location": "Estadio de Anoeta",
+    "Home": "Real Sociedad",
+    "Away": "CD Legan\u00c3\u00a9s",
+    "Result": ""
+  },
+  {
+    "Matchday": 24,
+    "Date": "02/17/2019 2:00",
+    "Location": "Estadio de la Cer\u00c3\u00a1mica",
+    "Home": "Villarreal CF",
+    "Away": "Sevilla FC",
+    "Result": ""
+  },
+  {
+    "Matchday": 25,
+    "Date": "02/24/2019 2:00",
+    "Location": "Mendizorroza",
+    "Home": "D. Alav\u00c3\u00a9s",
+    "Away": "RC Celta",
+    "Result": ""
+  },
+  {
+    "Matchday": 25,
+    "Date": "02/24/2019 2:00",
+    "Location": "Estadio San Mam\u00c3\u00a9s",
+    "Home": "Athletic Club",
+    "Away": "SD Eibar",
+    "Result": ""
+  },
+  {
+    "Matchday": 25,
+    "Date": "02/24/2019 2:00",
+    "Location": "Wanda Metropolitano",
+    "Home": "Atl\u00c3\u00a9tico de Madrid",
+    "Away": "Villarreal CF",
+    "Result": ""
+  },
+  {
+    "Matchday": 25,
+    "Date": "02/24/2019 2:00",
+    "Location": "RCDE Stadium",
+    "Home": "RCD Espanyol",
+    "Away": "SD Huesca",
+    "Result": ""
+  },
+  {
+    "Matchday": 25,
+    "Date": "02/24/2019 2:00",
+    "Location": "Coliseum Alfonso P\u00c3\u00a9rez",
+    "Home": "Getafe CF",
+    "Away": "Rayo Vallecano",
+    "Result": ""
+  },
+  {
+    "Matchday": 25,
+    "Date": "02/24/2019 2:00",
+    "Location": "Estadio Municipal de Montilivi",
+    "Home": "Girona FC",
+    "Away": "Real Sociedad",
+    "Result": ""
+  },
+  {
+    "Matchday": 25,
+    "Date": "02/24/2019 2:00",
+    "Location": "Estadio Municipal Butarque",
+    "Home": "CD Legan\u00c3\u00a9s",
+    "Away": "Valencia CF",
+    "Result": ""
+  },
+  {
+    "Matchday": 25,
+    "Date": "02/24/2019 2:00",
+    "Location": "Estadio Ciutat de Val\u00c3\u00a8ncia",
+    "Home": "Levante UD",
+    "Away": "Real Madrid",
+    "Result": ""
+  },
+  {
+    "Matchday": 25,
+    "Date": "02/24/2019 2:00",
+    "Location": "Ram\u00c3\u00b3n S\u00c3\u00a1nchez-Pizju\u00c3\u00a1n",
+    "Home": "Sevilla FC",
+    "Away": "FC Barcelona",
+    "Result": ""
+  },
+  {
+    "Matchday": 25,
+    "Date": "02/24/2019 2:00",
+    "Location": "Estadio Municipal Jos\u00c3\u00a9 Zorrilla",
+    "Home": "R. Valladolid CF",
+    "Away": "Real Betis",
+    "Result": ""
+  },
+  {
+    "Matchday": 26,
+    "Date": "03/03/2019 2:00",
+    "Location": "Estadio Benito Villamar\u00c3\u00adn",
+    "Home": "Real Betis",
+    "Away": "Getafe CF",
+    "Result": ""
+  },
+  {
+    "Matchday": 26,
+    "Date": "03/03/2019 2:00",
+    "Location": "RCDE Stadium",
+    "Home": "RCD Espanyol",
+    "Away": "R. Valladolid CF",
+    "Result": ""
+  },
+  {
+    "Matchday": 26,
+    "Date": "03/03/2019 2:00",
+    "Location": "El Alcoraz",
+    "Home": "SD Huesca",
+    "Away": "Sevilla FC",
+    "Result": ""
+  },
+  {
+    "Matchday": 26,
+    "Date": "03/03/2019 2:00",
+    "Location": "Estadio Municipal Butarque",
+    "Home": "CD Legan\u00c3\u00a9s",
+    "Away": "Levante UD",
+    "Result": ""
+  },
+  {
+    "Matchday": 26,
+    "Date": "03/03/2019 2:00",
+    "Location": "Estadio Santiago Bernab\u00c3\u00a9u",
+    "Home": "Real Madrid",
+    "Away": "FC Barcelona",
+    "Result": ""
+  },
+  {
+    "Matchday": 26,
+    "Date": "03/03/2019 2:00",
+    "Location": "Estadio de la Cer\u00c3\u00a1mica",
+    "Home": "Villarreal CF",
+    "Away": "D. Alav\u00c3\u00a9s",
+    "Result": ""
+  },
+  {
+    "Matchday": 26,
+    "Date": "03/03/2019 2:00",
+    "Location": "Estadio de Mestalla",
+    "Home": "Valencia CF",
+    "Away": "Athletic Club",
+    "Result": ""
+  },
+  {
+    "Matchday": 26,
+    "Date": "03/03/2019 2:00",
+    "Location": "Estadio de Anoeta",
+    "Home": "Real Sociedad",
+    "Away": "Atl\u00c3\u00a9tico de Madrid",
+    "Result": ""
+  },
+  {
+    "Matchday": 26,
+    "Date": "03/03/2019 2:00",
+    "Location": "Municipal de Ipurua",
+    "Home": "SD Eibar",
+    "Away": "RC Celta",
+    "Result": ""
+  },
+  {
+    "Matchday": 26,
+    "Date": "03/03/2019 2:00",
+    "Location": "Estadio de Vallecas",
+    "Home": "Rayo Vallecano",
+    "Away": "Girona FC",
+    "Result": ""
+  },
+  {
+    "Matchday": 27,
+    "Date": "03/10/2019 2:00",
+    "Location": "Mendizorroza",
+    "Home": "D. Alav\u00c3\u00a9s",
+    "Away": "SD Eibar",
+    "Result": ""
+  },
+  {
+    "Matchday": 27,
+    "Date": "03/10/2019 2:00",
+    "Location": "Estadio San Mam\u00c3\u00a9s",
+    "Home": "Athletic Club",
+    "Away": "RCD Espanyol",
+    "Result": ""
+  },
+  {
+    "Matchday": 27,
+    "Date": "03/10/2019 2:00",
+    "Location": "Wanda Metropolitano",
+    "Home": "Atl\u00c3\u00a9tico de Madrid",
+    "Away": "CD Legan\u00c3\u00a9s",
+    "Result": ""
+  },
+  {
+    "Matchday": 27,
+    "Date": "03/10/2019 2:00",
+    "Location": "Camp Nou",
+    "Home": "FC Barcelona",
+    "Away": "Rayo Vallecano",
+    "Result": ""
+  },
+  {
+    "Matchday": 27,
+    "Date": "03/10/2019 2:00",
+    "Location": "Coliseum Alfonso P\u00c3\u00a9rez",
+    "Home": "Getafe CF",
+    "Away": "SD Huesca",
+    "Result": ""
+  },
+  {
+    "Matchday": 27,
+    "Date": "03/10/2019 2:00",
+    "Location": "Estadio Municipal de Montilivi",
+    "Home": "Girona FC",
+    "Away": "Valencia CF",
+    "Result": ""
+  },
+  {
+    "Matchday": 27,
+    "Date": "03/10/2019 2:00",
+    "Location": "Estadio Ciutat de Val\u00c3\u00a8ncia",
+    "Home": "Levante UD",
+    "Away": "Villarreal CF",
+    "Result": ""
+  },
+  {
+    "Matchday": 27,
+    "Date": "03/10/2019 2:00",
+    "Location": "Estadio Abanca Bala\u00c3\u00addos",
+    "Home": "RC Celta",
+    "Away": "Real Betis",
+    "Result": ""
+  },
+  {
+    "Matchday": 27,
+    "Date": "03/10/2019 2:00",
+    "Location": "Estadio Municipal Jos\u00c3\u00a9 Zorrilla",
+    "Home": "R. Valladolid CF",
+    "Away": "Real Madrid",
+    "Result": ""
+  },
+  {
+    "Matchday": 27,
+    "Date": "03/10/2019 2:00",
+    "Location": "Ram\u00c3\u00b3n S\u00c3\u00a1nchez-Pizju\u00c3\u00a1n",
+    "Home": "Sevilla FC",
+    "Away": "Real Sociedad",
+    "Result": ""
+  },
+  {
+    "Matchday": 28,
+    "Date": "03/17/2019 2:00",
+    "Location": "Estadio San Mam\u00c3\u00a9s",
+    "Home": "Athletic Club",
+    "Away": "Atl\u00c3\u00a9tico de Madrid",
+    "Result": ""
+  },
+  {
+    "Matchday": 28,
+    "Date": "03/17/2019 2:00",
+    "Location": "Municipal de Ipurua",
+    "Home": "SD Eibar",
+    "Away": "R. Valladolid CF",
+    "Result": ""
+  },
+  {
+    "Matchday": 28,
+    "Date": "03/17/2019 2:00",
+    "Location": "RCDE Stadium",
+    "Home": "RCD Espanyol",
+    "Away": "Sevilla FC",
+    "Result": ""
+  },
+  {
+    "Matchday": 28,
+    "Date": "03/17/2019 2:00",
+    "Location": "El Alcoraz",
+    "Home": "SD Huesca",
+    "Away": "D. Alav\u00c3\u00a9s",
+    "Result": ""
+  },
+  {
+    "Matchday": 28,
+    "Date": "03/17/2019 2:00",
+    "Location": "Estadio Benito Villamar\u00c3\u00adn",
+    "Home": "Real Betis",
+    "Away": "FC Barcelona",
+    "Result": ""
+  },
+  {
+    "Matchday": 28,
+    "Date": "03/17/2019 2:00",
+    "Location": "Estadio Santiago Bernab\u00c3\u00a9u",
+    "Home": "Real Madrid",
+    "Away": "RC Celta",
+    "Result": ""
+  },
+  {
+    "Matchday": 28,
+    "Date": "03/17/2019 2:00",
+    "Location": "Estadio de Mestalla",
+    "Home": "Valencia CF",
+    "Away": "Getafe CF",
+    "Result": ""
+  },
+  {
+    "Matchday": 28,
+    "Date": "03/17/2019 2:00",
+    "Location": "Estadio Municipal Butarque",
+    "Home": "CD Legan\u00c3\u00a9s",
+    "Away": "Girona FC",
+    "Result": ""
+  },
+  {
+    "Matchday": 28,
+    "Date": "03/17/2019 2:00",
+    "Location": "Estadio de Anoeta",
+    "Home": "Real Sociedad",
+    "Away": "Levante UD",
+    "Result": ""
+  },
+  {
+    "Matchday": 28,
+    "Date": "03/17/2019 2:00",
+    "Location": "Estadio de la Cer\u00c3\u00a1mica",
+    "Home": "Villarreal CF",
+    "Away": "Rayo Vallecano",
+    "Result": ""
+  },
+  {
+    "Matchday": 29,
+    "Date": "03/31/2019 1:00",
+    "Location": "Mendizorroza",
+    "Home": "D. Alav\u00c3\u00a9s",
+    "Away": "Atl\u00c3\u00a9tico de Madrid",
+    "Result": ""
+  },
+  {
+    "Matchday": 29,
+    "Date": "03/31/2019 1:00",
+    "Location": "Camp Nou",
+    "Home": "FC Barcelona",
+    "Away": "RCD Espanyol",
+    "Result": ""
+  },
+  {
+    "Matchday": 29,
+    "Date": "03/31/2019 1:00",
+    "Location": "Estadio Abanca Bala\u00c3\u00addos",
+    "Home": "RC Celta",
+    "Away": "Villarreal CF",
+    "Result": ""
+  },
+  {
+    "Matchday": 29,
+    "Date": "03/31/2019 1:00",
+    "Location": "Coliseum Alfonso P\u00c3\u00a9rez",
+    "Home": "Getafe CF",
+    "Away": "CD Legan\u00c3\u00a9s",
+    "Result": ""
+  },
+  {
+    "Matchday": 29,
+    "Date": "03/31/2019 1:00",
+    "Location": "Ram\u00c3\u00b3n S\u00c3\u00a1nchez-Pizju\u00c3\u00a1n",
+    "Home": "Sevilla FC",
+    "Away": "Valencia CF",
+    "Result": ""
+  },
+  {
+    "Matchday": 29,
+    "Date": "03/31/2019 1:00",
+    "Location": "Estadio Municipal de Montilivi",
+    "Home": "Girona FC",
+    "Away": "Athletic Club",
+    "Result": ""
+  },
+  {
+    "Matchday": 29,
+    "Date": "03/31/2019 1:00",
+    "Location": "Estadio de Vallecas",
+    "Home": "Rayo Vallecano",
+    "Away": "Real Betis",
+    "Result": ""
+  },
+  {
+    "Matchday": 29,
+    "Date": "03/31/2019 1:00",
+    "Location": "Estadio Ciutat de Val\u00c3\u00a8ncia",
+    "Home": "Levante UD",
+    "Away": "SD Eibar",
+    "Result": ""
+  },
+  {
+    "Matchday": 29,
+    "Date": "03/31/2019 1:00",
+    "Location": "Estadio Santiago Bernab\u00c3\u00a9u",
+    "Home": "Real Madrid",
+    "Away": "SD Huesca",
+    "Result": ""
+  },
+  {
+    "Matchday": 29,
+    "Date": "03/31/2019 1:00",
+    "Location": "Estadio Municipal Jos\u00c3\u00a9 Zorrilla",
+    "Home": "R. Valladolid CF",
+    "Away": "Real Sociedad",
+    "Result": ""
+  },
+  {
+    "Matchday": 30,
+    "Date": "04/03/2019 1:00",
+    "Location": "Estadio San Mam\u00c3\u00a9s",
+    "Home": "Athletic Club",
+    "Away": "Levante UD",
+    "Result": ""
+  },
+  {
+    "Matchday": 30,
+    "Date": "04/03/2019 1:00",
+    "Location": "Wanda Metropolitano",
+    "Home": "Atl\u00c3\u00a9tico de Madrid",
+    "Away": "Girona FC",
+    "Result": ""
+  },
+  {
+    "Matchday": 30,
+    "Date": "04/03/2019 1:00",
+    "Location": "Municipal de Ipurua",
+    "Home": "SD Eibar",
+    "Away": "Rayo Vallecano",
+    "Result": ""
+  },
+  {
+    "Matchday": 30,
+    "Date": "04/03/2019 1:00",
+    "Location": "RCDE Stadium",
+    "Home": "RCD Espanyol",
+    "Away": "Getafe CF",
+    "Result": ""
+  },
+  {
+    "Matchday": 30,
+    "Date": "04/03/2019 1:00",
+    "Location": "Estadio Municipal Butarque",
+    "Home": "CD Legan\u00c3\u00a9s",
+    "Away": "R. Valladolid CF",
+    "Result": ""
+  },
+  {
+    "Matchday": 30,
+    "Date": "04/03/2019 1:00",
+    "Location": "Ram\u00c3\u00b3n S\u00c3\u00a1nchez-Pizju\u00c3\u00a1n",
+    "Home": "Sevilla FC",
+    "Away": "D. Alav\u00c3\u00a9s",
+    "Result": ""
+  },
+  {
+    "Matchday": 30,
+    "Date": "04/03/2019 1:00",
+    "Location": "Estadio de la Cer\u00c3\u00a1mica",
+    "Home": "Villarreal CF",
+    "Away": "FC Barcelona",
+    "Result": ""
+  },
+  {
+    "Matchday": 30,
+    "Date": "04/03/2019 1:00",
+    "Location": "Estadio de Anoeta",
+    "Home": "Real Sociedad",
+    "Away": "Real Betis",
+    "Result": ""
+  },
+  {
+    "Matchday": 30,
+    "Date": "04/03/2019 1:00",
+    "Location": "El Alcoraz",
+    "Home": "SD Huesca",
+    "Away": "RC Celta",
+    "Result": ""
+  },
+  {
+    "Matchday": 30,
+    "Date": "04/03/2019 1:00",
+    "Location": "Estadio de Mestalla",
+    "Home": "Valencia CF",
+    "Away": "Real Madrid",
+    "Result": ""
+  },
+  {
+    "Matchday": 31,
+    "Date": "04/07/2019 0:00",
+    "Location": "Mendizorroza",
+    "Home": "D. Alav\u00c3\u00a9s",
+    "Away": "CD Legan\u00c3\u00a9s",
+    "Result": ""
+  },
+  {
+    "Matchday": 31,
+    "Date": "04/07/2019 0:00",
+    "Location": "Estadio Benito Villamar\u00c3\u00adn",
+    "Home": "Real Betis",
+    "Away": "Villarreal CF",
+    "Result": ""
+  },
+  {
+    "Matchday": 31,
+    "Date": "04/07/2019 0:00",
+    "Location": "Estadio Abanca Bala\u00c3\u00addos",
+    "Home": "RC Celta",
+    "Away": "Real Sociedad",
+    "Result": ""
+  },
+  {
+    "Matchday": 31,
+    "Date": "04/07/2019 0:00",
+    "Location": "Estadio de Vallecas",
+    "Home": "Rayo Vallecano",
+    "Away": "Valencia CF",
+    "Result": ""
+  },
+  {
+    "Matchday": 31,
+    "Date": "04/07/2019 0:00",
+    "Location": "Coliseum Alfonso P\u00c3\u00a9rez",
+    "Home": "Getafe CF",
+    "Away": "Athletic Club",
+    "Result": ""
+  },
+  {
+    "Matchday": 31,
+    "Date": "04/07/2019 0:00",
+    "Location": "Camp Nou",
+    "Home": "FC Barcelona",
+    "Away": "Atl\u00c3\u00a9tico de Madrid",
+    "Result": ""
+  },
+  {
+    "Matchday": 31,
+    "Date": "04/07/2019 0:00",
+    "Location": "Estadio Santiago Bernab\u00c3\u00a9u",
+    "Home": "Real Madrid",
+    "Away": "SD Eibar",
+    "Result": ""
+  },
+  {
+    "Matchday": 31,
+    "Date": "04/07/2019 0:00",
+    "Location": "Estadio Municipal de Montilivi",
+    "Home": "Girona FC",
+    "Away": "RCD Espanyol",
+    "Result": ""
+  },
+  {
+    "Matchday": 31,
+    "Date": "04/07/2019 0:00",
+    "Location": "Estadio Ciutat de Val\u00c3\u00a8ncia",
+    "Home": "Levante UD",
+    "Away": "SD Huesca",
+    "Result": ""
+  },
+  {
+    "Matchday": 31,
+    "Date": "04/07/2019 0:00",
+    "Location": "Estadio Municipal Jos\u00c3\u00a9 Zorrilla",
+    "Home": "R. Valladolid CF",
+    "Away": "Sevilla FC",
+    "Result": ""
+  },
+  {
+    "Matchday": 32,
+    "Date": "04/14/2019 0:00",
+    "Location": "Estadio San Mam\u00c3\u00a9s",
+    "Home": "Athletic Club",
+    "Away": "Rayo Vallecano",
+    "Result": ""
+  },
+  {
+    "Matchday": 32,
+    "Date": "04/14/2019 0:00",
+    "Location": "Wanda Metropolitano",
+    "Home": "Atl\u00c3\u00a9tico de Madrid",
+    "Away": "RC Celta",
+    "Result": ""
+  },
+  {
+    "Matchday": 32,
+    "Date": "04/14/2019 0:00",
+    "Location": "Estadio Municipal de Montilivi",
+    "Home": "Girona FC",
+    "Away": "Villarreal CF",
+    "Result": ""
+  },
+  {
+    "Matchday": 32,
+    "Date": "04/14/2019 0:00",
+    "Location": "Estadio Municipal Butarque",
+    "Home": "CD Legan\u00c3\u00a9s",
+    "Away": "Real Madrid",
+    "Result": ""
+  },
+  {
+    "Matchday": 32,
+    "Date": "04/14/2019 0:00",
+    "Location": "RCDE Stadium",
+    "Home": "RCD Espanyol",
+    "Away": "D. Alav\u00c3\u00a9s",
+    "Result": ""
+  },
+  {
+    "Matchday": 32,
+    "Date": "04/14/2019 0:00",
+    "Location": "El Alcoraz",
+    "Home": "SD Huesca",
+    "Away": "FC Barcelona",
+    "Result": ""
+  },
+  {
+    "Matchday": 32,
+    "Date": "04/14/2019 0:00",
+    "Location": "Ram\u00c3\u00b3n S\u00c3\u00a1nchez-Pizju\u00c3\u00a1n",
+    "Home": "Sevilla FC",
+    "Away": "Real Betis",
+    "Result": ""
+  },
+  {
+    "Matchday": 32,
+    "Date": "04/14/2019 0:00",
+    "Location": "Estadio de Anoeta",
+    "Home": "Real Sociedad",
+    "Away": "SD Eibar",
+    "Result": ""
+  },
+  {
+    "Matchday": 32,
+    "Date": "04/14/2019 0:00",
+    "Location": "Estadio Municipal Jos\u00c3\u00a9 Zorrilla",
+    "Home": "R. Valladolid CF",
+    "Away": "Getafe CF",
+    "Result": ""
+  },
+  {
+    "Matchday": 32,
+    "Date": "04/14/2019 0:00",
+    "Location": "Estadio de Mestalla",
+    "Home": "Valencia CF",
+    "Away": "Levante UD",
+    "Result": ""
+  },
+  {
+    "Matchday": 33,
+    "Date": "04/21/2019 0:00",
+    "Location": "Mendizorroza",
+    "Home": "D. Alav\u00c3\u00a9s",
+    "Away": "R. Valladolid CF",
+    "Result": ""
+  },
+  {
+    "Matchday": 33,
+    "Date": "04/21/2019 0:00",
+    "Location": "Camp Nou",
+    "Home": "FC Barcelona",
+    "Away": "Real Sociedad",
+    "Result": ""
+  },
+  {
+    "Matchday": 33,
+    "Date": "04/21/2019 0:00",
+    "Location": "Estadio Benito Villamar\u00c3\u00adn",
+    "Home": "Real Betis",
+    "Away": "Valencia CF",
+    "Result": ""
+  },
+  {
+    "Matchday": 33,
+    "Date": "04/21/2019 0:00",
+    "Location": "Estadio Abanca Bala\u00c3\u00addos",
+    "Home": "RC Celta",
+    "Away": "Girona FC",
+    "Result": ""
+  },
+  {
+    "Matchday": 33,
+    "Date": "04/21/2019 0:00",
+    "Location": "Coliseum Alfonso P\u00c3\u00a9rez",
+    "Home": "Getafe CF",
+    "Away": "Sevilla FC",
+    "Result": ""
+  },
+  {
+    "Matchday": 33,
+    "Date": "04/21/2019 0:00",
+    "Location": "Estadio Santiago Bernab\u00c3\u00a9u",
+    "Home": "Real Madrid",
+    "Away": "Athletic Club",
+    "Result": ""
+  },
+  {
+    "Matchday": 33,
+    "Date": "04/21/2019 0:00",
+    "Location": "Municipal de Ipurua",
+    "Home": "SD Eibar",
+    "Away": "Atl\u00c3\u00a9tico de Madrid",
+    "Result": ""
+  },
+  {
+    "Matchday": 33,
+    "Date": "04/21/2019 0:00",
+    "Location": "Estadio Ciutat de Val\u00c3\u00a8ncia",
+    "Home": "Levante UD",
+    "Away": "RCD Espanyol",
+    "Result": ""
+  },
+  {
+    "Matchday": 33,
+    "Date": "04/21/2019 0:00",
+    "Location": "Estadio de Vallecas",
+    "Home": "Rayo Vallecano",
+    "Away": "SD Huesca",
+    "Result": ""
+  },
+  {
+    "Matchday": 33,
+    "Date": "04/21/2019 0:00",
+    "Location": "Estadio de la Cer\u00c3\u00a1mica",
+    "Home": "Villarreal CF",
+    "Away": "CD Legan\u00c3\u00a9s",
+    "Result": ""
+  },
+  {
+    "Matchday": 34,
+    "Date": "04/24/2019 0:00",
+    "Location": "Mendizorroza",
+    "Home": "D. Alav\u00c3\u00a9s",
+    "Away": "FC Barcelona",
+    "Result": ""
+  },
+  {
+    "Matchday": 34,
+    "Date": "04/24/2019 0:00",
+    "Location": "Wanda Metropolitano",
+    "Home": "Atl\u00c3\u00a9tico de Madrid",
+    "Away": "Valencia CF",
+    "Result": ""
+  },
+  {
+    "Matchday": 34,
+    "Date": "04/24/2019 0:00",
+    "Location": "Coliseum Alfonso P\u00c3\u00a9rez",
+    "Home": "Getafe CF",
+    "Away": "Real Madrid",
+    "Result": ""
+  },
+  {
+    "Matchday": 34,
+    "Date": "04/24/2019 0:00",
+    "Location": "Estadio de Anoeta",
+    "Home": "Real Sociedad",
+    "Away": "Villarreal CF",
+    "Result": ""
+  },
+  {
+    "Matchday": 34,
+    "Date": "04/24/2019 0:00",
+    "Location": "Estadio Municipal Butarque",
+    "Home": "CD Legan\u00c3\u00a9s",
+    "Away": "Athletic Club",
+    "Result": ""
+  },
+  {
+    "Matchday": 34,
+    "Date": "04/24/2019 0:00",
+    "Location": "Estadio Ciutat de Val\u00c3\u00a8ncia",
+    "Home": "Levante UD",
+    "Away": "Real Betis",
+    "Result": ""
+  },
+  {
+    "Matchday": 34,
+    "Date": "04/24/2019 0:00",
+    "Location": "RCDE Stadium",
+    "Home": "RCD Espanyol",
+    "Away": "RC Celta",
+    "Result": ""
+  },
+  {
+    "Matchday": 34,
+    "Date": "04/24/2019 0:00",
+    "Location": "El Alcoraz",
+    "Home": "SD Huesca",
+    "Away": "SD Eibar",
+    "Result": ""
+  },
+  {
+    "Matchday": 34,
+    "Date": "04/24/2019 0:00",
+    "Location": "Estadio Municipal Jos\u00c3\u00a9 Zorrilla",
+    "Home": "R. Valladolid CF",
+    "Away": "Girona FC",
+    "Result": ""
+  },
+  {
+    "Matchday": 34,
+    "Date": "04/24/2019 0:00",
+    "Location": "Ram\u00c3\u00b3n S\u00c3\u00a1nchez-Pizju\u00c3\u00a1n",
+    "Home": "Sevilla FC",
+    "Away": "Rayo Vallecano",
+    "Result": ""
+  },
+  {
+    "Matchday": 35,
+    "Date": "04/28/2019 0:00",
+    "Location": "Wanda Metropolitano",
+    "Home": "Atl\u00c3\u00a9tico de Madrid",
+    "Away": "R. Valladolid CF",
+    "Result": ""
+  },
+  {
+    "Matchday": 35,
+    "Date": "04/28/2019 0:00",
+    "Location": "Camp Nou",
+    "Home": "FC Barcelona",
+    "Away": "Levante UD",
+    "Result": ""
+  },
+  {
+    "Matchday": 35,
+    "Date": "04/28/2019 0:00",
+    "Location": "Estadio Benito Villamar\u00c3\u00adn",
+    "Home": "Real Betis",
+    "Away": "RCD Espanyol",
+    "Result": ""
+  },
+  {
+    "Matchday": 35,
+    "Date": "04/28/2019 0:00",
+    "Location": "Estadio Municipal de Montilivi",
+    "Home": "Girona FC",
+    "Away": "Sevilla FC",
+    "Result": ""
+  },
+  {
+    "Matchday": 35,
+    "Date": "04/28/2019 0:00",
+    "Location": "Estadio de Vallecas",
+    "Home": "Rayo Vallecano",
+    "Away": "Real Madrid",
+    "Result": ""
+  },
+  {
+    "Matchday": 35,
+    "Date": "04/28/2019 0:00",
+    "Location": "Estadio San Mam\u00c3\u00a9s",
+    "Home": "Athletic Club",
+    "Away": "D. Alav\u00c3\u00a9s",
+    "Result": ""
+  },
+  {
+    "Matchday": 35,
+    "Date": "04/28/2019 0:00",
+    "Location": "Estadio Municipal Butarque",
+    "Home": "CD Legan\u00c3\u00a9s",
+    "Away": "RC Celta",
+    "Result": ""
+  },
+  {
+    "Matchday": 35,
+    "Date": "04/28/2019 0:00",
+    "Location": "Estadio de Mestalla",
+    "Home": "Valencia CF",
+    "Away": "SD Eibar",
+    "Result": ""
+  },
+  {
+    "Matchday": 35,
+    "Date": "04/28/2019 0:00",
+    "Location": "Estadio de Anoeta",
+    "Home": "Real Sociedad",
+    "Away": "Getafe CF",
+    "Result": ""
+  },
+  {
+    "Matchday": 35,
+    "Date": "04/28/2019 0:00",
+    "Location": "Estadio de la Cer\u00c3\u00a1mica",
+    "Home": "Villarreal CF",
+    "Away": "SD Huesca",
+    "Result": ""
+  },
+  {
+    "Matchday": 36,
+    "Date": "05/05/2019 0:00",
+    "Location": "Mendizorroza",
+    "Home": "D. Alav\u00c3\u00a9s",
+    "Away": "Real Sociedad",
+    "Result": ""
+  },
+  {
+    "Matchday": 36,
+    "Date": "05/05/2019 0:00",
+    "Location": "Coliseum Alfonso P\u00c3\u00a9rez",
+    "Home": "Getafe CF",
+    "Away": "Girona FC",
+    "Result": ""
+  },
+  {
+    "Matchday": 36,
+    "Date": "05/05/2019 0:00",
+    "Location": "El Alcoraz",
+    "Home": "SD Huesca",
+    "Away": "Valencia CF",
+    "Result": ""
+  },
+  {
+    "Matchday": 36,
+    "Date": "05/05/2019 0:00",
+    "Location": "Estadio Ciutat de Val\u00c3\u00a8ncia",
+    "Home": "Levante UD",
+    "Away": "Rayo Vallecano",
+    "Result": ""
+  },
+  {
+    "Matchday": 36,
+    "Date": "05/05/2019 0:00",
+    "Location": "Estadio Santiago Bernab\u00c3\u00a9u",
+    "Home": "Real Madrid",
+    "Away": "Villarreal CF",
+    "Result": ""
+  },
+  {
+    "Matchday": 36,
+    "Date": "05/05/2019 0:00",
+    "Location": "Estadio Municipal Jos\u00c3\u00a9 Zorrilla",
+    "Home": "R. Valladolid CF",
+    "Away": "Athletic Club",
+    "Result": ""
+  },
+  {
+    "Matchday": 36,
+    "Date": "05/05/2019 0:00",
+    "Location": "RCDE Stadium",
+    "Home": "RCD Espanyol",
+    "Away": "Atl\u00c3\u00a9tico de Madrid",
+    "Result": ""
+  },
+  {
+    "Matchday": 36,
+    "Date": "05/05/2019 0:00",
+    "Location": "Estadio Abanca Bala\u00c3\u00addos",
+    "Home": "RC Celta",
+    "Away": "FC Barcelona",
+    "Result": ""
+  },
+  {
+    "Matchday": 36,
+    "Date": "05/05/2019 0:00",
+    "Location": "Municipal de Ipurua",
+    "Home": "SD Eibar",
+    "Away": "Real Betis",
+    "Result": ""
+  },
+  {
+    "Matchday": 36,
+    "Date": "05/05/2019 0:00",
+    "Location": "Ram\u00c3\u00b3n S\u00c3\u00a1nchez-Pizju\u00c3\u00a1n",
+    "Home": "Sevilla FC",
+    "Away": "CD Legan\u00c3\u00a9s",
+    "Result": ""
+  },
+  {
+    "Matchday": 37,
+    "Date": "05/12/2019 0:00",
+    "Location": "Estadio San Mam\u00c3\u00a9s",
+    "Home": "Athletic Club",
+    "Away": "RC Celta",
+    "Result": ""
+  },
+  {
+    "Matchday": 37,
+    "Date": "05/12/2019 0:00",
+    "Location": "Wanda Metropolitano",
+    "Home": "Atl\u00c3\u00a9tico de Madrid",
+    "Away": "Sevilla FC",
+    "Result": ""
+  },
+  {
+    "Matchday": 37,
+    "Date": "05/12/2019 0:00",
+    "Location": "Camp Nou",
+    "Home": "FC Barcelona",
+    "Away": "Getafe CF",
+    "Result": ""
+  },
+  {
+    "Matchday": 37,
+    "Date": "05/12/2019 0:00",
+    "Location": "Estadio Benito Villamar\u00c3\u00adn",
+    "Home": "Real Betis",
+    "Away": "SD Huesca",
+    "Result": ""
+  },
+  {
+    "Matchday": 37,
+    "Date": "05/12/2019 0:00",
+    "Location": "Estadio Municipal de Montilivi",
+    "Home": "Girona FC",
+    "Away": "Levante UD",
+    "Result": ""
+  },
+  {
+    "Matchday": 37,
+    "Date": "05/12/2019 0:00",
+    "Location": "Estadio de Vallecas",
+    "Home": "Rayo Vallecano",
+    "Away": "R. Valladolid CF",
+    "Result": ""
+  },
+  {
+    "Matchday": 37,
+    "Date": "05/12/2019 0:00",
+    "Location": "Estadio de Mestalla",
+    "Home": "Valencia CF",
+    "Away": "D. Alav\u00c3\u00a9s",
+    "Result": ""
+  },
+  {
+    "Matchday": 37,
+    "Date": "05/12/2019 0:00",
+    "Location": "Estadio de la Cer\u00c3\u00a1mica",
+    "Home": "Villarreal CF",
+    "Away": "SD Eibar",
+    "Result": ""
+  },
+  {
+    "Matchday": 37,
+    "Date": "05/12/2019 0:00",
+    "Location": "Estadio Municipal Butarque",
+    "Home": "CD Legan\u00c3\u00a9s",
+    "Away": "RCD Espanyol",
+    "Result": ""
+  },
+  {
+    "Matchday": 37,
+    "Date": "05/12/2019 0:00",
+    "Location": "Estadio de Anoeta",
+    "Home": "Real Sociedad",
+    "Away": "Real Madrid",
+    "Result": ""
+  },
+  {
+    "Matchday": 38,
+    "Date": "05/19/2019 0:00",
+    "Location": "Mendizorroza",
+    "Home": "D. Alav\u00c3\u00a9s",
+    "Away": "Girona FC",
+    "Result": ""
+  },
+  {
+    "Matchday": 38,
+    "Date": "05/19/2019 0:00",
+    "Location": "Estadio Abanca Bala\u00c3\u00addos",
+    "Home": "RC Celta",
+    "Away": "Rayo Vallecano",
+    "Result": ""
+  },
+  {
+    "Matchday": 38,
+    "Date": "05/19/2019 0:00",
+    "Location": "RCDE Stadium",
+    "Home": "RCD Espanyol",
+    "Away": "Real Sociedad",
+    "Result": ""
+  },
+  {
+    "Matchday": 38,
+    "Date": "05/19/2019 0:00",
+    "Location": "Coliseum Alfonso P\u00c3\u00a9rez",
+    "Home": "Getafe CF",
+    "Away": "Villarreal CF",
+    "Result": ""
+  },
+  {
+    "Matchday": 38,
+    "Date": "05/19/2019 0:00",
+    "Location": "El Alcoraz",
+    "Home": "SD Huesca",
+    "Away": "CD Legan\u00c3\u00a9s",
+    "Result": ""
+  },
+  {
+    "Matchday": 38,
+    "Date": "05/19/2019 0:00",
+    "Location": "Ram\u00c3\u00b3n S\u00c3\u00a1nchez-Pizju\u00c3\u00a1n",
+    "Home": "Sevilla FC",
+    "Away": "Athletic Club",
+    "Result": ""
+  },
+  {
+    "Matchday": 38,
+    "Date": "05/19/2019 0:00",
+    "Location": "Estadio Ciutat de Val\u00c3\u00a8ncia",
+    "Home": "Levante UD",
+    "Away": "Atl\u00c3\u00a9tico de Madrid",
+    "Result": ""
+  },
+  {
+    "Matchday": 38,
+    "Date": "05/19/2019 0:00",
+    "Location": "Municipal de Ipurua",
+    "Home": "SD Eibar",
+    "Away": "FC Barcelona",
+    "Result": ""
+  },
+  {
+    "Matchday": 38,
+    "Date": "05/19/2019 0:00",
+    "Location": "Estadio Santiago Bernab\u00c3\u00a9u",
+    "Home": "Real Madrid",
+    "Away": "Real Betis",
+    "Result": ""
+  },
+  {
+    "Matchday": 38,
+    "Date": "05/19/2019 0:00",
+    "Location": "Estadio Municipal Jos\u00c3\u00a9 Zorrilla",
+    "Home": "R. Valladolid CF",
+    "Away": "Valencia CF",
+    "Result": ""
+  }
+]

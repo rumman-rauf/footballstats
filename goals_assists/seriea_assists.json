@@ -1,0 +1,86 @@
+[
+  {
+    "name": "Alejandro G\u00f3mez",
+    "club": "Atalanta",
+    "amount": "11",
+    "nation": "Argentina",
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/23px-Flag_of_Argentina.svg.png"
+  },
+  {
+    "name": "Dries Mertens",
+    "club": "Napoli",
+    "amount": 11,
+    "nation": "Belgium",
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Belgium_%28civil%29.svg/23px-Flag_of_Belgium_%28civil%29.svg.png"
+  },
+  {
+    "name": "Jos\u00e9 Callej\u00f3n",
+    "club": "Napoli",
+    "amount": "10",
+    "nation": "Spain",
+    "flag": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/23px-Flag_of_Spain.svg.png"
+  },
+  {
+    "name": "Suso",
+    "club": "Milan",
+    "amount": 10,
+    "nation": "Spain",
+    "flag": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/23px-Flag_of_Spain.svg.png"
+  },
+  {
+    "name": "Rodrigo De Paul",
+    "club": "Udinese",
+    "amount": "8",
+    "nation": "Argentina",
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/23px-Flag_of_Argentina.svg.png"
+  },
+  {
+    "name": "Manuel Lazzari",
+    "club": "SPAL",
+    "amount": 8,
+    "nation": "Italy",
+    "flag": "https://upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png"
+  },
+  {
+    "name": "Fabio Quagliarella",
+    "club": "Sampdoria",
+    "amount": 8,
+    "nation": "Italy",
+    "flag": "https://upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png"
+  },
+  {
+    "name": "Cristiano Ronaldo",
+    "club": "Juventus",
+    "amount": 8,
+    "nation": "Portugal",
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/23px-Flag_of_Portugal.svg.png"
+  },
+  {
+    "name": "Josip Ili\u010di\u0107",
+    "club": "Atalanta",
+    "amount": "7",
+    "nation": "Slovenia",
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Flag_of_Slovenia.svg/23px-Flag_of_Slovenia.svg.png"
+  },
+  {
+    "name": "Rade Kruni\u0107",
+    "club": "Empoli",
+    "amount": 7,
+    "nation": "Bosnia and Herzegovina",
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Flag_of_Bosnia_and_Herzegovina.svg/23px-Flag_of_Bosnia_and_Herzegovina.svg.png"
+  },
+  {
+    "name": "Cengiz \u00dcnder",
+    "club": "Roma",
+    "amount": 7,
+    "nation": "Turkey",
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/23px-Flag_of_Turkey.svg.png"
+  },
+  {
+    "name": "Duv\u00e1n Zapata",
+    "club": "Atalanta",
+    "amount": 7,
+    "nation": "Colombia",
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Colombia.svg/23px-Flag_of_Colombia.svg.png"
+  }
+]

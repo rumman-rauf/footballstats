@@ -1,0 +1,3042 @@
+[
+  {
+    "Matchday": 1,
+    "Date": "08/19/2018 2:00",
+    "Location": "Stadio Marc'Antonio Bentegodi",
+    "Home": "Chievoverona",
+    "Away": "Juventus",
+    "Result": "2 - 3"
+  },
+  {
+    "Matchday": 1,
+    "Date": "08/19/2018 4:30",
+    "Location": "Stadio Olimpico",
+    "Home": "Lazio",
+    "Away": "Napoli",
+    "Result": "1 - 2"
+  },
+  {
+    "Matchday": 1,
+    "Date": "08/20/2018 2:00",
+    "Location": "Stadio Olimpico Grande Torino",
+    "Home": "Torino",
+    "Away": "Roma",
+    "Result": "0 - 1"
+  },
+  {
+    "Matchday": 1,
+    "Date": "08/20/2018 4:30",
+    "Location": "Stadio Renato Dall'Ara",
+    "Home": "Bologna",
+    "Away": "Spal",
+    "Result": "0 - 1"
+  },
+  {
+    "Matchday": 1,
+    "Date": "08/20/2018 4:30",
+    "Location": "Stadio Carlo Castellani",
+    "Home": "Empoli",
+    "Away": "Cagliari",
+    "Result": "2 - 0"
+  },
+  {
+    "Matchday": 1,
+    "Date": "08/20/2018 4:30",
+    "Location": "Stadio Ennio Tardini",
+    "Home": "Parma",
+    "Away": "Udinese",
+    "Result": "2 - 2"
+  },
+  {
+    "Matchday": 1,
+    "Date": "08/20/2018 4:30",
+    "Location": "Mapei Stadium \u00e2\u20ac\u201c Citt\u00c3\u00a0 del Tricolore",
+    "Home": "Sassuolo",
+    "Away": "Inter",
+    "Result": "1 - 0"
+  },
+  {
+    "Matchday": 1,
+    "Date": "08/21/2018 4:30",
+    "Location": "Stadio Atleti Azzurri d'Italia",
+    "Home": "Atalanta",
+    "Away": "Frosinone",
+    "Result": "4 - 0"
+  },
+  {
+    "Matchday": 2,
+    "Date": "08/26/2018 2:00",
+    "Location": "Allianz Stadium",
+    "Home": "Juventus",
+    "Away": "Lazio",
+    "Result": "2 - 0"
+  },
+  {
+    "Matchday": 2,
+    "Date": "08/26/2018 4:30",
+    "Location": "Stadio San Paolo",
+    "Home": "Napoli",
+    "Away": "Milan",
+    "Result": "3 - 2"
+  },
+  {
+    "Matchday": 2,
+    "Date": "08/27/2018 2:00",
+    "Location": "Stadio Renato Dall'Ara",
+    "Home": "Spal",
+    "Away": "Parma",
+    "Result": "1 - 0"
+  },
+  {
+    "Matchday": 2,
+    "Date": "08/27/2018 4:30",
+    "Location": "Sardegna Arena",
+    "Home": "Cagliari",
+    "Away": "Sassuolo",
+    "Result": "2 - 2"
+  },
+  {
+    "Matchday": 2,
+    "Date": "08/27/2018 4:30",
+    "Location": "Stadio Artemio Franchi",
+    "Home": "Fiorentina",
+    "Away": "Chievoverona",
+    "Result": "6 - 1"
+  },
+  {
+    "Matchday": 2,
+    "Date": "08/27/2018 4:30",
+    "Location": "Stadio Olimpico Grande Torino",
+    "Home": "Frosinone",
+    "Away": "Bologna",
+    "Result": "0 - 0"
+  },
+  {
+    "Matchday": 2,
+    "Date": "08/27/2018 4:30",
+    "Location": "Stadio Luigi Ferraris",
+    "Home": "Genoa",
+    "Away": "Empoli",
+    "Result": "2 - 1"
+  },
+  {
+    "Matchday": 2,
+    "Date": "08/27/2018 4:30",
+    "Location": "Stadio Giuseppe Meazza",
+    "Home": "Inter",
+    "Away": "Torino",
+    "Result": "2 - 2"
+  },
+  {
+    "Matchday": 2,
+    "Date": "08/27/2018 4:30",
+    "Location": "Stadio Friuli",
+    "Home": "Udinese",
+    "Away": "Sampdoria",
+    "Result": "1 - 0"
+  },
+  {
+    "Matchday": 2,
+    "Date": "08/28/2018 4:30",
+    "Location": "Stadio Olimpico",
+    "Home": "Roma",
+    "Away": "Atalanta",
+    "Result": "3 - 3"
+  },
+  {
+    "Matchday": 3,
+    "Date": "09/01/2018 4:30",
+    "Location": "Stadio Giuseppe Meazza",
+    "Home": "Milan",
+    "Away": "Roma",
+    "Result": "2 - 1"
+  },
+  {
+    "Matchday": 3,
+    "Date": "09/02/2018 2:00",
+    "Location": "Stadio Renato Dall'Ara",
+    "Home": "Bologna",
+    "Away": "Inter",
+    "Result": "0 - 3"
+  },
+  {
+    "Matchday": 3,
+    "Date": "09/02/2018 4:30",
+    "Location": "Stadio Ennio Tardini",
+    "Home": "Parma",
+    "Away": "Juventus",
+    "Result": "1 - 2"
+  },
+  {
+    "Matchday": 3,
+    "Date": "09/03/2018 2:00",
+    "Location": "Stadio Artemio Franchi",
+    "Home": "Fiorentina",
+    "Away": "Udinese",
+    "Result": "1 - 0"
+  },
+  {
+    "Matchday": 3,
+    "Date": "09/03/2018 4:30",
+    "Location": "Stadio Atleti Azzurri d'Italia",
+    "Home": "Atalanta",
+    "Away": "Cagliari",
+    "Result": "0 - 1"
+  },
+  {
+    "Matchday": 3,
+    "Date": "09/03/2018 4:30",
+    "Location": "Stadio Marc'Antonio Bentegodi",
+    "Home": "Chievoverona",
+    "Away": "Empoli",
+    "Result": "0 - 0"
+  },
+  {
+    "Matchday": 3,
+    "Date": "09/03/2018 4:30",
+    "Location": "Stadio Olimpico",
+    "Home": "Lazio",
+    "Away": "Frosinone",
+    "Result": "1 - 0"
+  },
+  {
+    "Matchday": 3,
+    "Date": "09/03/2018 4:30",
+    "Location": "Stadio Luigi Ferraris",
+    "Home": "Sampdoria",
+    "Away": "Napoli",
+    "Result": "3 - 0"
+  },
+  {
+    "Matchday": 3,
+    "Date": "09/03/2018 4:30",
+    "Location": "Mapei Stadium \u00e2\u20ac\u201c Citt\u00c3\u00a0 del Tricolore",
+    "Home": "Sassuolo",
+    "Away": "Genoa",
+    "Result": "5 - 3"
+  },
+  {
+    "Matchday": 3,
+    "Date": "09/03/2018 4:30",
+    "Location": "Stadio Olimpico Grande Torino",
+    "Home": "Torino",
+    "Away": "Spal",
+    "Result": "1 - 0"
+  },
+  {
+    "Matchday": 4,
+    "Date": "09/15/2018 3:00",
+    "Location": "Stadio Giuseppe Meazza",
+    "Home": "Inter",
+    "Away": "Parma",
+    "Result": "0 - 1"
+  },
+  {
+    "Matchday": 4,
+    "Date": "09/16/2018 2:00",
+    "Location": "Stadio San Paolo",
+    "Home": "Napoli",
+    "Away": "Fiorentina",
+    "Result": "1 - 0"
+  },
+  {
+    "Matchday": 4,
+    "Date": "09/16/2018 4:30",
+    "Location": "Stadio Benito Stirpe",
+    "Home": "Frosinone",
+    "Away": "Sampdoria",
+    "Result": "0 - 5"
+  },
+  {
+    "Matchday": 4,
+    "Date": "09/16/2018 0:30",
+    "Location": "Stadio Olimpico",
+    "Home": "Roma",
+    "Away": "Chievoverona",
+    "Result": "2 - 2"
+  },
+  {
+    "Matchday": 4,
+    "Date": "09/16/2018 3:00",
+    "Location": "Stadio Luigi Ferraris",
+    "Home": "Genoa",
+    "Away": "Bologna",
+    "Result": "1 - 0"
+  },
+  {
+    "Matchday": 4,
+    "Date": "09/16/2018 3:00",
+    "Location": "Allianz Stadium",
+    "Home": "Juventus",
+    "Away": "Sassuolo",
+    "Result": "2 - 1"
+  },
+  {
+    "Matchday": 4,
+    "Date": "09/16/2018 3:00",
+    "Location": "Stadio Friuli",
+    "Home": "Udinese",
+    "Away": "Torino",
+    "Result": "1 - 1"
+  },
+  {
+    "Matchday": 4,
+    "Date": "09/17/2018 2:00",
+    "Location": "Stadio Carlo Castellani",
+    "Home": "Empoli",
+    "Away": "Lazio",
+    "Result": "0 - 1"
+  },
+  {
+    "Matchday": 4,
+    "Date": "09/17/2018 4:30",
+    "Location": "Sardegna Arena",
+    "Home": "Cagliari",
+    "Away": "Milan",
+    "Result": "1 - 1"
+  },
+  {
+    "Matchday": 4,
+    "Date": "09/18/2018 4:30",
+    "Location": "Stadio Paolo Mazza",
+    "Home": "Spal",
+    "Away": "Atalanta",
+    "Result": "2 - 0"
+  },
+  {
+    "Matchday": 4,
+    "Date": "09/20/2018 3:00",
+    "Location": "Stadio Luigi Ferraris",
+    "Home": "Sampdoria",
+    "Away": "Fiorentina",
+    "Result": "1 - 1"
+  },
+  {
+    "Matchday": 5,
+    "Date": "09/22/2018 4:30",
+    "Location": "Mapei Stadium \u00e2\u20ac\u201c Citt\u00c3\u00a0 del Tricolore",
+    "Home": "Sassuolo",
+    "Away": "Empoli",
+    "Result": "3 - 1"
+  },
+  {
+    "Matchday": 5,
+    "Date": "09/22/2018 3:00",
+    "Location": "Stadio Ennio Tardini",
+    "Home": "Parma",
+    "Away": "Cagliari",
+    "Result": "2 - 0"
+  },
+  {
+    "Matchday": 5,
+    "Date": "09/23/2018 2:00",
+    "Location": "Stadio Artemio Franchi",
+    "Home": "Fiorentina",
+    "Away": "Spal",
+    "Result": "3 - 0"
+  },
+  {
+    "Matchday": 5,
+    "Date": "09/23/2018 4:30",
+    "Location": "Stadio Luigi Ferraris",
+    "Home": "Sampdoria",
+    "Away": "Inter",
+    "Result": "0 - 1"
+  },
+  {
+    "Matchday": 5,
+    "Date": "09/23/2018 0:30",
+    "Location": "Stadio Olimpico Grande Torino",
+    "Home": "Torino",
+    "Away": "Napoli",
+    "Result": "1 - 3"
+  },
+  {
+    "Matchday": 5,
+    "Date": "09/23/2018 3:00",
+    "Location": "Stadio Renato Dall'Ara",
+    "Home": "Bologna",
+    "Away": "Roma",
+    "Result": "2 - 0"
+  },
+  {
+    "Matchday": 5,
+    "Date": "09/23/2018 3:00",
+    "Location": "Stadio Marc'Antonio Bentegodi",
+    "Home": "Chievoverona",
+    "Away": "Udinese",
+    "Result": "0 - 2"
+  },
+  {
+    "Matchday": 5,
+    "Date": "09/23/2018 3:00",
+    "Location": "Stadio Olimpico",
+    "Home": "Lazio",
+    "Away": "Genoa",
+    "Result": "4 - 1"
+  },
+  {
+    "Matchday": 5,
+    "Date": "09/24/2018 2:00",
+    "Location": "Stadio Giuseppe Meazza",
+    "Home": "Milan",
+    "Away": "Atalanta",
+    "Result": "2 - 2"
+  },
+  {
+    "Matchday": 5,
+    "Date": "09/24/2018 4:30",
+    "Location": "Stadio Benito Stirpe",
+    "Home": "Frosinone",
+    "Away": "Juventus",
+    "Result": "0 - 2"
+  },
+  {
+    "Matchday": 6,
+    "Date": "09/26/2018 5:00",
+    "Location": "Stadio Giuseppe Meazza",
+    "Home": "Inter",
+    "Away": "Fiorentina",
+    "Result": "2 - 1"
+  },
+  {
+    "Matchday": 6,
+    "Date": "09/27/2018 3:00",
+    "Location": "Stadio Friuli",
+    "Home": "Udinese",
+    "Away": "Lazio",
+    "Result": "1 - 2"
+  },
+  {
+    "Matchday": 6,
+    "Date": "09/27/2018 5:00",
+    "Location": "Stadio Atleti Azzurri d'Italia",
+    "Home": "Atalanta",
+    "Away": "Torino",
+    "Result": "0 - 0"
+  },
+  {
+    "Matchday": 6,
+    "Date": "09/27/2018 5:00",
+    "Location": "Sardegna Arena",
+    "Home": "Cagliari",
+    "Away": "Sampdoria",
+    "Result": "0 - 0"
+  },
+  {
+    "Matchday": 6,
+    "Date": "09/27/2018 5:00",
+    "Location": "Stadio Luigi Ferraris",
+    "Home": "Genoa",
+    "Away": "Chievoverona",
+    "Result": "2 - 0"
+  },
+  {
+    "Matchday": 6,
+    "Date": "09/27/2018 5:00",
+    "Location": "Allianz Stadium",
+    "Home": "Juventus",
+    "Away": "Bologna",
+    "Result": "2 - 0"
+  },
+  {
+    "Matchday": 6,
+    "Date": "09/27/2018 5:00",
+    "Location": "Stadio San Paolo",
+    "Home": "Napoli",
+    "Away": "Parma",
+    "Result": "3 - 0"
+  },
+  {
+    "Matchday": 6,
+    "Date": "09/27/2018 5:00",
+    "Location": "Stadio Olimpico",
+    "Home": "Roma",
+    "Away": "Frosinone",
+    "Result": "4 - 0"
+  },
+  {
+    "Matchday": 6,
+    "Date": "09/28/2018 3:00",
+    "Location": "Stadio Paolo Mazza",
+    "Home": "Spal",
+    "Away": "Sassuolo",
+    "Result": "0 - 2"
+  },
+  {
+    "Matchday": 6,
+    "Date": "09/28/2018 5:00",
+    "Location": "Stadio Carlo Castellani",
+    "Home": "Empoli",
+    "Away": "Milan",
+    "Result": "1 - 1"
+  },
+  {
+    "Matchday": 7,
+    "Date": "09/30/2018 2:00",
+    "Location": "Stadio Olimpico",
+    "Home": "Roma",
+    "Away": "Lazio",
+    "Result": "3 - 1"
+  },
+  {
+    "Matchday": 7,
+    "Date": "09/30/2018 2:00",
+    "Location": "Allianz Stadium",
+    "Home": "Juventus",
+    "Away": "Napoli",
+    "Result": "3 - 1"
+  },
+  {
+    "Matchday": 7,
+    "Date": "09/30/2018 4:30",
+    "Location": "Stadio Giuseppe Meazza",
+    "Home": "Inter",
+    "Away": "Cagliari",
+    "Result": "2 - 0"
+  },
+  {
+    "Matchday": 7,
+    "Date": "09/30/2018 0:30",
+    "Location": "Stadio Renato Dall'Ara",
+    "Home": "Bologna",
+    "Away": "Udinese",
+    "Result": "2 - 1"
+  },
+  {
+    "Matchday": 7,
+    "Date": "09/30/2018 3:00",
+    "Location": "Stadio Marc'Antonio Bentegodi",
+    "Home": "Chievoverona",
+    "Away": "Torino",
+    "Result": "0 - 1"
+  },
+  {
+    "Matchday": 7,
+    "Date": "09/30/2018 3:00",
+    "Location": "Stadio Artemio Franchi",
+    "Home": "Fiorentina",
+    "Away": "Atalanta",
+    "Result": "2 - 0"
+  },
+  {
+    "Matchday": 7,
+    "Date": "09/30/2018 3:00",
+    "Location": "Stadio Benito Stirpe",
+    "Home": "Frosinone",
+    "Away": "Genoa",
+    "Result": "1 - 2"
+  },
+  {
+    "Matchday": 7,
+    "Date": "10/01/2018 2:00",
+    "Location": "Stadio Ennio Tardini",
+    "Home": "Parma",
+    "Away": "Empoli",
+    "Result": "1 - 0"
+  },
+  {
+    "Matchday": 7,
+    "Date": "10/01/2018 4:30",
+    "Location": "Mapei Stadium \u00e2\u20ac\u201c Citt\u00c3\u00a0 del Tricolore",
+    "Home": "Sassuolo",
+    "Away": "Milan",
+    "Result": "1 - 4"
+  },
+  {
+    "Matchday": 7,
+    "Date": "10/02/2018 4:30",
+    "Location": "Stadio Luigi Ferraris",
+    "Home": "Sampdoria",
+    "Away": "Spal",
+    "Result": "2 - 1"
+  },
+  {
+    "Matchday": 8,
+    "Date": "10/06/2018 4:30",
+    "Location": "Stadio Olimpico Grande Torino",
+    "Home": "Torino",
+    "Away": "Frosinone",
+    "Result": "3 - 2"
+  },
+  {
+    "Matchday": 8,
+    "Date": "10/06/2018 3:00",
+    "Location": "Sardegna Arena",
+    "Home": "Cagliari",
+    "Away": "Bologna",
+    "Result": "2 - 0"
+  },
+  {
+    "Matchday": 8,
+    "Date": "10/07/2018 3:00",
+    "Location": "Stadio Friuli",
+    "Home": "Udinese",
+    "Away": "Juventus",
+    "Result": "0 - 2"
+  },
+  {
+    "Matchday": 8,
+    "Date": "10/07/2018 5:30",
+    "Location": "Stadio Carlo Castellani",
+    "Home": "Empoli",
+    "Away": "Roma",
+    "Result": "0 - 2"
+  },
+  {
+    "Matchday": 8,
+    "Date": "10/07/2018 1:30",
+    "Location": "Stadio Luigi Ferraris",
+    "Home": "Genoa",
+    "Away": "Parma",
+    "Result": "1 - 3"
+  },
+  {
+    "Matchday": 8,
+    "Date": "10/08/2018 0:00",
+    "Location": "Stadio Atleti Azzurri d'Italia",
+    "Home": "Atalanta",
+    "Away": "Sampdoria",
+    "Result": "0 - 1"
+  },
+  {
+    "Matchday": 8,
+    "Date": "10/08/2018 0:00",
+    "Location": "Stadio Olimpico",
+    "Home": "Lazio",
+    "Away": "Fiorentina",
+    "Result": "1 - 0"
+  },
+  {
+    "Matchday": 8,
+    "Date": "10/08/2018 0:00",
+    "Location": "Stadio Giuseppe Meazza",
+    "Home": "Milan",
+    "Away": "Chievoverona",
+    "Result": "3 - 1"
+  },
+  {
+    "Matchday": 8,
+    "Date": "10/08/2018 3:00",
+    "Location": "Stadio San Paolo",
+    "Home": "Napoli",
+    "Away": "Sassuolo",
+    "Result": "2 - 0"
+  },
+  {
+    "Matchday": 8,
+    "Date": "10/08/2018 5:30",
+    "Location": "Stadio Paolo Mazza",
+    "Home": "Spal",
+    "Away": "Inter",
+    "Result": "1 - 2"
+  },
+  {
+    "Matchday": 9,
+    "Date": "10/21/2018 0:00",
+    "Location": "Stadio Olimpico",
+    "Home": "Roma",
+    "Away": "Spal",
+    "Result": "0 - 2"
+  },
+  {
+    "Matchday": 9,
+    "Date": "10/21/2018 3:00",
+    "Location": "Allianz Stadium",
+    "Home": "Juventus",
+    "Away": "Genoa",
+    "Result": "1 - 1"
+  },
+  {
+    "Matchday": 9,
+    "Date": "10/21/2018 5:30",
+    "Location": "Stadio Friuli",
+    "Home": "Udinese",
+    "Away": "Napoli",
+    "Result": "0 - 3"
+  },
+  {
+    "Matchday": 9,
+    "Date": "10/22/2018 0:00",
+    "Location": "Stadio Renato Dall'Ara",
+    "Home": "Bologna",
+    "Away": "Torino",
+    "Result": "2 - 2"
+  },
+  {
+    "Matchday": 9,
+    "Date": "10/22/2018 0:00",
+    "Location": "Stadio Marc'Antonio Bentegodi",
+    "Home": "Chievoverona",
+    "Away": "Atalanta",
+    "Result": "1 - 5"
+  },
+  {
+    "Matchday": 9,
+    "Date": "10/22/2018 0:00",
+    "Location": "Stadio Benito Stirpe",
+    "Home": "Frosinone",
+    "Away": "Empoli",
+    "Result": "3 - 3"
+  },
+  {
+    "Matchday": 9,
+    "Date": "10/22/2018 0:00",
+    "Location": "Stadio Ennio Tardini",
+    "Home": "Parma",
+    "Away": "Lazio",
+    "Result": "0 - 2"
+  },
+  {
+    "Matchday": 9,
+    "Date": "10/22/2018 3:00",
+    "Location": "Stadio Artemio Franchi",
+    "Home": "Fiorentina",
+    "Away": "Cagliari",
+    "Result": "1 - 1"
+  },
+  {
+    "Matchday": 9,
+    "Date": "10/22/2018 5:30",
+    "Location": "Stadio Giuseppe Meazza",
+    "Home": "Inter",
+    "Away": "Milan",
+    "Result": "1 - 0"
+  },
+  {
+    "Matchday": 9,
+    "Date": "10/23/2018 5:30",
+    "Location": "Stadio Luigi Ferraris",
+    "Home": "Sampdoria",
+    "Away": "Sassuolo",
+    "Result": "0 - 0"
+  },
+  {
+    "Matchday": 10,
+    "Date": "10/28/2018 0:00",
+    "Location": "Stadio Atleti Azzurri d'Italia",
+    "Home": "Atalanta",
+    "Away": "Parma",
+    "Result": "3 - 0"
+  },
+  {
+    "Matchday": 10,
+    "Date": "10/28/2018 3:00",
+    "Location": "Stadio Carlo Castellani",
+    "Home": "Empoli",
+    "Away": "Juventus",
+    "Result": "1 - 2"
+  },
+  {
+    "Matchday": 10,
+    "Date": "10/28/2018 5:30",
+    "Location": "Stadio Olimpico Grande Torino",
+    "Home": "Torino",
+    "Away": "Fiorentina",
+    "Result": "1 - 1"
+  },
+  {
+    "Matchday": 10,
+    "Date": "10/28/2018 2:30",
+    "Location": "Mapei Stadium \u00e2\u20ac\u201c Citt\u00c3\u00a0 del Tricolore",
+    "Home": "Sassuolo",
+    "Away": "Bologna",
+    "Result": "2 - 2"
+  },
+  {
+    "Matchday": 10,
+    "Date": "10/29/2018 1:00",
+    "Location": "Sardegna Arena",
+    "Home": "Cagliari",
+    "Away": "Chievoverona",
+    "Result": "2 - 1"
+  },
+  {
+    "Matchday": 10,
+    "Date": "10/29/2018 1:00",
+    "Location": "Stadio Luigi Ferraris",
+    "Home": "Genoa",
+    "Away": "Udinese",
+    "Result": "2 - 2"
+  },
+  {
+    "Matchday": 10,
+    "Date": "10/29/2018 1:00",
+    "Location": "Stadio Paolo Mazza",
+    "Home": "Spal",
+    "Away": "Frosinone",
+    "Result": "0 - 3"
+  },
+  {
+    "Matchday": 10,
+    "Date": "10/29/2018 4:00",
+    "Location": "Stadio Giuseppe Meazza",
+    "Home": "Milan",
+    "Away": "Sampdoria",
+    "Result": "3 - 2"
+  },
+  {
+    "Matchday": 10,
+    "Date": "10/29/2018 6:30",
+    "Location": "Stadio San Paolo",
+    "Home": "Napoli",
+    "Away": "Roma",
+    "Result": "1 - 1"
+  },
+  {
+    "Matchday": 10,
+    "Date": "10/30/2018 6:30",
+    "Location": "Stadio Olimpico",
+    "Home": "Lazio",
+    "Away": "Inter",
+    "Result": "0 - 3"
+  },
+  {
+    "Matchday": 10,
+    "Date": "11/01/2018 6:30",
+    "Location": "Stadio Giuseppe Meazza",
+    "Home": "Milan",
+    "Away": "Genoa",
+    "Result": "2 - 1"
+  },
+  {
+    "Matchday": 11,
+    "Date": "11/03/2018 6:30",
+    "Location": "Stadio San Paolo",
+    "Home": "Napoli",
+    "Away": "Empoli",
+    "Result": "5 - 1"
+  },
+  {
+    "Matchday": 11,
+    "Date": "11/04/2018 1:00",
+    "Location": "Stadio Giuseppe Meazza",
+    "Home": "Inter",
+    "Away": "Genoa",
+    "Result": "5 - 0"
+  },
+  {
+    "Matchday": 11,
+    "Date": "11/04/2018 4:00",
+    "Location": "Stadio Artemio Franchi",
+    "Home": "Fiorentina",
+    "Away": "Roma",
+    "Result": "1 - 1"
+  },
+  {
+    "Matchday": 11,
+    "Date": "11/04/2018 6:30",
+    "Location": "Allianz Stadium",
+    "Home": "Juventus",
+    "Away": "Cagliari",
+    "Result": "3 - 1"
+  },
+  {
+    "Matchday": 11,
+    "Date": "11/04/2018 2:30",
+    "Location": "Stadio Olimpico",
+    "Home": "Lazio",
+    "Away": "Spal",
+    "Result": "4 - 1"
+  },
+  {
+    "Matchday": 11,
+    "Date": "11/05/2018 1:00",
+    "Location": "Stadio Marc'Antonio Bentegodi",
+    "Home": "Chievoverona",
+    "Away": "Sassuolo",
+    "Result": "0 - 2"
+  },
+  {
+    "Matchday": 11,
+    "Date": "11/05/2018 1:00",
+    "Location": "Stadio Ennio Tardini",
+    "Home": "Parma",
+    "Away": "Frosinone",
+    "Result": "0 - 0"
+  },
+  {
+    "Matchday": 11,
+    "Date": "11/05/2018 1:00",
+    "Location": "Stadio Luigi Ferraris",
+    "Home": "Sampdoria",
+    "Away": "Torino",
+    "Result": "1 - 4"
+  },
+  {
+    "Matchday": 11,
+    "Date": "11/05/2018 4:00",
+    "Location": "Stadio Renato Dall'Ara",
+    "Home": "Bologna",
+    "Away": "Atalanta",
+    "Result": "1 - 2"
+  },
+  {
+    "Matchday": 11,
+    "Date": "11/05/2018 6:30",
+    "Location": "Stadio Friuli",
+    "Home": "Udinese",
+    "Away": "Milan",
+    "Result": "0 - 1"
+  },
+  {
+    "Matchday": 12,
+    "Date": "11/10/2018 6:30",
+    "Location": "Stadio Benito Stirpe",
+    "Home": "Frosinone",
+    "Away": "Fiorentina",
+    "Result": ""
+  },
+  {
+    "Matchday": 12,
+    "Date": "11/11/2018 1:00",
+    "Location": "Stadio Olimpico Grande Torino",
+    "Home": "Torino",
+    "Away": "Parma",
+    "Result": ""
+  },
+  {
+    "Matchday": 12,
+    "Date": "11/11/2018 4:00",
+    "Location": "Stadio Paolo Mazza",
+    "Home": "Spal",
+    "Away": "Cagliari",
+    "Result": ""
+  },
+  {
+    "Matchday": 12,
+    "Date": "11/11/2018 6:30",
+    "Location": "Stadio Luigi Ferraris",
+    "Home": "Genoa",
+    "Away": "Napoli",
+    "Result": ""
+  },
+  {
+    "Matchday": 12,
+    "Date": "11/11/2018 2:30",
+    "Location": "Stadio Atleti Azzurri d'Italia",
+    "Home": "Atalanta",
+    "Away": "Inter",
+    "Result": ""
+  },
+  {
+    "Matchday": 12,
+    "Date": "11/12/2018 1:00",
+    "Location": "Stadio Marc'Antonio Bentegodi",
+    "Home": "Chievoverona",
+    "Away": "Bologna",
+    "Result": ""
+  },
+  {
+    "Matchday": 12,
+    "Date": "11/12/2018 1:00",
+    "Location": "Stadio Carlo Castellani",
+    "Home": "Empoli",
+    "Away": "Udinese",
+    "Result": ""
+  },
+  {
+    "Matchday": 12,
+    "Date": "11/12/2018 1:00",
+    "Location": "Stadio Olimpico",
+    "Home": "Roma",
+    "Away": "Sampdoria",
+    "Result": ""
+  },
+  {
+    "Matchday": 12,
+    "Date": "11/12/2018 4:00",
+    "Location": "Mapei Stadium \u00e2\u20ac\u201c Citt\u00c3\u00a0 del Tricolore",
+    "Home": "Sassuolo",
+    "Away": "Lazio",
+    "Result": ""
+  },
+  {
+    "Matchday": 12,
+    "Date": "11/12/2018 6:30",
+    "Location": "Stadio Giuseppe Meazza",
+    "Home": "Milan",
+    "Away": "Juventus",
+    "Result": ""
+  },
+  {
+    "Matchday": 13,
+    "Date": "11/25/2018 1:00",
+    "Location": "Stadio Friuli",
+    "Home": "Udinese",
+    "Away": "Roma",
+    "Result": ""
+  },
+  {
+    "Matchday": 13,
+    "Date": "11/25/2018 4:00",
+    "Location": "Allianz Stadium",
+    "Home": "Juventus",
+    "Away": "Spal",
+    "Result": ""
+  },
+  {
+    "Matchday": 13,
+    "Date": "11/25/2018 6:30",
+    "Location": "Stadio Giuseppe Meazza",
+    "Home": "Inter",
+    "Away": "Frosinone",
+    "Result": ""
+  },
+  {
+    "Matchday": 13,
+    "Date": "11/25/2018 2:30",
+    "Location": "Stadio Ennio Tardini",
+    "Home": "Parma",
+    "Away": "Sassuolo",
+    "Result": ""
+  },
+  {
+    "Matchday": 13,
+    "Date": "11/26/2018 1:00",
+    "Location": "Stadio Renato Dall'Ara",
+    "Home": "Bologna",
+    "Away": "Fiorentina",
+    "Result": ""
+  },
+  {
+    "Matchday": 13,
+    "Date": "11/26/2018 1:00",
+    "Location": "Stadio Carlo Castellani",
+    "Home": "Empoli",
+    "Away": "Atalanta",
+    "Result": ""
+  },
+  {
+    "Matchday": 13,
+    "Date": "11/26/2018 1:00",
+    "Location": "Stadio San Paolo",
+    "Home": "Napoli",
+    "Away": "Chievoverona",
+    "Result": ""
+  },
+  {
+    "Matchday": 13,
+    "Date": "11/26/2018 4:00",
+    "Location": "Stadio Olimpico",
+    "Home": "Lazio",
+    "Away": "Milan",
+    "Result": ""
+  },
+  {
+    "Matchday": 13,
+    "Date": "11/26/2018 6:30",
+    "Location": "Stadio Luigi Ferraris",
+    "Home": "Genoa",
+    "Away": "Sampdoria",
+    "Result": ""
+  },
+  {
+    "Matchday": 13,
+    "Date": "11/27/2018 6:30",
+    "Location": "Sardegna Arena",
+    "Home": "Cagliari",
+    "Away": "Torino",
+    "Result": ""
+  },
+  {
+    "Matchday": 14,
+    "Date": "12/02/2018 1:00",
+    "Location": "Stadio Paolo Mazza",
+    "Home": "Spal",
+    "Away": "Empoli",
+    "Result": ""
+  },
+  {
+    "Matchday": 14,
+    "Date": "12/02/2018 4:00",
+    "Location": "Stadio Artemio Franchi",
+    "Home": "Fiorentina",
+    "Away": "Juventus",
+    "Result": ""
+  },
+  {
+    "Matchday": 14,
+    "Date": "12/02/2018 6:30",
+    "Location": "Stadio Luigi Ferraris",
+    "Home": "Sampdoria",
+    "Away": "Bologna",
+    "Result": ""
+  },
+  {
+    "Matchday": 14,
+    "Date": "12/02/2018 2:30",
+    "Location": "Stadio Giuseppe Meazza",
+    "Home": "Milan",
+    "Away": "Parma",
+    "Result": ""
+  },
+  {
+    "Matchday": 14,
+    "Date": "12/03/2018 1:00",
+    "Location": "Stadio Benito Stirpe",
+    "Home": "Frosinone",
+    "Away": "Cagliari",
+    "Result": ""
+  },
+  {
+    "Matchday": 14,
+    "Date": "12/03/2018 1:00",
+    "Location": "Mapei Stadium \u00e2\u20ac\u201c Citt\u00c3\u00a0 del Tricolore",
+    "Home": "Sassuolo",
+    "Away": "Udinese",
+    "Result": ""
+  },
+  {
+    "Matchday": 14,
+    "Date": "12/03/2018 1:00",
+    "Location": "Stadio Olimpico Grande Torino",
+    "Home": "Torino",
+    "Away": "Genoa",
+    "Result": ""
+  },
+  {
+    "Matchday": 14,
+    "Date": "12/03/2018 4:00",
+    "Location": "Stadio Marc'Antonio Bentegodi",
+    "Home": "Chievoverona",
+    "Away": "Lazio",
+    "Result": ""
+  },
+  {
+    "Matchday": 14,
+    "Date": "12/03/2018 6:30",
+    "Location": "Stadio Olimpico",
+    "Home": "Roma",
+    "Away": "Inter",
+    "Result": ""
+  },
+  {
+    "Matchday": 14,
+    "Date": "12/04/2018 6:30",
+    "Location": "Stadio Atleti Azzurri d'Italia",
+    "Home": "Atalanta",
+    "Away": "Napoli",
+    "Result": ""
+  },
+  {
+    "Matchday": 15,
+    "Date": "12/08/2018 6:30",
+    "Location": "Allianz Stadium",
+    "Home": "Juventus",
+    "Away": "Inter",
+    "Result": ""
+  },
+  {
+    "Matchday": 15,
+    "Date": "12/09/2018 1:00",
+    "Location": "Stadio San Paolo",
+    "Home": "Napoli",
+    "Away": "Frosinone",
+    "Result": ""
+  },
+  {
+    "Matchday": 15,
+    "Date": "12/09/2018 4:00",
+    "Location": "Sardegna Arena",
+    "Home": "Cagliari",
+    "Away": "Roma",
+    "Result": ""
+  },
+  {
+    "Matchday": 15,
+    "Date": "12/09/2018 6:30",
+    "Location": "Stadio Olimpico",
+    "Home": "Lazio",
+    "Away": "Sampdoria",
+    "Result": ""
+  },
+  {
+    "Matchday": 15,
+    "Date": "12/09/2018 2:30",
+    "Location": "Mapei Stadium \u00e2\u20ac\u201c Citt\u00c3\u00a0 del Tricolore",
+    "Home": "Sassuolo",
+    "Away": "Fiorentina",
+    "Result": ""
+  },
+  {
+    "Matchday": 15,
+    "Date": "12/10/2018 1:00",
+    "Location": "Stadio Carlo Castellani",
+    "Home": "Empoli",
+    "Away": "Bologna",
+    "Result": ""
+  },
+  {
+    "Matchday": 15,
+    "Date": "12/10/2018 1:00",
+    "Location": "Stadio Ennio Tardini",
+    "Home": "Parma",
+    "Away": "Chievoverona",
+    "Result": ""
+  },
+  {
+    "Matchday": 15,
+    "Date": "12/10/2018 1:00",
+    "Location": "Stadio Friuli",
+    "Home": "Udinese",
+    "Away": "Atalanta",
+    "Result": ""
+  },
+  {
+    "Matchday": 15,
+    "Date": "12/10/2018 4:00",
+    "Location": "Stadio Luigi Ferraris",
+    "Home": "Genoa",
+    "Away": "Spal",
+    "Result": ""
+  },
+  {
+    "Matchday": 15,
+    "Date": "12/10/2018 6:30",
+    "Location": "Stadio Giuseppe Meazza",
+    "Home": "Milan",
+    "Away": "Torino",
+    "Result": ""
+  },
+  {
+    "Matchday": 16,
+    "Date": "12/16/2018 4:00",
+    "Location": "Stadio Giuseppe Meazza",
+    "Home": "Inter",
+    "Away": "Udinese",
+    "Result": ""
+  },
+  {
+    "Matchday": 16,
+    "Date": "12/16/2018 6:30",
+    "Location": "Stadio Olimpico Grande Torino",
+    "Home": "Torino",
+    "Away": "Juventus",
+    "Result": ""
+  },
+  {
+    "Matchday": 16,
+    "Date": "12/16/2018 2:30",
+    "Location": "Stadio Paolo Mazza",
+    "Home": "Spal",
+    "Away": "Chievoverona",
+    "Result": ""
+  },
+  {
+    "Matchday": 16,
+    "Date": "12/17/2018 1:00",
+    "Location": "Stadio Artemio Franchi",
+    "Home": "Fiorentina",
+    "Away": "Empoli",
+    "Result": ""
+  },
+  {
+    "Matchday": 16,
+    "Date": "12/17/2018 1:00",
+    "Location": "Stadio Benito Stirpe",
+    "Home": "Frosinone",
+    "Away": "Sassuolo",
+    "Result": ""
+  },
+  {
+    "Matchday": 16,
+    "Date": "12/17/2018 1:00",
+    "Location": "Stadio Luigi Ferraris",
+    "Home": "Sampdoria",
+    "Away": "Parma",
+    "Result": ""
+  },
+  {
+    "Matchday": 16,
+    "Date": "12/17/2018 4:00",
+    "Location": "Sardegna Arena",
+    "Home": "Cagliari",
+    "Away": "Napoli",
+    "Result": ""
+  },
+  {
+    "Matchday": 16,
+    "Date": "12/17/2018 6:30",
+    "Location": "Stadio Olimpico",
+    "Home": "Roma",
+    "Away": "Genoa",
+    "Result": ""
+  },
+  {
+    "Matchday": 16,
+    "Date": "12/18/2018 6:30",
+    "Location": "Stadio Atleti Azzurri d'Italia",
+    "Home": "Atalanta",
+    "Away": "Lazio",
+    "Result": ""
+  },
+  {
+    "Matchday": 16,
+    "Date": "12/19/2018 6:30",
+    "Location": "Stadio Renato Dall'Ara",
+    "Home": "Bologna",
+    "Away": "Milan",
+    "Result": ""
+  },
+  {
+    "Matchday": 17,
+    "Date": "12/22/2018 2:30",
+    "Location": "Stadio Olimpico",
+    "Home": "Lazio",
+    "Away": "Cagliari",
+    "Result": ""
+  },
+  {
+    "Matchday": 17,
+    "Date": "12/23/2018 1:00",
+    "Location": "Stadio Carlo Castellani",
+    "Home": "Empoli",
+    "Away": "Sampdoria",
+    "Result": ""
+  },
+  {
+    "Matchday": 17,
+    "Date": "12/23/2018 1:00",
+    "Location": "Stadio Luigi Ferraris",
+    "Home": "Genoa",
+    "Away": "Atalanta",
+    "Result": ""
+  },
+  {
+    "Matchday": 17,
+    "Date": "12/23/2018 1:00",
+    "Location": "Stadio Giuseppe Meazza",
+    "Home": "Milan",
+    "Away": "Fiorentina",
+    "Result": ""
+  },
+  {
+    "Matchday": 17,
+    "Date": "12/23/2018 1:00",
+    "Location": "Stadio San Paolo",
+    "Home": "Napoli",
+    "Away": "Spal",
+    "Result": ""
+  },
+  {
+    "Matchday": 17,
+    "Date": "12/23/2018 1:00",
+    "Location": "Stadio Ennio Tardini",
+    "Home": "Parma",
+    "Away": "Bologna",
+    "Result": ""
+  },
+  {
+    "Matchday": 17,
+    "Date": "12/23/2018 1:00",
+    "Location": "Mapei Stadium \u00e2\u20ac\u201c Citt\u00c3\u00a0 del Tricolore",
+    "Home": "Sassuolo",
+    "Away": "Torino",
+    "Result": ""
+  },
+  {
+    "Matchday": 17,
+    "Date": "12/23/2018 1:00",
+    "Location": "Stadio Friuli",
+    "Home": "Udinese",
+    "Away": "Frosinone",
+    "Result": ""
+  },
+  {
+    "Matchday": 17,
+    "Date": "12/23/2018 4:00",
+    "Location": "Stadio Marc'Antonio Bentegodi",
+    "Home": "Chievoverona",
+    "Away": "Inter",
+    "Result": ""
+  },
+  {
+    "Matchday": 17,
+    "Date": "12/23/2018 6:30",
+    "Location": "Allianz Stadium",
+    "Home": "Juventus",
+    "Away": "Roma",
+    "Result": ""
+  },
+  {
+    "Matchday": 18,
+    "Date": "12/26/2018 2:30",
+    "Location": "Stadio Benito Stirpe",
+    "Home": "Frosinone",
+    "Away": "Milan",
+    "Result": ""
+  },
+  {
+    "Matchday": 18,
+    "Date": "12/27/2018 1:00",
+    "Location": "Stadio Atleti Azzurri d'Italia",
+    "Home": "Atalanta",
+    "Away": "Juventus",
+    "Result": ""
+  },
+  {
+    "Matchday": 18,
+    "Date": "12/27/2018 1:00",
+    "Location": "Stadio Renato Dall'Ara",
+    "Home": "Bologna",
+    "Away": "Lazio",
+    "Result": ""
+  },
+  {
+    "Matchday": 18,
+    "Date": "12/27/2018 1:00",
+    "Location": "Sardegna Arena",
+    "Home": "Cagliari",
+    "Away": "Genoa",
+    "Result": ""
+  },
+  {
+    "Matchday": 18,
+    "Date": "12/27/2018 1:00",
+    "Location": "Stadio Artemio Franchi",
+    "Home": "Fiorentina",
+    "Away": "Parma",
+    "Result": ""
+  },
+  {
+    "Matchday": 18,
+    "Date": "12/27/2018 1:00",
+    "Location": "Stadio Luigi Ferraris",
+    "Home": "Sampdoria",
+    "Away": "Chievoverona",
+    "Result": ""
+  },
+  {
+    "Matchday": 18,
+    "Date": "12/27/2018 1:00",
+    "Location": "Stadio Paolo Mazza",
+    "Home": "Spal",
+    "Away": "Udinese",
+    "Result": ""
+  },
+  {
+    "Matchday": 18,
+    "Date": "12/27/2018 4:00",
+    "Location": "Stadio Olimpico",
+    "Home": "Roma",
+    "Away": "Sassuolo",
+    "Result": ""
+  },
+  {
+    "Matchday": 18,
+    "Date": "12/27/2018 4:00",
+    "Location": "Stadio Olimpico Grande Torino",
+    "Home": "Torino",
+    "Away": "Empoli",
+    "Result": ""
+  },
+  {
+    "Matchday": 18,
+    "Date": "12/27/2018 6:30",
+    "Location": "Stadio Giuseppe Meazza",
+    "Home": "Inter",
+    "Away": "Napoli",
+    "Result": ""
+  },
+  {
+    "Matchday": 19,
+    "Date": "12/29/2018 2:30",
+    "Location": "Allianz Stadium",
+    "Home": "Juventus",
+    "Away": "Sampdoria",
+    "Result": ""
+  },
+  {
+    "Matchday": 19,
+    "Date": "12/30/2018 1:00",
+    "Location": "Stadio Marc'Antonio Bentegodi",
+    "Home": "Chievoverona",
+    "Away": "Frosinone",
+    "Result": ""
+  },
+  {
+    "Matchday": 19,
+    "Date": "12/30/2018 1:00",
+    "Location": "Stadio Carlo Castellani",
+    "Home": "Empoli",
+    "Away": "Inter",
+    "Result": ""
+  },
+  {
+    "Matchday": 19,
+    "Date": "12/30/2018 1:00",
+    "Location": "Stadio Luigi Ferraris",
+    "Home": "Genoa",
+    "Away": "Fiorentina",
+    "Result": ""
+  },
+  {
+    "Matchday": 19,
+    "Date": "12/30/2018 1:00",
+    "Location": "Stadio Olimpico",
+    "Home": "Lazio",
+    "Away": "Torino",
+    "Result": ""
+  },
+  {
+    "Matchday": 19,
+    "Date": "12/30/2018 1:00",
+    "Location": "Stadio Ennio Tardini",
+    "Home": "Parma",
+    "Away": "Roma",
+    "Result": ""
+  },
+  {
+    "Matchday": 19,
+    "Date": "12/30/2018 1:00",
+    "Location": "Mapei Stadium \u00e2\u20ac\u201c Citt\u00c3\u00a0 del Tricolore",
+    "Home": "Sassuolo",
+    "Away": "Atalanta",
+    "Result": ""
+  },
+  {
+    "Matchday": 19,
+    "Date": "12/30/2018 1:00",
+    "Location": "Stadio Friuli",
+    "Home": "Udinese",
+    "Away": "Cagliari",
+    "Result": ""
+  },
+  {
+    "Matchday": 19,
+    "Date": "12/30/2018 4:00",
+    "Location": "Stadio San Paolo",
+    "Home": "Napoli",
+    "Away": "Bologna",
+    "Result": ""
+  },
+  {
+    "Matchday": 19,
+    "Date": "12/30/2018 6:30",
+    "Location": "Stadio Giuseppe Meazza",
+    "Home": "Milan",
+    "Away": "Spal",
+    "Result": ""
+  },
+  {
+    "Matchday": 20,
+    "Date": "01/20/2019 0:00",
+    "Location": "Sardegna Arena",
+    "Home": "Cagliari",
+    "Away": "Empoli",
+    "Result": ""
+  },
+  {
+    "Matchday": 20,
+    "Date": "01/20/2019 0:00",
+    "Location": "Stadio Artemio Franchi",
+    "Home": "Fiorentina",
+    "Away": "Sampdoria",
+    "Result": ""
+  },
+  {
+    "Matchday": 20,
+    "Date": "01/20/2019 0:00",
+    "Location": "Stadio Benito Stirpe",
+    "Home": "Frosinone",
+    "Away": "Atalanta",
+    "Result": ""
+  },
+  {
+    "Matchday": 20,
+    "Date": "01/20/2019 0:00",
+    "Location": "Stadio Luigi Ferraris",
+    "Home": "Genoa",
+    "Away": "Milan",
+    "Result": ""
+  },
+  {
+    "Matchday": 20,
+    "Date": "01/20/2019 0:00",
+    "Location": "Stadio Giuseppe Meazza",
+    "Home": "Inter",
+    "Away": "Sassuolo",
+    "Result": ""
+  },
+  {
+    "Matchday": 20,
+    "Date": "01/20/2019 0:00",
+    "Location": "Allianz Stadium",
+    "Home": "Juventus",
+    "Away": "Chievoverona",
+    "Result": ""
+  },
+  {
+    "Matchday": 20,
+    "Date": "01/20/2019 0:00",
+    "Location": "Stadio San Paolo",
+    "Home": "Napoli",
+    "Away": "Lazio",
+    "Result": ""
+  },
+  {
+    "Matchday": 20,
+    "Date": "01/20/2019 0:00",
+    "Location": "Stadio Olimpico",
+    "Home": "Roma",
+    "Away": "Torino",
+    "Result": ""
+  },
+  {
+    "Matchday": 20,
+    "Date": "01/20/2019 0:00",
+    "Location": "Stadio Paolo Mazza",
+    "Home": "Spal",
+    "Away": "Bologna",
+    "Result": ""
+  },
+  {
+    "Matchday": 20,
+    "Date": "01/20/2019 0:00",
+    "Location": "Stadio Friuli",
+    "Home": "Udinese",
+    "Away": "Parma",
+    "Result": ""
+  },
+  {
+    "Matchday": 21,
+    "Date": "01/27/2019 6:30",
+    "Location": "Stadio Giuseppe Meazza",
+    "Home": "Milan",
+    "Away": "Napoli",
+    "Result": ""
+  },
+  {
+    "Matchday": 21,
+    "Date": "01/27/2019 0:00",
+    "Location": "Stadio Atleti Azzurri d'Italia",
+    "Home": "Atalanta",
+    "Away": "Roma",
+    "Result": ""
+  },
+  {
+    "Matchday": 21,
+    "Date": "01/27/2019 0:00",
+    "Location": "Stadio Renato Dall'Ara",
+    "Home": "Bologna",
+    "Away": "Frosinone",
+    "Result": ""
+  },
+  {
+    "Matchday": 21,
+    "Date": "01/27/2019 0:00",
+    "Location": "Stadio Marc'Antonio Bentegodi",
+    "Home": "Chievoverona",
+    "Away": "Fiorentina",
+    "Result": ""
+  },
+  {
+    "Matchday": 21,
+    "Date": "01/27/2019 0:00",
+    "Location": "Stadio Carlo Castellani",
+    "Home": "Empoli",
+    "Away": "Genoa",
+    "Result": ""
+  },
+  {
+    "Matchday": 21,
+    "Date": "01/27/2019 0:00",
+    "Location": "Stadio Olimpico",
+    "Home": "Lazio",
+    "Away": "Juventus",
+    "Result": ""
+  },
+  {
+    "Matchday": 21,
+    "Date": "01/27/2019 0:00",
+    "Location": "Stadio Ennio Tardini",
+    "Home": "Parma",
+    "Away": "Spal",
+    "Result": ""
+  },
+  {
+    "Matchday": 21,
+    "Date": "01/27/2019 0:00",
+    "Location": "Stadio Luigi Ferraris",
+    "Home": "Sampdoria",
+    "Away": "Udinese",
+    "Result": ""
+  },
+  {
+    "Matchday": 21,
+    "Date": "01/27/2019 0:00",
+    "Location": "Mapei Stadium \u00e2\u20ac\u201c Citt\u00c3\u00a0 del Tricolore",
+    "Home": "Sassuolo",
+    "Away": "Cagliari",
+    "Result": ""
+  },
+  {
+    "Matchday": 21,
+    "Date": "01/27/2019 0:00",
+    "Location": "Stadio Olimpico Grande Torino",
+    "Home": "Torino",
+    "Away": "Inter",
+    "Result": ""
+  },
+  {
+    "Matchday": 22,
+    "Date": "02/03/2019 0:00",
+    "Location": "Sardegna Arena",
+    "Home": "Cagliari",
+    "Away": "Atalanta",
+    "Result": ""
+  },
+  {
+    "Matchday": 22,
+    "Date": "02/03/2019 0:00",
+    "Location": "Stadio Carlo Castellani",
+    "Home": "Empoli",
+    "Away": "Chievoverona",
+    "Result": ""
+  },
+  {
+    "Matchday": 22,
+    "Date": "02/03/2019 0:00",
+    "Location": "Stadio Benito Stirpe",
+    "Home": "Frosinone",
+    "Away": "Lazio",
+    "Result": ""
+  },
+  {
+    "Matchday": 22,
+    "Date": "02/03/2019 0:00",
+    "Location": "Stadio Luigi Ferraris",
+    "Home": "Genoa",
+    "Away": "Sassuolo",
+    "Result": ""
+  },
+  {
+    "Matchday": 22,
+    "Date": "02/03/2019 0:00",
+    "Location": "Stadio Giuseppe Meazza",
+    "Home": "Inter",
+    "Away": "Bologna",
+    "Result": ""
+  },
+  {
+    "Matchday": 22,
+    "Date": "02/03/2019 0:00",
+    "Location": "Allianz Stadium",
+    "Home": "Juventus",
+    "Away": "Parma",
+    "Result": ""
+  },
+  {
+    "Matchday": 22,
+    "Date": "02/03/2019 0:00",
+    "Location": "Stadio San Paolo",
+    "Home": "Napoli",
+    "Away": "Sampdoria",
+    "Result": ""
+  },
+  {
+    "Matchday": 22,
+    "Date": "02/03/2019 0:00",
+    "Location": "Stadio Paolo Mazza",
+    "Home": "Spal",
+    "Away": "Torino",
+    "Result": ""
+  },
+  {
+    "Matchday": 22,
+    "Date": "02/03/2019 0:00",
+    "Location": "Stadio Friuli",
+    "Home": "Udinese",
+    "Away": "Fiorentina",
+    "Result": ""
+  },
+  {
+    "Matchday": 22,
+    "Date": "02/04/2019 6:30",
+    "Location": "Stadio Olimpico",
+    "Home": "Roma",
+    "Away": "Milan",
+    "Result": ""
+  },
+  {
+    "Matchday": 23,
+    "Date": "02/10/2019 0:00",
+    "Location": "Stadio Atleti Azzurri d'Italia",
+    "Home": "Atalanta",
+    "Away": "Spal",
+    "Result": ""
+  },
+  {
+    "Matchday": 23,
+    "Date": "02/10/2019 0:00",
+    "Location": "Stadio Renato Dall'Ara",
+    "Home": "Bologna",
+    "Away": "Genoa",
+    "Result": ""
+  },
+  {
+    "Matchday": 23,
+    "Date": "02/10/2019 0:00",
+    "Location": "Stadio Marc'Antonio Bentegodi",
+    "Home": "Chievoverona",
+    "Away": "Roma",
+    "Result": ""
+  },
+  {
+    "Matchday": 23,
+    "Date": "02/10/2019 0:00",
+    "Location": "Stadio Artemio Franchi",
+    "Home": "Fiorentina",
+    "Away": "Napoli",
+    "Result": ""
+  },
+  {
+    "Matchday": 23,
+    "Date": "02/10/2019 0:00",
+    "Location": "Stadio Olimpico",
+    "Home": "Lazio",
+    "Away": "Empoli",
+    "Result": ""
+  },
+  {
+    "Matchday": 23,
+    "Date": "02/10/2019 0:00",
+    "Location": "Stadio Giuseppe Meazza",
+    "Home": "Milan",
+    "Away": "Cagliari",
+    "Result": ""
+  },
+  {
+    "Matchday": 23,
+    "Date": "02/10/2019 0:00",
+    "Location": "Stadio Ennio Tardini",
+    "Home": "Parma",
+    "Away": "Inter",
+    "Result": ""
+  },
+  {
+    "Matchday": 23,
+    "Date": "02/10/2019 0:00",
+    "Location": "Stadio Luigi Ferraris",
+    "Home": "Sampdoria",
+    "Away": "Frosinone",
+    "Result": ""
+  },
+  {
+    "Matchday": 23,
+    "Date": "02/10/2019 0:00",
+    "Location": "Mapei Stadium \u00e2\u20ac\u201c Citt\u00c3\u00a0 del Tricolore",
+    "Home": "Sassuolo",
+    "Away": "Juventus",
+    "Result": ""
+  },
+  {
+    "Matchday": 23,
+    "Date": "02/10/2019 0:00",
+    "Location": "Stadio Olimpico Grande Torino",
+    "Home": "Torino",
+    "Away": "Udinese",
+    "Result": ""
+  },
+  {
+    "Matchday": 24,
+    "Date": "02/17/2019 0:00",
+    "Location": "Stadio Atleti Azzurri d'Italia",
+    "Home": "Atalanta",
+    "Away": "Milan",
+    "Result": ""
+  },
+  {
+    "Matchday": 24,
+    "Date": "02/17/2019 0:00",
+    "Location": "Sardegna Arena",
+    "Home": "Cagliari",
+    "Away": "Parma",
+    "Result": ""
+  },
+  {
+    "Matchday": 24,
+    "Date": "02/17/2019 0:00",
+    "Location": "Stadio Carlo Castellani",
+    "Home": "Empoli",
+    "Away": "Sassuolo",
+    "Result": ""
+  },
+  {
+    "Matchday": 24,
+    "Date": "02/17/2019 0:00",
+    "Location": "Stadio Luigi Ferraris",
+    "Home": "Genoa",
+    "Away": "Lazio",
+    "Result": ""
+  },
+  {
+    "Matchday": 24,
+    "Date": "02/17/2019 0:00",
+    "Location": "Stadio Giuseppe Meazza",
+    "Home": "Inter",
+    "Away": "Sampdoria",
+    "Result": ""
+  },
+  {
+    "Matchday": 24,
+    "Date": "02/17/2019 0:00",
+    "Location": "Allianz Stadium",
+    "Home": "Juventus",
+    "Away": "Frosinone",
+    "Result": ""
+  },
+  {
+    "Matchday": 24,
+    "Date": "02/17/2019 0:00",
+    "Location": "Stadio San Paolo",
+    "Home": "Napoli",
+    "Away": "Torino",
+    "Result": ""
+  },
+  {
+    "Matchday": 24,
+    "Date": "02/17/2019 0:00",
+    "Location": "Stadio Olimpico",
+    "Home": "Roma",
+    "Away": "Bologna",
+    "Result": ""
+  },
+  {
+    "Matchday": 24,
+    "Date": "02/17/2019 0:00",
+    "Location": "Stadio Paolo Mazza",
+    "Home": "Spal",
+    "Away": "Fiorentina",
+    "Result": ""
+  },
+  {
+    "Matchday": 24,
+    "Date": "02/17/2019 0:00",
+    "Location": "Stadio Friuli",
+    "Home": "Udinese",
+    "Away": "Chievoverona",
+    "Result": ""
+  },
+  {
+    "Matchday": 25,
+    "Date": "02/24/2019 0:00",
+    "Location": "Stadio Renato Dall'Ara",
+    "Home": "Bologna",
+    "Away": "Juventus",
+    "Result": ""
+  },
+  {
+    "Matchday": 25,
+    "Date": "02/24/2019 0:00",
+    "Location": "Stadio Marc'Antonio Bentegodi",
+    "Home": "Chievoverona",
+    "Away": "Genoa",
+    "Result": ""
+  },
+  {
+    "Matchday": 25,
+    "Date": "02/24/2019 0:00",
+    "Location": "Stadio Artemio Franchi",
+    "Home": "Fiorentina",
+    "Away": "Inter",
+    "Result": ""
+  },
+  {
+    "Matchday": 25,
+    "Date": "02/24/2019 0:00",
+    "Location": "Stadio Benito Stirpe",
+    "Home": "Frosinone",
+    "Away": "Roma",
+    "Result": ""
+  },
+  {
+    "Matchday": 25,
+    "Date": "02/24/2019 0:00",
+    "Location": "Stadio Olimpico",
+    "Home": "Lazio",
+    "Away": "Udinese",
+    "Result": ""
+  },
+  {
+    "Matchday": 25,
+    "Date": "02/24/2019 0:00",
+    "Location": "Stadio Giuseppe Meazza",
+    "Home": "Milan",
+    "Away": "Empoli",
+    "Result": ""
+  },
+  {
+    "Matchday": 25,
+    "Date": "02/24/2019 0:00",
+    "Location": "Stadio Ennio Tardini",
+    "Home": "Parma",
+    "Away": "Napoli",
+    "Result": ""
+  },
+  {
+    "Matchday": 25,
+    "Date": "02/24/2019 0:00",
+    "Location": "Stadio Luigi Ferraris",
+    "Home": "Sampdoria",
+    "Away": "Cagliari",
+    "Result": ""
+  },
+  {
+    "Matchday": 25,
+    "Date": "02/24/2019 0:00",
+    "Location": "Mapei Stadium \u00e2\u20ac\u201c Citt\u00c3\u00a0 del Tricolore",
+    "Home": "Sassuolo",
+    "Away": "Spal",
+    "Result": ""
+  },
+  {
+    "Matchday": 25,
+    "Date": "02/24/2019 0:00",
+    "Location": "Stadio Olimpico Grande Torino",
+    "Home": "Torino",
+    "Away": "Atalanta",
+    "Result": ""
+  },
+  {
+    "Matchday": 26,
+    "Date": "03/03/2019 0:00",
+    "Location": "Stadio Atleti Azzurri d'Italia",
+    "Home": "Atalanta",
+    "Away": "Fiorentina",
+    "Result": ""
+  },
+  {
+    "Matchday": 26,
+    "Date": "03/03/2019 0:00",
+    "Location": "Sardegna Arena",
+    "Home": "Cagliari",
+    "Away": "Inter",
+    "Result": ""
+  },
+  {
+    "Matchday": 26,
+    "Date": "03/03/2019 0:00",
+    "Location": "Stadio Carlo Castellani",
+    "Home": "Empoli",
+    "Away": "Parma",
+    "Result": ""
+  },
+  {
+    "Matchday": 26,
+    "Date": "03/03/2019 0:00",
+    "Location": "Stadio Luigi Ferraris",
+    "Home": "Genoa",
+    "Away": "Frosinone",
+    "Result": ""
+  },
+  {
+    "Matchday": 26,
+    "Date": "03/03/2019 0:00",
+    "Location": "Stadio Olimpico",
+    "Home": "Lazio",
+    "Away": "Roma",
+    "Result": ""
+  },
+  {
+    "Matchday": 26,
+    "Date": "03/03/2019 0:00",
+    "Location": "Stadio Giuseppe Meazza",
+    "Home": "Milan",
+    "Away": "Sassuolo",
+    "Result": ""
+  },
+  {
+    "Matchday": 26,
+    "Date": "03/03/2019 0:00",
+    "Location": "Stadio Paolo Mazza",
+    "Home": "Spal",
+    "Away": "Sampdoria",
+    "Result": ""
+  },
+  {
+    "Matchday": 26,
+    "Date": "03/03/2019 0:00",
+    "Location": "Stadio Olimpico Grande Torino",
+    "Home": "Torino",
+    "Away": "Chievoverona",
+    "Result": ""
+  },
+  {
+    "Matchday": 26,
+    "Date": "03/03/2019 0:00",
+    "Location": "Stadio Friuli",
+    "Home": "Udinese",
+    "Away": "Bologna",
+    "Result": ""
+  },
+  {
+    "Matchday": 26,
+    "Date": "03/04/2019 6:30",
+    "Location": "Stadio San Paolo",
+    "Home": "Napoli",
+    "Away": "Juventus",
+    "Result": ""
+  },
+  {
+    "Matchday": 27,
+    "Date": "03/10/2019 0:00",
+    "Location": "Stadio Renato Dall'Ara",
+    "Home": "Bologna",
+    "Away": "Cagliari",
+    "Result": ""
+  },
+  {
+    "Matchday": 27,
+    "Date": "03/10/2019 0:00",
+    "Location": "Stadio Marc'Antonio Bentegodi",
+    "Home": "Chievoverona",
+    "Away": "Milan",
+    "Result": ""
+  },
+  {
+    "Matchday": 27,
+    "Date": "03/10/2019 0:00",
+    "Location": "Stadio Artemio Franchi",
+    "Home": "Fiorentina",
+    "Away": "Lazio",
+    "Result": ""
+  },
+  {
+    "Matchday": 27,
+    "Date": "03/10/2019 0:00",
+    "Location": "Stadio Benito Stirpe",
+    "Home": "Frosinone",
+    "Away": "Torino",
+    "Result": ""
+  },
+  {
+    "Matchday": 27,
+    "Date": "03/10/2019 0:00",
+    "Location": "Stadio Giuseppe Meazza",
+    "Home": "Inter",
+    "Away": "Spal",
+    "Result": ""
+  },
+  {
+    "Matchday": 27,
+    "Date": "03/10/2019 0:00",
+    "Location": "Allianz Stadium",
+    "Home": "Juventus",
+    "Away": "Udinese",
+    "Result": ""
+  },
+  {
+    "Matchday": 27,
+    "Date": "03/10/2019 0:00",
+    "Location": "Stadio Ennio Tardini",
+    "Home": "Parma",
+    "Away": "Genoa",
+    "Result": ""
+  },
+  {
+    "Matchday": 27,
+    "Date": "03/10/2019 0:00",
+    "Location": "Stadio Olimpico",
+    "Home": "Roma",
+    "Away": "Empoli",
+    "Result": ""
+  },
+  {
+    "Matchday": 27,
+    "Date": "03/10/2019 0:00",
+    "Location": "Stadio Luigi Ferraris",
+    "Home": "Sampdoria",
+    "Away": "Atalanta",
+    "Result": ""
+  },
+  {
+    "Matchday": 27,
+    "Date": "03/10/2019 0:00",
+    "Location": "Mapei Stadium \u00e2\u20ac\u201c Citt\u00c3\u00a0 del Tricolore",
+    "Home": "Sassuolo",
+    "Away": "Napoli",
+    "Result": ""
+  },
+  {
+    "Matchday": 28,
+    "Date": "03/17/2019 0:00",
+    "Location": "Stadio Atleti Azzurri d'Italia",
+    "Home": "Atalanta",
+    "Away": "Chievoverona",
+    "Result": ""
+  },
+  {
+    "Matchday": 28,
+    "Date": "03/17/2019 0:00",
+    "Location": "Sardegna Arena",
+    "Home": "Cagliari",
+    "Away": "Fiorentina",
+    "Result": ""
+  },
+  {
+    "Matchday": 28,
+    "Date": "03/17/2019 0:00",
+    "Location": "Stadio Carlo Castellani",
+    "Home": "Empoli",
+    "Away": "Frosinone",
+    "Result": ""
+  },
+  {
+    "Matchday": 28,
+    "Date": "03/17/2019 0:00",
+    "Location": "Stadio Luigi Ferraris",
+    "Home": "Genoa",
+    "Away": "Juventus",
+    "Result": ""
+  },
+  {
+    "Matchday": 28,
+    "Date": "03/17/2019 0:00",
+    "Location": "Stadio Olimpico",
+    "Home": "Lazio",
+    "Away": "Parma",
+    "Result": ""
+  },
+  {
+    "Matchday": 28,
+    "Date": "03/17/2019 0:00",
+    "Location": "Stadio San Paolo",
+    "Home": "Napoli",
+    "Away": "Udinese",
+    "Result": ""
+  },
+  {
+    "Matchday": 28,
+    "Date": "03/17/2019 0:00",
+    "Location": "Mapei Stadium \u00e2\u20ac\u201c Citt\u00c3\u00a0 del Tricolore",
+    "Home": "Sassuolo",
+    "Away": "Sampdoria",
+    "Result": ""
+  },
+  {
+    "Matchday": 28,
+    "Date": "03/17/2019 0:00",
+    "Location": "Stadio Paolo Mazza",
+    "Home": "Spal",
+    "Away": "Roma",
+    "Result": ""
+  },
+  {
+    "Matchday": 28,
+    "Date": "03/17/2019 0:00",
+    "Location": "Stadio Olimpico Grande Torino",
+    "Home": "Torino",
+    "Away": "Bologna",
+    "Result": ""
+  },
+  {
+    "Matchday": 28,
+    "Date": "03/18/2019 6:30",
+    "Location": "Stadio Giuseppe Meazza",
+    "Home": "Milan",
+    "Away": "Inter",
+    "Result": ""
+  },
+  {
+    "Matchday": 29,
+    "Date": "03/31/2019 0:00",
+    "Location": "Stadio Renato Dall'Ara",
+    "Home": "Bologna",
+    "Away": "Sassuolo",
+    "Result": ""
+  },
+  {
+    "Matchday": 29,
+    "Date": "03/31/2019 0:00",
+    "Location": "Stadio Marc'Antonio Bentegodi",
+    "Home": "Chievoverona",
+    "Away": "Cagliari",
+    "Result": ""
+  },
+  {
+    "Matchday": 29,
+    "Date": "03/31/2019 0:00",
+    "Location": "Stadio Artemio Franchi",
+    "Home": "Fiorentina",
+    "Away": "Torino",
+    "Result": ""
+  },
+  {
+    "Matchday": 29,
+    "Date": "03/31/2019 0:00",
+    "Location": "Stadio Benito Stirpe",
+    "Home": "Frosinone",
+    "Away": "Spal",
+    "Result": ""
+  },
+  {
+    "Matchday": 29,
+    "Date": "03/31/2019 0:00",
+    "Location": "Stadio Giuseppe Meazza",
+    "Home": "Inter",
+    "Away": "Lazio",
+    "Result": ""
+  },
+  {
+    "Matchday": 29,
+    "Date": "03/31/2019 0:00",
+    "Location": "Allianz Stadium",
+    "Home": "Juventus",
+    "Away": "Empoli",
+    "Result": ""
+  },
+  {
+    "Matchday": 29,
+    "Date": "03/31/2019 0:00",
+    "Location": "Stadio Ennio Tardini",
+    "Home": "Parma",
+    "Away": "Atalanta",
+    "Result": ""
+  },
+  {
+    "Matchday": 29,
+    "Date": "03/31/2019 0:00",
+    "Location": "Stadio Luigi Ferraris",
+    "Home": "Sampdoria",
+    "Away": "Milan",
+    "Result": ""
+  },
+  {
+    "Matchday": 29,
+    "Date": "03/31/2019 0:00",
+    "Location": "Stadio Friuli",
+    "Home": "Udinese",
+    "Away": "Genoa",
+    "Result": ""
+  },
+  {
+    "Matchday": 29,
+    "Date": "04/01/2019 5:30",
+    "Location": "Stadio Olimpico",
+    "Home": "Roma",
+    "Away": "Napoli",
+    "Result": ""
+  },
+  {
+    "Matchday": 30,
+    "Date": "04/03/2019 9:00",
+    "Location": "Stadio Atleti Azzurri d'Italia",
+    "Home": "Atalanta",
+    "Away": "Bologna",
+    "Result": ""
+  },
+  {
+    "Matchday": 30,
+    "Date": "04/03/2019 9:00",
+    "Location": "Sardegna Arena",
+    "Home": "Cagliari",
+    "Away": "Juventus",
+    "Result": ""
+  },
+  {
+    "Matchday": 30,
+    "Date": "04/03/2019 9:00",
+    "Location": "Stadio Carlo Castellani",
+    "Home": "Empoli",
+    "Away": "Napoli",
+    "Result": ""
+  },
+  {
+    "Matchday": 30,
+    "Date": "04/03/2019 9:00",
+    "Location": "Stadio Benito Stirpe",
+    "Home": "Frosinone",
+    "Away": "Parma",
+    "Result": ""
+  },
+  {
+    "Matchday": 30,
+    "Date": "04/03/2019 9:00",
+    "Location": "Stadio Luigi Ferraris",
+    "Home": "Genoa",
+    "Away": "Inter",
+    "Result": ""
+  },
+  {
+    "Matchday": 30,
+    "Date": "04/03/2019 9:00",
+    "Location": "Stadio Giuseppe Meazza",
+    "Home": "Milan",
+    "Away": "Udinese",
+    "Result": ""
+  },
+  {
+    "Matchday": 30,
+    "Date": "04/03/2019 9:00",
+    "Location": "Stadio Olimpico",
+    "Home": "Roma",
+    "Away": "Fiorentina",
+    "Result": ""
+  },
+  {
+    "Matchday": 30,
+    "Date": "04/03/2019 9:00",
+    "Location": "Mapei Stadium \u00e2\u20ac\u201c Citt\u00c3\u00a0 del Tricolore",
+    "Home": "Sassuolo",
+    "Away": "Chievoverona",
+    "Result": ""
+  },
+  {
+    "Matchday": 30,
+    "Date": "04/03/2019 9:00",
+    "Location": "Stadio Paolo Mazza",
+    "Home": "Spal",
+    "Away": "Lazio",
+    "Result": ""
+  },
+  {
+    "Matchday": 30,
+    "Date": "04/03/2019 9:00",
+    "Location": "Stadio Olimpico Grande Torino",
+    "Home": "Torino",
+    "Away": "Sampdoria",
+    "Result": ""
+  },
+  {
+    "Matchday": 31,
+    "Date": "04/07/2019 8:00",
+    "Location": "Stadio Renato Dall'Ara",
+    "Home": "Bologna",
+    "Away": "Chievoverona",
+    "Result": ""
+  },
+  {
+    "Matchday": 31,
+    "Date": "04/07/2019 8:00",
+    "Location": "Sardegna Arena",
+    "Home": "Cagliari",
+    "Away": "Spal",
+    "Result": ""
+  },
+  {
+    "Matchday": 31,
+    "Date": "04/07/2019 8:00",
+    "Location": "Stadio Artemio Franchi",
+    "Home": "Fiorentina",
+    "Away": "Frosinone",
+    "Result": ""
+  },
+  {
+    "Matchday": 31,
+    "Date": "04/07/2019 8:00",
+    "Location": "Stadio Giuseppe Meazza",
+    "Home": "Inter",
+    "Away": "Atalanta",
+    "Result": ""
+  },
+  {
+    "Matchday": 31,
+    "Date": "04/07/2019 8:00",
+    "Location": "Stadio Olimpico",
+    "Home": "Lazio",
+    "Away": "Sassuolo",
+    "Result": ""
+  },
+  {
+    "Matchday": 31,
+    "Date": "04/07/2019 8:00",
+    "Location": "Stadio San Paolo",
+    "Home": "Napoli",
+    "Away": "Genoa",
+    "Result": ""
+  },
+  {
+    "Matchday": 31,
+    "Date": "04/07/2019 8:00",
+    "Location": "Stadio Ennio Tardini",
+    "Home": "Parma",
+    "Away": "Torino",
+    "Result": ""
+  },
+  {
+    "Matchday": 31,
+    "Date": "04/07/2019 8:00",
+    "Location": "Stadio Luigi Ferraris",
+    "Home": "Sampdoria",
+    "Away": "Roma",
+    "Result": ""
+  },
+  {
+    "Matchday": 31,
+    "Date": "04/07/2019 8:00",
+    "Location": "Stadio Friuli",
+    "Home": "Udinese",
+    "Away": "Empoli",
+    "Result": ""
+  },
+  {
+    "Matchday": 31,
+    "Date": "04/08/2019 4:30",
+    "Location": "Allianz Stadium",
+    "Home": "Juventus",
+    "Away": "Milan",
+    "Result": ""
+  },
+  {
+    "Matchday": 32,
+    "Date": "04/14/2019 8:00",
+    "Location": "Stadio Atleti Azzurri d'Italia",
+    "Home": "Atalanta",
+    "Away": "Empoli",
+    "Result": ""
+  },
+  {
+    "Matchday": 32,
+    "Date": "04/14/2019 8:00",
+    "Location": "Stadio Marc'Antonio Bentegodi",
+    "Home": "Chievoverona",
+    "Away": "Napoli",
+    "Result": ""
+  },
+  {
+    "Matchday": 32,
+    "Date": "04/14/2019 8:00",
+    "Location": "Stadio Artemio Franchi",
+    "Home": "Fiorentina",
+    "Away": "Bologna",
+    "Result": ""
+  },
+  {
+    "Matchday": 32,
+    "Date": "04/14/2019 8:00",
+    "Location": "Stadio Benito Stirpe",
+    "Home": "Frosinone",
+    "Away": "Inter",
+    "Result": ""
+  },
+  {
+    "Matchday": 32,
+    "Date": "04/14/2019 8:00",
+    "Location": "Stadio Giuseppe Meazza",
+    "Home": "Milan",
+    "Away": "Lazio",
+    "Result": ""
+  },
+  {
+    "Matchday": 32,
+    "Date": "04/14/2019 8:00",
+    "Location": "Stadio Olimpico",
+    "Home": "Roma",
+    "Away": "Udinese",
+    "Result": ""
+  },
+  {
+    "Matchday": 32,
+    "Date": "04/14/2019 8:00",
+    "Location": "Stadio Luigi Ferraris",
+    "Home": "Sampdoria",
+    "Away": "Genoa",
+    "Result": ""
+  },
+  {
+    "Matchday": 32,
+    "Date": "04/14/2019 8:00",
+    "Location": "Mapei Stadium \u00e2\u20ac\u201c Citt\u00c3\u00a0 del Tricolore",
+    "Home": "Sassuolo",
+    "Away": "Parma",
+    "Result": ""
+  },
+  {
+    "Matchday": 32,
+    "Date": "04/14/2019 8:00",
+    "Location": "Stadio Paolo Mazza",
+    "Home": "Spal",
+    "Away": "Juventus",
+    "Result": ""
+  },
+  {
+    "Matchday": 32,
+    "Date": "04/14/2019 8:00",
+    "Location": "Stadio Olimpico Grande Torino",
+    "Home": "Torino",
+    "Away": "Cagliari",
+    "Result": ""
+  },
+  {
+    "Matchday": 33,
+    "Date": "04/20/2019 8:00",
+    "Location": "Stadio Renato Dall'Ara",
+    "Home": "Bologna",
+    "Away": "Sampdoria",
+    "Result": ""
+  },
+  {
+    "Matchday": 33,
+    "Date": "04/20/2019 8:00",
+    "Location": "Sardegna Arena",
+    "Home": "Cagliari",
+    "Away": "Frosinone",
+    "Result": ""
+  },
+  {
+    "Matchday": 33,
+    "Date": "04/20/2019 8:00",
+    "Location": "Stadio Carlo Castellani",
+    "Home": "Empoli",
+    "Away": "Spal",
+    "Result": ""
+  },
+  {
+    "Matchday": 33,
+    "Date": "04/20/2019 8:00",
+    "Location": "Stadio Luigi Ferraris",
+    "Home": "Genoa",
+    "Away": "Torino",
+    "Result": ""
+  },
+  {
+    "Matchday": 33,
+    "Date": "04/20/2019 8:00",
+    "Location": "Allianz Stadium",
+    "Home": "Juventus",
+    "Away": "Fiorentina",
+    "Result": ""
+  },
+  {
+    "Matchday": 33,
+    "Date": "04/20/2019 8:00",
+    "Location": "Stadio Olimpico",
+    "Home": "Lazio",
+    "Away": "Chievoverona",
+    "Result": ""
+  },
+  {
+    "Matchday": 33,
+    "Date": "04/20/2019 8:00",
+    "Location": "Stadio San Paolo",
+    "Home": "Napoli",
+    "Away": "Atalanta",
+    "Result": ""
+  },
+  {
+    "Matchday": 33,
+    "Date": "04/20/2019 8:00",
+    "Location": "Stadio Ennio Tardini",
+    "Home": "Parma",
+    "Away": "Milan",
+    "Result": ""
+  },
+  {
+    "Matchday": 33,
+    "Date": "04/20/2019 8:00",
+    "Location": "Stadio Friuli",
+    "Home": "Udinese",
+    "Away": "Sassuolo",
+    "Result": ""
+  },
+  {
+    "Matchday": 33,
+    "Date": "04/21/2019 4:30",
+    "Location": "Stadio Giuseppe Meazza",
+    "Home": "Inter",
+    "Away": "Roma",
+    "Result": ""
+  },
+  {
+    "Matchday": 34,
+    "Date": "04/28/2019 4:30",
+    "Location": "Stadio Giuseppe Meazza",
+    "Home": "Inter",
+    "Away": "Juventus",
+    "Result": ""
+  },
+  {
+    "Matchday": 34,
+    "Date": "04/28/2019 8:00",
+    "Location": "Stadio Atleti Azzurri d'Italia",
+    "Home": "Atalanta",
+    "Away": "Udinese",
+    "Result": ""
+  },
+  {
+    "Matchday": 34,
+    "Date": "04/28/2019 8:00",
+    "Location": "Stadio Renato Dall'Ara",
+    "Home": "Bologna",
+    "Away": "Empoli",
+    "Result": ""
+  },
+  {
+    "Matchday": 34,
+    "Date": "04/28/2019 8:00",
+    "Location": "Stadio Marc'Antonio Bentegodi",
+    "Home": "Chievoverona",
+    "Away": "Parma",
+    "Result": ""
+  },
+  {
+    "Matchday": 34,
+    "Date": "04/28/2019 8:00",
+    "Location": "Stadio Artemio Franchi",
+    "Home": "Fiorentina",
+    "Away": "Sassuolo",
+    "Result": ""
+  },
+  {
+    "Matchday": 34,
+    "Date": "04/28/2019 8:00",
+    "Location": "Stadio Benito Stirpe",
+    "Home": "Frosinone",
+    "Away": "Napoli",
+    "Result": ""
+  },
+  {
+    "Matchday": 34,
+    "Date": "04/28/2019 8:00",
+    "Location": "Stadio Olimpico",
+    "Home": "Roma",
+    "Away": "Cagliari",
+    "Result": ""
+  },
+  {
+    "Matchday": 34,
+    "Date": "04/28/2019 8:00",
+    "Location": "Stadio Luigi Ferraris",
+    "Home": "Sampdoria",
+    "Away": "Lazio",
+    "Result": ""
+  },
+  {
+    "Matchday": 34,
+    "Date": "04/28/2019 8:00",
+    "Location": "Stadio Paolo Mazza",
+    "Home": "Spal",
+    "Away": "Genoa",
+    "Result": ""
+  },
+  {
+    "Matchday": 34,
+    "Date": "04/28/2019 8:00",
+    "Location": "Stadio Olimpico Grande Torino",
+    "Home": "Torino",
+    "Away": "Milan",
+    "Result": ""
+  },
+  {
+    "Matchday": 35,
+    "Date": "05/05/2019 8:00",
+    "Location": "Stadio Marc'Antonio Bentegodi",
+    "Home": "Chievoverona",
+    "Away": "Spal",
+    "Result": ""
+  },
+  {
+    "Matchday": 35,
+    "Date": "05/05/2019 8:00",
+    "Location": "Stadio Carlo Castellani",
+    "Home": "Empoli",
+    "Away": "Fiorentina",
+    "Result": ""
+  },
+  {
+    "Matchday": 35,
+    "Date": "05/05/2019 8:00",
+    "Location": "Stadio Luigi Ferraris",
+    "Home": "Genoa",
+    "Away": "Roma",
+    "Result": ""
+  },
+  {
+    "Matchday": 35,
+    "Date": "05/05/2019 8:00",
+    "Location": "Allianz Stadium",
+    "Home": "Juventus",
+    "Away": "Torino",
+    "Result": ""
+  },
+  {
+    "Matchday": 35,
+    "Date": "05/05/2019 8:00",
+    "Location": "Stadio Olimpico",
+    "Home": "Lazio",
+    "Away": "Atalanta",
+    "Result": ""
+  },
+  {
+    "Matchday": 35,
+    "Date": "05/05/2019 8:00",
+    "Location": "Stadio Giuseppe Meazza",
+    "Home": "Milan",
+    "Away": "Bologna",
+    "Result": ""
+  },
+  {
+    "Matchday": 35,
+    "Date": "05/05/2019 8:00",
+    "Location": "Stadio San Paolo",
+    "Home": "Napoli",
+    "Away": "Cagliari",
+    "Result": ""
+  },
+  {
+    "Matchday": 35,
+    "Date": "05/05/2019 8:00",
+    "Location": "Stadio Ennio Tardini",
+    "Home": "Parma",
+    "Away": "Sampdoria",
+    "Result": ""
+  },
+  {
+    "Matchday": 35,
+    "Date": "05/05/2019 8:00",
+    "Location": "Mapei Stadium \u00e2\u20ac\u201c Citt\u00c3\u00a0 del Tricolore",
+    "Home": "Sassuolo",
+    "Away": "Frosinone",
+    "Result": ""
+  },
+  {
+    "Matchday": 35,
+    "Date": "05/05/2019 8:00",
+    "Location": "Stadio Friuli",
+    "Home": "Udinese",
+    "Away": "Inter",
+    "Result": ""
+  },
+  {
+    "Matchday": 36,
+    "Date": "05/12/2019 8:00",
+    "Location": "Stadio Atleti Azzurri d'Italia",
+    "Home": "Atalanta",
+    "Away": "Genoa",
+    "Result": ""
+  },
+  {
+    "Matchday": 36,
+    "Date": "05/12/2019 8:00",
+    "Location": "Stadio Renato Dall'Ara",
+    "Home": "Bologna",
+    "Away": "Parma",
+    "Result": ""
+  },
+  {
+    "Matchday": 36,
+    "Date": "05/12/2019 8:00",
+    "Location": "Sardegna Arena",
+    "Home": "Cagliari",
+    "Away": "Lazio",
+    "Result": ""
+  },
+  {
+    "Matchday": 36,
+    "Date": "05/12/2019 8:00",
+    "Location": "Stadio Artemio Franchi",
+    "Home": "Fiorentina",
+    "Away": "Milan",
+    "Result": ""
+  },
+  {
+    "Matchday": 36,
+    "Date": "05/12/2019 8:00",
+    "Location": "Stadio Benito Stirpe",
+    "Home": "Frosinone",
+    "Away": "Udinese",
+    "Result": ""
+  },
+  {
+    "Matchday": 36,
+    "Date": "05/12/2019 8:00",
+    "Location": "Stadio Giuseppe Meazza",
+    "Home": "Inter",
+    "Away": "Chievoverona",
+    "Result": ""
+  },
+  {
+    "Matchday": 36,
+    "Date": "05/12/2019 8:00",
+    "Location": "Stadio Luigi Ferraris",
+    "Home": "Sampdoria",
+    "Away": "Empoli",
+    "Result": ""
+  },
+  {
+    "Matchday": 36,
+    "Date": "05/12/2019 8:00",
+    "Location": "Stadio Paolo Mazza",
+    "Home": "Spal",
+    "Away": "Napoli",
+    "Result": ""
+  },
+  {
+    "Matchday": 36,
+    "Date": "05/12/2019 8:00",
+    "Location": "Stadio Olimpico Grande Torino",
+    "Home": "Torino",
+    "Away": "Sassuolo",
+    "Result": ""
+  },
+  {
+    "Matchday": 36,
+    "Date": "05/13/2019 4:30",
+    "Location": "Stadio Olimpico",
+    "Home": "Roma",
+    "Away": "Juventus",
+    "Result": ""
+  },
+  {
+    "Matchday": 37,
+    "Date": "05/19/2019 8:00",
+    "Location": "Stadio Marc'Antonio Bentegodi",
+    "Home": "Chievoverona",
+    "Away": "Sampdoria",
+    "Result": ""
+  },
+  {
+    "Matchday": 37,
+    "Date": "05/19/2019 8:00",
+    "Location": "Stadio Carlo Castellani",
+    "Home": "Empoli",
+    "Away": "Torino",
+    "Result": ""
+  },
+  {
+    "Matchday": 37,
+    "Date": "05/19/2019 8:00",
+    "Location": "Stadio Luigi Ferraris",
+    "Home": "Genoa",
+    "Away": "Cagliari",
+    "Result": ""
+  },
+  {
+    "Matchday": 37,
+    "Date": "05/19/2019 8:00",
+    "Location": "Allianz Stadium",
+    "Home": "Juventus",
+    "Away": "Atalanta",
+    "Result": ""
+  },
+  {
+    "Matchday": 37,
+    "Date": "05/19/2019 8:00",
+    "Location": "Stadio Olimpico",
+    "Home": "Lazio",
+    "Away": "Bologna",
+    "Result": ""
+  },
+  {
+    "Matchday": 37,
+    "Date": "05/19/2019 8:00",
+    "Location": "Stadio Giuseppe Meazza",
+    "Home": "Milan",
+    "Away": "Frosinone",
+    "Result": ""
+  },
+  {
+    "Matchday": 37,
+    "Date": "05/19/2019 8:00",
+    "Location": "Stadio Ennio Tardini",
+    "Home": "Parma",
+    "Away": "Fiorentina",
+    "Result": ""
+  },
+  {
+    "Matchday": 37,
+    "Date": "05/19/2019 8:00",
+    "Location": "Mapei Stadium \u00e2\u20ac\u201c Citt\u00c3\u00a0 del Tricolore",
+    "Home": "Sassuolo",
+    "Away": "Roma",
+    "Result": ""
+  },
+  {
+    "Matchday": 37,
+    "Date": "05/19/2019 8:00",
+    "Location": "Stadio Friuli",
+    "Home": "Udinese",
+    "Away": "Spal",
+    "Result": ""
+  },
+  {
+    "Matchday": 37,
+    "Date": "05/20/2019 4:30",
+    "Location": "Stadio San Paolo",
+    "Home": "Napoli",
+    "Away": "Inter",
+    "Result": ""
+  },
+  {
+    "Matchday": 38,
+    "Date": "05/26/2019 8:00",
+    "Location": "Stadio Atleti Azzurri d'Italia",
+    "Home": "Atalanta",
+    "Away": "Sassuolo",
+    "Result": ""
+  },
+  {
+    "Matchday": 38,
+    "Date": "05/26/2019 8:00",
+    "Location": "Stadio Renato Dall'Ara",
+    "Home": "Bologna",
+    "Away": "Napoli",
+    "Result": ""
+  },
+  {
+    "Matchday": 38,
+    "Date": "05/26/2019 8:00",
+    "Location": "Sardegna Arena",
+    "Home": "Cagliari",
+    "Away": "Udinese",
+    "Result": ""
+  },
+  {
+    "Matchday": 38,
+    "Date": "05/26/2019 8:00",
+    "Location": "Stadio Artemio Franchi",
+    "Home": "Fiorentina",
+    "Away": "Genoa",
+    "Result": ""
+  },
+  {
+    "Matchday": 38,
+    "Date": "05/26/2019 8:00",
+    "Location": "Stadio Benito Stirpe",
+    "Home": "Frosinone",
+    "Away": "Chievoverona",
+    "Result": ""
+  },
+  {
+    "Matchday": 38,
+    "Date": "05/26/2019 8:00",
+    "Location": "Stadio Giuseppe Meazza",
+    "Home": "Inter",
+    "Away": "Empoli",
+    "Result": ""
+  },
+  {
+    "Matchday": 38,
+    "Date": "05/26/2019 8:00",
+    "Location": "Stadio Olimpico",
+    "Home": "Roma",
+    "Away": "Parma",
+    "Result": ""
+  },
+  {
+    "Matchday": 38,
+    "Date": "05/26/2019 8:00",
+    "Location": "Stadio Luigi Ferraris",
+    "Home": "Sampdoria",
+    "Away": "Juventus",
+    "Result": ""
+  },
+  {
+    "Matchday": 38,
+    "Date": "05/26/2019 8:00",
+    "Location": "Stadio Paolo Mazza",
+    "Home": "Spal",
+    "Away": "Milan",
+    "Result": ""
+  },
+  {
+    "Matchday": 38,
+    "Date": "05/26/2019 8:00",
+    "Location": "Stadio Olimpico Grande Torino",
+    "Home": "Torino",
+    "Away": "Lazio",
+    "Result": ""
+  }
+]

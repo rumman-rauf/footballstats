@@ -1,0 +1,107 @@
+[
+  {
+    "name": "Pierre-Emerick Aubameyang",
+    "club": "Arsenal",
+    "amount": "22",
+    "nation": "Gabon",
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Flag_of_Gabon.svg/20px-Flag_of_Gabon.svg.png"
+  },
+  {
+    "name": "Sadio Man\u00e9",
+    "club": "Liverpool",
+    "amount": 22,
+    "nation": "Senegal",
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Flag_of_Senegal.svg/23px-Flag_of_Senegal.svg.png"
+  },
+  {
+    "name": "Mohamed Salah",
+    "club": "Liverpool",
+    "amount": 22,
+    "nation": "Egypt",
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Egypt.svg/23px-Flag_of_Egypt.svg.png"
+  },
+  {
+    "name": "Sergio Ag\u00fcero",
+    "club": "Manchester City",
+    "amount": "21",
+    "nation": "Argentina",
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/23px-Flag_of_Argentina.svg.png"
+  },
+  {
+    "name": "Jamie Vardy",
+    "club": "Leicester City",
+    "amount": "18",
+    "nation": "England",
+    "flag": "https://upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/23px-Flag_of_England.svg.png"
+  },
+  {
+    "name": "Harry Kane",
+    "club": "Tottenham Hotspur",
+    "amount": "17",
+    "nation": "England",
+    "flag": "https://upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/23px-Flag_of_England.svg.png"
+  },
+  {
+    "name": "Raheem Sterling",
+    "club": "Manchester City",
+    "amount": 17,
+    "nation": "England",
+    "flag": "https://upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/23px-Flag_of_England.svg.png"
+  },
+  {
+    "name": "Eden Hazard",
+    "club": "Chelsea",
+    "amount": "16",
+    "nation": "Belgium",
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Belgium_%28civil%29.svg/23px-Flag_of_Belgium_%28civil%29.svg.png"
+  },
+  {
+    "name": "Callum Wilson",
+    "club": "Bournemouth",
+    "amount": "14",
+    "nation": "England",
+    "flag": "https://upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/23px-Flag_of_England.svg.png"
+  },
+  {
+    "name": "Ra\u00fal Jim\u00e9nez",
+    "club": "Wolverhampton Wanderers",
+    "amount": "13",
+    "nation": "Mexico",
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/23px-Flag_of_Mexico.svg.png"
+  },
+  {
+    "name": "Alexandre Lacazette",
+    "club": "Arsenal",
+    "amount": 13,
+    "nation": "France",
+    "flag": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/23px-Flag_of_France.svg.png"
+  },
+  {
+    "name": "Glenn Murray",
+    "club": "Brighton & Hove Albion",
+    "amount": 13,
+    "nation": "England",
+    "flag": "https://upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/23px-Flag_of_England.svg.png"
+  },
+  {
+    "name": "Paul Pogba",
+    "club": "Manchester United",
+    "amount": 13,
+    "nation": "France",
+    "flag": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/23px-Flag_of_France.svg.png"
+  },
+  {
+    "name": "Richarlison",
+    "club": "Everton",
+    "amount": 13,
+    "nation": "Brazil",
+    "flag": "https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/22px-Flag_of_Brazil.svg.png"
+  },
+  {
+    "name": "Gylfi Sigur\u00f0sson",
+    "club": "Everton",
+    "amount": 13,
+    "nation": "Iceland",
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Iceland.svg/21px-Flag_of_Iceland.svg.png"
+  }
+]
